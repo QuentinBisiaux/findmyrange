@@ -1,0 +1,2196 @@
+Copie pour tournoi #3556350638 demandée par RayuRuna (quentin.bisiaux+poker@gmail.com)
+
+*********** # 1 **************
+Main PokerStars n°242401340409 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:30:15 CET [12/03/2023 12:30:15 ET]
+Table '3556350638 28' 9-max Siège #1 est au bouton.
+Place 1: Magnum974RUN (10000 en jetons)
+Place 2: rafonso9 (10000 en jetons)
+Place 3: Obikeno60 (10000 en jetons)
+Place 4: leviathan89100 (10000 en jetons) ne joue pas.
+Place 5: Warexale (10000 en jetons)
+Place 6: L1verpoo1 (10000 en jetons)
+Place 7: RayuRuna (10000 en jetons)
+Place 8: GOTEDAN (10000 en jetons)
+Place 9: Nasira90 (10000 en jetons)
+Magnum974RUN : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+Nasira90 : met l'ante. 5
+rafonso9 : met la petite blind. 25
+Obikeno60 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s Kd]
+leviathan89100 : passe.
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna a dépassé le temps imparti.
+RayuRuna : passe.
+RayuRuna ne joue pas.
+GOTEDAN : suit. 50
+Nasira90 : suit. 50
+Magnum974RUN : suit. 50
+rafonso9 : suit. 25
+Obikeno60 : parole
+*** FLOP *** [3c Ac 6c]
+rafonso9 : parole
+Obikeno60 : parole
+GOTEDAN : mise. 150
+Nasira90 : passe.
+Magnum974RUN : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+Personne n'a suivi. (150) sont retournés à GOTEDAN.
+GOTEDAN a remporté 295  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 295 | Commission 0
+Tableau [3c Ac 6c]
+Siège 1 : Magnum974RUN (bouton) s'est couché. sur le Flop
+Siège 2 : rafonso9 (petite blind) s'est couché. sur le Flop
+Siège 3 : Obikeno60 (grosse blind) s'est couché. sur le Flop
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a remporté (295)
+Siège 9 : Nasira90 s'est couché. sur le Flop
+
+
+*********** # 2 **************
+Main PokerStars n°242401378561 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:31:55 CET [12/03/2023 12:31:55 ET]
+Table '3556350638 28' 9-max Siège #2 est au bouton.
+Place 1: Magnum974RUN (9945 en jetons)
+Place 2: rafonso9 (9945 en jetons)
+Place 3: Obikeno60 (9945 en jetons)
+Place 4: leviathan89100 (9995 en jetons) ne joue pas.
+Place 5: Warexale (9995 en jetons)
+Place 6: L1verpoo1 (9995 en jetons)
+Place 7: RayuRuna (9995 en jetons) ne joue pas.
+Place 8: GOTEDAN (10240 en jetons)
+Place 9: Nasira90 (9945 en jetons)
+Magnum974RUN : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+Nasira90 : met l'ante. 5
+Obikeno60 : met la petite blind. 25
+leviathan89100 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3s 4s]
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 50
+Nasira90 : passe.
+Magnum974RUN : suit. 50
+rafonso9 : relance. 225 à 275
+Obikeno60 : passe.
+leviathan89100 : passe.
+GOTEDAN : passe.
+Magnum974RUN : passe.
+Personne n'a suivi. (225) sont retournés à rafonso9.
+rafonso9 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0
+Siège 1 : Magnum974RUN s'est couché. avant Flop
+Siège 2 : rafonso9 (bouton) a remporté (270)
+Siège 3 : Obikeno60 (petite blind) s'est couché. avant Flop
+Siège 4 : leviathan89100 (grosse blind) s'est couché. avant Flop
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop
+Siège 9 : Nasira90 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 3 **************
+Main PokerStars n°242401393729 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:32:35 CET [12/03/2023 12:32:35 ET]
+Table '3556350638 28' 9-max Siège #3 est au bouton.
+Place 1: Magnum974RUN (9890 en jetons)
+Place 2: rafonso9 (10160 en jetons)
+Place 3: Obikeno60 (9915 en jetons)
+Place 4: leviathan89100 (9940 en jetons) ne joue pas.
+Place 5: Warexale (9990 en jetons)
+Place 6: L1verpoo1 (9990 en jetons)
+Place 7: RayuRuna (9990 en jetons) ne joue pas.
+Place 8: GOTEDAN (10185 en jetons)
+Place 9: Nasira90 (9940 en jetons)
+Magnum974RUN : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+Nasira90 : met l'ante. 5
+leviathan89100 : met la petite blind. 25
+Warexale : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5s Th]
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 50
+Nasira90 : passe.
+Magnum974RUN : suit. 50
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 350 à 400
+GOTEDAN : relance. 9780 à 10180 et est all-in.
+Magnum974RUN : passe.
+Warexale : passe.
+Personne n'a suivi. (9780) sont retournés à GOTEDAN.
+GOTEDAN a remporté 920  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0
+Siège 1 : Magnum974RUN s'est couché. avant Flop
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (petite blind) s'est couché. avant Flop
+Siège 5 : Warexale (grosse blind) s'est couché. avant Flop
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a remporté (920)
+Siège 9 : Nasira90 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 4 **************
+Main PokerStars n°242401417003 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:33:35 CET [12/03/2023 12:33:35 ET]
+Table '3556350638 28' 9-max Siège #4 est au bouton.
+Place 1: Magnum974RUN (9835 en jetons)
+Place 2: rafonso9 (10155 en jetons)
+Place 3: Obikeno60 (9910 en jetons)
+Place 4: leviathan89100 (9910 en jetons) ne joue pas.
+Place 5: Warexale (9585 en jetons)
+Place 6: L1verpoo1 (9985 en jetons)
+Place 7: RayuRuna (9985 en jetons) ne joue pas.
+Place 8: GOTEDAN (10700 en jetons)
+Place 9: Nasira90 (9935 en jetons)
+Magnum974RUN : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+Nasira90 : met l'ante. 5
+Warexale : met la petite blind. 25
+L1verpoo1 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kc 6s]
+RayuRuna : passe.
+GOTEDAN : suit. 50
+Nasira90 : passe.
+Magnum974RUN : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+L1verpoo1 : parole
+*** FLOP *** [Qc 4c 8h]
+L1verpoo1 : parole
+GOTEDAN : parole
+*** TOURNANT *** [Qc 4c 8h] [9s]
+RayuRuna est revenu.
+L1verpoo1 : parole
+GOTEDAN : mise. 170
+L1verpoo1 : suit. 170
+*** RIVIÈRE *** [Qc 4c 8h 9s] [As]
+L1verpoo1 : parole
+GOTEDAN : parole
+*** ABATTAGE ***
+L1verpoo1 : montre [Kh Jd] (Hauteur As)
+GOTEDAN : montre [9c 6c] (une paire de Neuf)
+GOTEDAN a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0
+Tableau [Qc 4c 8h 9s As]
+Siège 1 : Magnum974RUN s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (petite blind) s'est couché. avant Flop
+Siège 6 : L1verpoo1 (grosse blind) a montré [Kh Jd] et a perdu avec Hauteur As
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a montré [9c 6c] et a gagné (510) avec une paire de Neuf
+Siège 9 : Nasira90 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 5 **************
+Main PokerStars n°242401440886 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:34:37 CET [12/03/2023 12:34:37 ET]
+Table '3556350638 28' 9-max Siège #5 est au bouton.
+Place 2: rafonso9 (10150 en jetons)
+Place 3: Obikeno60 (9905 en jetons)
+Place 4: leviathan89100 (9905 en jetons) ne joue pas.
+Place 5: Warexale (9555 en jetons)
+Place 6: L1verpoo1 (9760 en jetons)
+Place 7: RayuRuna (9980 en jetons)
+Place 8: GOTEDAN (10985 en jetons)
+Place 9: Nasira90 (9930 en jetons)
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+Nasira90 : met l'ante. 5
+L1verpoo1 : met la petite blind. 25
+RayuRuna : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7d 2d]
+GOTEDAN : relance. 150 à 200
+Nasira90 : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+EFHBOC est déconnecté
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna : passe.
+Personne n'a suivi. (150) sont retournés à GOTEDAN.
+GOTEDAN a remporté 165  lors du pot .
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 (petite blind) s'est couché. avant Flop
+Siège 7 : RayuRuna (grosse blind) s'est couché. avant Flop
+Siège 8 : GOTEDAN a remporté (165)
+Siège 9 : Nasira90 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 6 **************
+Main PokerStars n°242401453432 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:35:10 CET [12/03/2023 12:35:10 ET]
+Table '3556350638 28' 9-max Siège #6 est au bouton.
+Place 1: EFHBOC (10000 en jetons)
+Place 2: rafonso9 (10145 en jetons)
+Place 3: Obikeno60 (9900 en jetons)
+Place 4: leviathan89100 (9900 en jetons) ne joue pas.
+Place 5: Warexale (9550 en jetons)
+Place 6: L1verpoo1 (9730 en jetons)
+Place 7: RayuRuna (9925 en jetons)
+Place 8: GOTEDAN (11095 en jetons)
+Place 9: Nasira90 (9925 en jetons)
+EFHBOC : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+Nasira90 : met l'ante. 5
+RayuRuna : met la petite blind. 25
+GOTEDAN : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8d Js]
+Nasira90 : passe.
+EFHBOC : passe.
+rafonso9 : relance. 55 à 105
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : relance. 280 à 385
+rafonso9 : suit. 280
+*** FLOP *** [6h 3h Th]
+GOTEDAN : mise. 840
+rafonso9 : passe.
+Personne n'a suivi. (840) sont retournés à GOTEDAN.
+GOTEDAN a remporté 840  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0
+Tableau [6h 3h Th]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. sur le Flop
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 8 : GOTEDAN (grosse blind) a remporté (840)
+Siège 9 : Nasira90 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 7 **************
+Main PokerStars n°242401478360 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:36:15 CET [12/03/2023 12:36:15 ET]
+Table '3556350638 28' 9-max Siège #7 est au bouton.
+Place 1: EFHBOC (9995 en jetons)
+Place 2: rafonso9 (9755 en jetons)
+Place 3: Obikeno60 (9895 en jetons)
+Place 4: leviathan89100 (9895 en jetons) ne joue pas.
+Place 5: Warexale (9545 en jetons)
+Place 6: L1verpoo1 (9725 en jetons)
+Place 7: RayuRuna (9895 en jetons)
+Place 8: GOTEDAN (11545 en jetons)
+EFHBOC : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+GOTEDAN : met la petite blind. 25
+EFHBOC : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s 8d]
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 25
+EFHBOC : parole
+*** FLOP *** [Jd 3d As]
+GOTEDAN : mise. 50
+EFHBOC : passe.
+Personne n'a suivi. (50) sont retournés à GOTEDAN.
+GOTEDAN a remporté 140  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0
+Tableau [Jd 3d As]
+Siège 1 : EFHBOC (grosse blind) s'est couché. sur le Flop
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (petite blind) a remporté (140)
+
+
+*********** # 8 **************
+Main PokerStars n°242401494471 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:36:57 CET [12/03/2023 12:36:57 ET]
+Table '3556350638 28' 9-max Siège #8 est au bouton.
+Place 1: EFHBOC (9940 en jetons)
+Place 2: rafonso9 (9750 en jetons)
+Place 3: Obikeno60 (9890 en jetons)
+Place 4: leviathan89100 (9890 en jetons) ne joue pas.
+Place 5: Warexale (9540 en jetons)
+Place 6: L1verpoo1 (9720 en jetons)
+Place 7: RayuRuna (9890 en jetons)
+Place 8: GOTEDAN (11630 en jetons)
+Place 9: miguelmv1989 (10000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+miguelmv1989 sera autorisé à jouer après le bouton.
+EFHBOC : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+EFHBOC : met la petite blind. 25
+rafonso9 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9d 3d]
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : passe.
+EFHBOC : passe.
+Personne n'a suivi. (25) sont retournés à rafonso9.
+rafonso9 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0
+Siège 1 : EFHBOC (petite blind) s'est couché. avant Flop
+Siège 2 : rafonso9 (grosse blind) a remporté (90)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 9 **************
+Main PokerStars n°242401508955 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:37:34 CET [12/03/2023 12:37:34 ET]
+Table '3556350638 28' 9-max Siège #1 est au bouton.
+Place 1: EFHBOC (9910 en jetons)
+Place 2: rafonso9 (9810 en jetons)
+Place 3: Obikeno60 (9885 en jetons)
+Place 4: leviathan89100 (9885 en jetons) ne joue pas.
+Place 5: Warexale (9535 en jetons)
+Place 6: L1verpoo1 (9715 en jetons)
+Place 7: RayuRuna (9885 en jetons)
+Place 8: GOTEDAN (11625 en jetons)
+Place 9: miguelmv1989 (10000 en jetons)
+EFHBOC : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+miguelmv1989 : met l'ante. 5
+rafonso9 : met la petite blind. 25
+Obikeno60 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6h 9c]
+leviathan89100 : passe.
+Warexale : passe.
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 50
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : parole
+*** FLOP *** [6s 4s 9s]
+Obikeno60 : parole
+GOTEDAN : mise. 170
+Obikeno60 : passe.
+Personne n'a suivi. (170) sont retournés à GOTEDAN.
+GOTEDAN a remporté 170  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0
+Tableau [6s 4s 9s]
+Siège 1 : EFHBOC (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (petite blind) s'est couché. avant Flop
+Siège 3 : Obikeno60 (grosse blind) s'est couché. sur le Flop
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a remporté (170)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 10 **************
+Main PokerStars n°242401524919 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (25/50) - 12/03/2023 17:38:16 CET [12/03/2023 12:38:16 ET]
+Table '3556350638 28' 9-max Siège #2 est au bouton.
+Place 1: EFHBOC (9905 en jetons)
+Place 2: rafonso9 (9780 en jetons)
+Place 3: Obikeno60 (9830 en jetons)
+Place 4: leviathan89100 (9880 en jetons) ne joue pas.
+Place 5: Warexale (9530 en jetons)
+Place 6: L1verpoo1 (9710 en jetons)
+Place 7: RayuRuna (9880 en jetons)
+Place 8: GOTEDAN (11740 en jetons)
+Place 9: miguelmv1989 (9995 en jetons)
+EFHBOC : met l'ante. 5
+rafonso9 : met l'ante. 5
+Obikeno60 : met l'ante. 5
+leviathan89100 : met l'ante. 5
+Warexale : met l'ante. 5
+L1verpoo1 : met l'ante. 5
+RayuRuna : met l'ante. 5
+GOTEDAN : met l'ante. 5
+miguelmv1989 : met l'ante. 5
+Obikeno60 : met la petite blind. 25
+leviathan89100 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [As 2s]
+Warexale : relance. 100 à 150
+L1verpoo1 : passe.
+RayuRuna : suit. 150
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : suit. 125
+leviathan89100 : passe.
+*** FLOP *** [Qh 9c 5s]
+Obikeno60 : parole
+Warexale : mise. 180
+RayuRuna : passe.
+Obikeno60 : passe.
+Personne n'a suivi. (180) sont retournés à Warexale.
+Warexale a remporté 545  lors du pot .
+Warexale : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 545 | Commission 0
+Tableau [Qh 9c 5s]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 (petite blind) s'est couché. sur le Flop
+Siège 4 : leviathan89100 (grosse blind) s'est couché. avant Flop
+Siège 5 : Warexale a remporté (545)
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 11 **************
+Main PokerStars n°242401548569 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:39:16 CET [12/03/2023 12:39:16 ET]
+Table '3556350638 28' 9-max Siège #3 est au bouton.
+Place 1: EFHBOC (9900 en jetons)
+Place 2: rafonso9 (9775 en jetons)
+Place 3: Obikeno60 (9675 en jetons)
+Place 4: leviathan89100 (9825 en jetons) ne joue pas.
+Place 5: Warexale (9920 en jetons)
+Place 6: L1verpoo1 (9705 en jetons)
+Place 7: RayuRuna (9725 en jetons)
+Place 8: GOTEDAN (11735 en jetons)
+Place 9: miguelmv1989 (9990 en jetons)
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+L1verpoo1 : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+leviathan89100 : met la petite blind. 30
+Warexale : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9c 5h]
+L1verpoo1 : passe.
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : relance. 66 à 126
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+Personne n'a suivi. (66) sont retournés à rafonso9.
+rafonso9 a remporté 204  lors du pot .
+*** SYNTHÈSE ***
+Pot total 204 | Commission 0
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 a remporté (204)
+Siège 3 : Obikeno60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (petite blind) s'est couché. avant Flop
+Siège 5 : Warexale (grosse blind) s'est couché. avant Flop
+Siège 6 : L1verpoo1 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 12 **************
+Main PokerStars n°242401564814 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:39:58 CET [12/03/2023 12:39:58 ET]
+Table '3556350638 28' 9-max Siège #4 est au bouton.
+Place 1: EFHBOC (9894 en jetons)
+Place 2: rafonso9 (9913 en jetons)
+Place 3: Obikeno60 (9669 en jetons)
+Place 4: leviathan89100 (9789 en jetons) ne joue pas.
+Place 5: Warexale (9854 en jetons)
+Place 7: RayuRuna (9719 en jetons)
+Place 8: GOTEDAN (11729 en jetons)
+Place 9: miguelmv1989 (9984 en jetons)
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+Warexale : met la petite blind. 30
+RayuRuna : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6c Ts]
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 150 à 210
+RayuRuna : suit. 150
+*** FLOP *** [Kc Tc Jc]
+Warexale : mise. 154
+RayuRuna : suit. 154
+*** TOURNANT *** [Kc Tc Jc] [Ad]
+Warexale : parole
+RayuRuna : parole
+*** RIVIÈRE *** [Kc Tc Jc Ad] [8d]
+Warexale : mise. 316
+RayuRuna : suit. 316
+*** ABATTAGE ***
+Warexale : montre [2h Th] (une paire de Dix)
+RayuRuna : montre [6c Ts] (une paire de Dix)
+Warexale a remporté 704  lors du pot .
+RayuRuna a remporté 704  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1408 | Commission 0
+Tableau [Kc Tc Jc Ad 8d]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (petite blind) a montré [2h Th] et a gagné (704) avec une paire de Dix
+Siège 7 : RayuRuna (grosse blind) a montré [6c Ts] et a gagné (704) avec une paire de Dix
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 13 **************
+Main PokerStars n°242401593668 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:41:12 CET [12/03/2023 12:41:12 ET]
+Table '3556350638 28' 9-max Siège #5 est au bouton.
+Place 1: EFHBOC (9888 en jetons)
+Place 2: rafonso9 (9907 en jetons)
+Place 3: Obikeno60 (9663 en jetons)
+Place 4: leviathan89100 (9783 en jetons) ne joue pas.
+Place 5: Warexale (9872 en jetons)
+Place 6: anakine766 (10000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 7: RayuRuna (9737 en jetons)
+Place 8: GOTEDAN (11723 en jetons)
+Place 9: miguelmv1989 (9978 en jetons)
+anakine766 sera autorisé à jouer après le bouton.
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+RayuRuna : met la petite blind. 30
+GOTEDAN : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2c Tc]
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : relance. 66 à 126
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 66
+*** FLOP *** [Jh Th Ts]
+GOTEDAN : parole
+rafonso9 : mise. 224
+GOTEDAN : passe.
+Personne n'a suivi. (224) sont retournés à rafonso9.
+rafonso9 a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0
+Tableau [Jh Th Ts]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 a remporté (330)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 8 : GOTEDAN (grosse blind) s'est couché. sur le Flop
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 14 **************
+Main PokerStars n°242401610049 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:41:54 CET [12/03/2023 12:41:54 ET]
+Table '3556350638 28' 9-max Siège #7 est au bouton.
+Place 1: EFHBOC (9882 en jetons)
+Place 2: rafonso9 (10105 en jetons)
+Place 3: Obikeno60 (9657 en jetons)
+Place 4: leviathan89100 (9777 en jetons) ne joue pas.
+Place 5: Warexale (9866 en jetons)
+Place 6: anakine766 (10000 en jetons)
+Place 7: RayuRuna (9701 en jetons)
+Place 8: GOTEDAN (11591 en jetons)
+Place 9: miguelmv1989 (9972 en jetons)
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+anakine766 : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+GOTEDAN : met la petite blind. 30
+miguelmv1989 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Tc 4d]
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 30
+miguelmv1989 : parole
+*** FLOP *** [4c Ad 7s]
+GOTEDAN : parole
+miguelmv1989 : mise. 60
+GOTEDAN : suit. 60
+*** TOURNANT *** [4c Ad 7s] [6d]
+GOTEDAN : mise. 180
+miguelmv1989 : suit. 180
+*** RIVIÈRE *** [4c Ad 7s 6d] [Qh]
+GOTEDAN : mise. 240
+miguelmv1989 : passe.
+Personne n'a suivi. (240) sont retournés à GOTEDAN.
+GOTEDAN a remporté 654  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 654 | Commission 0
+Tableau [4c Ad 7s 6d Qh]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (petite blind) a remporté (654)
+Siège 9 : miguelmv1989 (grosse blind) s'est couché. sur le Rivière
+
+
+*********** # 15 **************
+Main PokerStars n°242401642626 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:43:16 CET [12/03/2023 12:43:16 ET]
+Table '3556350638 28' 9-max Siège #8 est au bouton.
+Place 1: EFHBOC (9876 en jetons)
+Place 2: rafonso9 (10099 en jetons)
+Place 3: Obikeno60 (9651 en jetons)
+Place 4: leviathan89100 (9771 en jetons) ne joue pas.
+Place 5: Warexale (9860 en jetons)
+Place 6: anakine766 (9994 en jetons)
+Place 7: RayuRuna (9695 en jetons)
+Place 8: GOTEDAN (11939 en jetons)
+Place 9: miguelmv1989 (9666 en jetons)
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+anakine766 : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+miguelmv1989 : met la petite blind. 30
+EFHBOC : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3s 4h]
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 60 à 120
+anakine766 : suit. 120
+RayuRuna : passe.
+GOTEDAN : suit. 120
+miguelmv1989 : passe.
+EFHBOC : passe.
+*** FLOP *** [9d 8h 6s]
+Warexale : mise. 226
+anakine766 : suit. 226
+GOTEDAN : suit. 226
+*** TOURNANT *** [9d 8h 6s] [7d]
+Warexale : mise. 780
+anakine766 : passe.
+GOTEDAN : suit. 780
+*** RIVIÈRE *** [9d 8h 6s 7d] [5s]
+Warexale : mise. 1570
+GOTEDAN : suit. 1570
+*** ABATTAGE ***
+Warexale : montre [Kc Th] (une suite, Six à Dix)
+GOTEDAN : cache la main perdante.
+Warexale a remporté 5882  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5882 | Commission 0
+Tableau [9d 8h 6s 7d 5s]
+Siège 1 : EFHBOC (grosse blind) s'est couché. avant Flop
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale a montré [Kc Th] et a gagné (5882) avec une suite, Six à Dix
+Siège 6 : anakine766 s'est couché. sur le Tournant
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (bouton) a caché la main perdante. [7c 2c]
+Siège 9 : miguelmv1989 (petite blind) s'est couché. avant Flop
+
+
+*********** # 16 **************
+Main PokerStars n°242401675753 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:44:41 CET [12/03/2023 12:44:41 ET]
+Table '3556350638 28' 9-max Siège #9 est au bouton.
+Place 1: EFHBOC (9810 en jetons)
+Place 2: rafonso9 (10093 en jetons)
+Place 3: Obikeno60 (9645 en jetons)
+Place 4: leviathan89100 (9765 en jetons) ne joue pas.
+Place 5: Warexale (13040 en jetons)
+Place 6: anakine766 (9642 en jetons)
+Place 7: RayuRuna (9689 en jetons)
+Place 8: GOTEDAN (9237 en jetons)
+Place 9: miguelmv1989 (9630 en jetons)
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+anakine766 : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+EFHBOC : met la petite blind. 30
+rafonso9 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kh Tc]
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+RayuRuna : relance. 72 à 132
+GOTEDAN : suit. 132
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+*** FLOP *** [9c Jh 8c]
+RayuRuna : mise. 180
+GOTEDAN : relance. 8919 à 9099 et est all-in.
+RayuRuna : passe.
+Personne n'a suivi. (8919) sont retournés à GOTEDAN.
+GOTEDAN a remporté 768  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 768 | Commission 0
+Tableau [9c Jh 8c]
+Siège 1 : EFHBOC (petite blind) s'est couché. avant Flop
+Siège 2 : rafonso9 (grosse blind) s'est couché. avant Flop
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : GOTEDAN a remporté (768)
+Siège 9 : miguelmv1989 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 17 **************
+Main PokerStars n°242401702218 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (30/60) - 12/03/2023 17:45:48 CET [12/03/2023 12:45:48 ET]
+Table '3556350638 28' 9-max Siège #1 est au bouton.
+Place 1: EFHBOC (9774 en jetons)
+Place 2: rafonso9 (10027 en jetons)
+Place 3: Obikeno60 (9639 en jetons)
+Place 4: leviathan89100 (9759 en jetons) ne joue pas.
+Place 5: Warexale (13034 en jetons)
+Place 6: anakine766 (9636 en jetons)
+Place 7: RayuRuna (9371 en jetons)
+Place 8: GOTEDAN (9687 en jetons)
+Place 9: miguelmv1989 (9624 en jetons)
+EFHBOC : met l'ante. 6
+rafonso9 : met l'ante. 6
+Obikeno60 : met l'ante. 6
+leviathan89100 : met l'ante. 6
+Warexale : met l'ante. 6
+anakine766 : met l'ante. 6
+RayuRuna : met l'ante. 6
+GOTEDAN : met l'ante. 6
+miguelmv1989 : met l'ante. 6
+rafonso9 : met la petite blind. 30
+Obikeno60 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4d Ks]
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : relance. 60 à 120
+RayuRuna : passe.
+GOTEDAN : suit. 120
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : relance. 630 à 750
+Obikeno60 : passe.
+anakine766 : passe.
+GOTEDAN : suit. 630
+*** FLOP *** [7h Kd 9s]
+rafonso9 : mise. 1179
+GOTEDAN : relance. 1281 à 2460
+rafonso9 : relance. 6811 à 9271 et est all-in.
+GOTEDAN : passe.
+Personne n'a suivi. (6811) sont retournés à rafonso9.
+rafonso9 a remporté 6654  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6654 | Commission 0
+Tableau [7h Kd 9s]
+Siège 1 : EFHBOC (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (petite blind) a remporté (6654)
+Siège 3 : Obikeno60 (grosse blind) s'est couché. avant Flop
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 s'est couché. avant Flop
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. sur le Flop
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 18 **************
+Main PokerStars n°242401727451 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:46:52 CET [12/03/2023 12:46:52 ET]
+Table '3556350638 28' 9-max Siège #2 est au bouton.
+Place 1: EFHBOC (9768 en jetons)
+Place 2: rafonso9 (13465 en jetons)
+Place 3: Obikeno60 (9573 en jetons)
+Place 4: leviathan89100 (9753 en jetons) ne joue pas.
+Place 5: Warexale (13028 en jetons)
+Place 6: anakine766 (9510 en jetons)
+Place 7: RayuRuna (9365 en jetons)
+Place 8: GOTEDAN (6471 en jetons)
+Place 9: miguelmv1989 (9618 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+Obikeno60 : met la petite blind. 40
+leviathan89100 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs 3h]
+Warexale : relance. 80 à 160
+anakine766 : suit. 160
+RayuRuna : passe.
+GOTEDAN : relance. 6303 à 6463 et est all-in.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+Personne n'a suivi. (6303) sont retournés à GOTEDAN.
+GOTEDAN a remporté 672  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 672 | Commission 0
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 (petite blind) s'est couché. avant Flop
+Siège 4 : leviathan89100 (grosse blind) s'est couché. avant Flop
+Siège 5 : Warexale s'est couché. avant Flop
+Siège 6 : anakine766 s'est couché. avant Flop
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a remporté (672)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 19 **************
+Main PokerStars n°242401749885 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:47:48 CET [12/03/2023 12:47:48 ET]
+Table '3556350638 28' 9-max Siège #3 est au bouton.
+Place 1: EFHBOC (9760 en jetons)
+Place 2: rafonso9 (13457 en jetons)
+Place 3: Obikeno60 (9525 en jetons)
+Place 4: leviathan89100 (9665 en jetons) ne joue pas.
+Place 5: Warexale (12860 en jetons)
+Place 6: anakine766 (9342 en jetons)
+Place 7: RayuRuna (9357 en jetons)
+Place 8: GOTEDAN (6975 en jetons)
+Place 9: miguelmv1989 (9610 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+leviathan89100 : met la petite blind. 40
+Warexale : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Th 3s]
+anakine766 : passe.
+RayuRuna : passe.
+GOTEDAN : relance. 6887 à 6967 et est all-in.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+Personne n'a suivi. (6887) sont retournés à GOTEDAN.
+GOTEDAN a remporté 272  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 272 | Commission 0
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (petite blind) s'est couché. avant Flop
+Siège 5 : Warexale (grosse blind) s'est couché. avant Flop
+Siège 6 : anakine766 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a remporté (272)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 20 **************
+Main PokerStars n°242401762401 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:48:20 CET [12/03/2023 12:48:20 ET]
+Table '3556350638 28' 9-max Siège #4 est au bouton.
+Place 1: EFHBOC (9752 en jetons)
+Place 2: rafonso9 (13449 en jetons)
+Place 3: Obikeno60 (9517 en jetons)
+Place 4: leviathan89100 (9617 en jetons) ne joue pas.
+Place 5: Warexale (12772 en jetons)
+Place 6: anakine766 (9334 en jetons)
+Place 7: RayuRuna (9349 en jetons)
+Place 8: GOTEDAN (7159 en jetons)
+Place 9: miguelmv1989 (9602 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+Warexale : met la petite blind. 40
+anakine766 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7s 2c]
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 200 à 280
+anakine766 : relance. 200 à 480
+Warexale : suit. 200
+*** FLOP *** [2s 9h 9d]
+Warexale : parole
+anakine766 : mise. 516
+Warexale : passe.
+Personne n'a suivi. (516) sont retournés à anakine766.
+anakine766 a remporté 1032  lors du pot .
+anakine766 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1032 | Commission 0
+Tableau [2s 9h 9d]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (petite blind) s'est couché. sur le Flop
+Siège 6 : anakine766 (grosse blind) a remporté (1032)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 21 **************
+Main PokerStars n°242401796198 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:49:47 CET [12/03/2023 12:49:47 ET]
+Table '3556350638 28' 9-max Siège #5 est au bouton.
+Place 1: EFHBOC (9744 en jetons)
+Place 2: rafonso9 (13441 en jetons)
+Place 3: Obikeno60 (9509 en jetons)
+Place 4: leviathan89100 (9609 en jetons) ne joue pas.
+Place 5: Warexale (12284 en jetons)
+Place 6: anakine766 (9878 en jetons)
+Place 7: RayuRuna (9341 en jetons)
+Place 8: GOTEDAN (7151 en jetons)
+Place 9: miguelmv1989 (9594 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+anakine766 : met la petite blind. 40
+RayuRuna : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [As 7s]
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : relance. 88 à 168
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+RayuRuna : suit. 88
+*** FLOP *** [Qh Ac 4h]
+RayuRuna : parole
+rafonso9 : parole
+*** TOURNANT *** [Qh Ac 4h] [9s]
+RayuRuna : mise. 240
+rafonso9 : passe.
+Personne n'a suivi. (240) sont retournés à RayuRuna.
+RayuRuna a remporté 448  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 448 | Commission 0
+Tableau [Qh Ac 4h 9s]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. sur le Tournant
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 (petite blind) s'est couché. avant Flop
+Siège 7 : RayuRuna (grosse blind) a remporté (448)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 22 **************
+Main PokerStars n°242401823972 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:50:57 CET [12/03/2023 12:50:57 ET]
+Table '3556350638 28' 9-max Siège #6 est au bouton.
+Place 1: EFHBOC (9736 en jetons)
+Place 2: rafonso9 (13265 en jetons)
+Place 3: Obikeno60 (9501 en jetons)
+Place 4: leviathan89100 (9601 en jetons) ne joue pas.
+Place 5: Warexale (12276 en jetons)
+Place 6: anakine766 (9830 en jetons)
+Place 7: RayuRuna (9613 en jetons)
+Place 8: GOTEDAN (7143 en jetons)
+Place 9: miguelmv1989 (9586 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+RayuRuna : met la petite blind. 40
+GOTEDAN : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ad Kd]
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+RayuRuna : relance. 160 à 240
+GOTEDAN : suit. 160
+*** FLOP *** [Qd 6h Ac]
+RayuRuna : mise. 276
+GOTEDAN : passe.
+Personne n'a suivi. (276) sont retournés à RayuRuna.
+RayuRuna a remporté 552  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 552 | Commission 0
+Tableau [Qd 6h Ac]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) a remporté (552)
+Siège 8 : GOTEDAN (grosse blind) s'est couché. sur le Flop
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 23 **************
+Main PokerStars n°242401842910 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:51:45 CET [12/03/2023 12:51:45 ET]
+Table '3556350638 28' 9-max Siège #7 est au bouton.
+Place 1: EFHBOC (9728 en jetons)
+Place 2: rafonso9 (13257 en jetons)
+Place 3: Obikeno60 (9493 en jetons)
+Place 4: leviathan89100 (9593 en jetons) ne joue pas.
+Place 5: Warexale (12268 en jetons)
+Place 6: anakine766 (9822 en jetons)
+Place 7: RayuRuna (9917 en jetons)
+Place 8: GOTEDAN (6895 en jetons)
+Place 9: miguelmv1989 (9578 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+GOTEDAN : met la petite blind. 40
+miguelmv1989 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jh Qs]
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+RayuRuna : relance. 120 à 200
+GOTEDAN : passe.
+miguelmv1989 : passe.
+Personne n'a suivi. (120) sont retournés à RayuRuna.
+RayuRuna a remporté 272  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 272 | Commission 0
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (bouton) a remporté (272)
+Siège 8 : GOTEDAN (petite blind) s'est couché. avant Flop
+Siège 9 : miguelmv1989 (grosse blind) s'est couché. avant Flop
+
+
+*********** # 24 **************
+Main PokerStars n°242401861579 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:52:33 CET [12/03/2023 12:52:33 ET]
+Table '3556350638 28' 9-max Siège #8 est au bouton.
+Place 1: EFHBOC (9720 en jetons)
+Place 2: rafonso9 (13249 en jetons)
+Place 3: Obikeno60 (9485 en jetons)
+Place 4: leviathan89100 (9585 en jetons) ne joue pas.
+Place 5: Warexale (12260 en jetons)
+Place 6: anakine766 (9814 en jetons)
+Place 7: RayuRuna (10101 en jetons)
+Place 8: GOTEDAN (6847 en jetons)
+Place 9: miguelmv1989 (9490 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+miguelmv1989 : met la petite blind. 40
+EFHBOC : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd 3c]
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : relance. 80 à 160
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : suit. 120
+EFHBOC : passe.
+*** FLOP *** [Kc Qd 3s]
+miguelmv1989 : parole
+anakine766 : parole
+*** TOURNANT *** [Kc Qd 3s] [3h]
+miguelmv1989 : mise. 80
+anakine766 : passe.
+Personne n'a suivi. (80) sont retournés à miguelmv1989.
+miguelmv1989 a remporté 472  lors du pot .
+*** SYNTHÈSE ***
+Pot total 472 | Commission 0
+Tableau [Kc Qd 3s 3h]
+Siège 1 : EFHBOC (grosse blind) s'est couché. avant Flop
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 s'est couché. sur le Tournant
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 (petite blind) a remporté (472)
+
+
+*********** # 25 **************
+Main PokerStars n°242401879972 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:53:20 CET [12/03/2023 12:53:20 ET]
+Table '3556350638 28' 9-max Siège #9 est au bouton.
+Place 1: EFHBOC (9632 en jetons)
+Place 2: rafonso9 (13241 en jetons)
+Place 3: Obikeno60 (9477 en jetons)
+Place 4: leviathan89100 (9577 en jetons) ne joue pas.
+Place 5: Warexale (12252 en jetons)
+Place 6: anakine766 (9646 en jetons)
+Place 7: RayuRuna (10093 en jetons)
+Place 8: GOTEDAN (6839 en jetons)
+Place 9: miguelmv1989 (9794 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+EFHBOC : met la petite blind. 40
+rafonso9 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3c As]
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : passe.
+RayuRuna : relance. 96 à 176
+GOTEDAN : relance. 6655 à 6831 et est all-in.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+RayuRuna : passe.
+Personne n'a suivi. (6655) sont retournés à GOTEDAN.
+GOTEDAN a remporté 544  lors du pot .
+*** SYNTHÈSE ***
+Pot total 544 | Commission 0
+Siège 1 : EFHBOC (petite blind) s'est couché. avant Flop
+Siège 2 : rafonso9 (grosse blind) s'est couché. avant Flop
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop
+Siège 8 : GOTEDAN a remporté (544)
+Siège 9 : miguelmv1989 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 26 **************
+Main PokerStars n°242401894704 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (40/80) - 12/03/2023 17:53:58 CET [12/03/2023 12:53:58 ET]
+Table '3556350638 28' 9-max Siège #1 est au bouton.
+Place 1: EFHBOC (9584 en jetons)
+Place 2: rafonso9 (13153 en jetons)
+Place 3: Obikeno60 (9469 en jetons)
+Place 4: leviathan89100 (9569 en jetons) ne joue pas.
+Place 5: Warexale (12244 en jetons)
+Place 6: anakine766 (9638 en jetons)
+Place 7: RayuRuna (9909 en jetons)
+Place 8: GOTEDAN (7199 en jetons)
+Place 9: miguelmv1989 (9786 en jetons)
+EFHBOC : met l'ante. 8
+rafonso9 : met l'ante. 8
+Obikeno60 : met l'ante. 8
+leviathan89100 : met l'ante. 8
+Warexale : met l'ante. 8
+anakine766 : met l'ante. 8
+RayuRuna : met l'ante. 8
+GOTEDAN : met l'ante. 8
+miguelmv1989 : met l'ante. 8
+rafonso9 : met la petite blind. 40
+Obikeno60 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5h Ac]
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : relance. 240 à 320
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+Personne n'a suivi. (240) sont retournés à anakine766.
+anakine766 a remporté 272  lors du pot .
+anakine766 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 272 | Commission 0
+Siège 1 : EFHBOC (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (petite blind) s'est couché. avant Flop
+Siège 3 : Obikeno60 (grosse blind) s'est couché. avant Flop
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 a remporté (272)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 27 **************
+Main PokerStars n°242401910938 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (50/100) - 12/03/2023 17:54:40 CET [12/03/2023 12:54:40 ET]
+Table '3556350638 28' 9-max Siège #2 est au bouton.
+Place 1: EFHBOC (9576 en jetons)
+Place 2: rafonso9 (13105 en jetons)
+Place 3: Obikeno60 (9381 en jetons)
+Place 4: leviathan89100 (9561 en jetons) ne joue pas.
+Place 5: Warexale (12236 en jetons)
+Place 6: anakine766 (9822 en jetons)
+Place 7: RayuRuna (9901 en jetons)
+Place 8: GOTEDAN (7191 en jetons)
+Place 9: miguelmv1989 (9778 en jetons)
+EFHBOC : met l'ante. 10
+rafonso9 : met l'ante. 10
+Obikeno60 : met l'ante. 10
+leviathan89100 : met l'ante. 10
+Warexale : met l'ante. 10
+anakine766 : met l'ante. 10
+RayuRuna : met l'ante. 10
+GOTEDAN : met l'ante. 10
+miguelmv1989 : met l'ante. 10
+Obikeno60 : met la petite blind. 50
+leviathan89100 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6c 8h]
+Warexale : passe.
+anakine766 : relance. 100 à 200
+RayuRuna : passe.
+GOTEDAN : relance. 6981 à 7181 et est all-in.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+anakine766 : suit. 6981
+*** FLOP *** [5d 3d 7h]
+*** TOURNANT *** [5d 3d 7h] [9c]
+*** RIVIÈRE *** [5d 3d 7h 9c] [5h]
+*** ABATTAGE ***
+anakine766 : montre [Kh Ad] (une paire de Cinq)
+GOTEDAN : montre [6h 9h] (double paire, Neuf et Cinq)
+GOTEDAN a remporté 14602  lors du pot .
+*** SYNTHÈSE ***
+Pot total 14602 | Commission 0
+Tableau [5d 3d 7h 9c 5h]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 (petite blind) s'est couché. avant Flop
+Siège 4 : leviathan89100 (grosse blind) s'est couché. avant Flop
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : anakine766 a montré [Kh Ad] et a perdu avec une paire de Cinq
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN a montré [6h 9h] et a gagné (14602) avec double paire, Neuf et Cinq
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 28 **************
+Main PokerStars n°242402053257 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (50/100) - 12/03/2023 18:02:42 CET [12/03/2023 13:02:42 ET]
+Table '3556350638 28' 9-max Siège #3 est au bouton.
+Place 1: EFHBOC (9566 en jetons)
+Place 2: rafonso9 (13095 en jetons)
+Place 3: Obikeno60 (9321 en jetons)
+Place 4: leviathan89100 (9451 en jetons) ne joue pas.
+Place 5: Warexale (12226 en jetons)
+Place 6: anakine766 (2631 en jetons)
+Place 7: RayuRuna (9891 en jetons)
+Place 8: GOTEDAN (14602 en jetons)
+Place 9: miguelmv1989 (9768 en jetons)
+EFHBOC : met l'ante. 10
+rafonso9 : met l'ante. 10
+Obikeno60 : met l'ante. 10
+leviathan89100 : met l'ante. 10
+Warexale : met l'ante. 10
+anakine766 : met l'ante. 10
+RayuRuna : met l'ante. 10
+GOTEDAN : met l'ante. 10
+miguelmv1989 : met l'ante. 10
+leviathan89100 : met la petite blind. 50
+Warexale : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Tc Qd]
+anakine766 : relance. 100 à 200
+RayuRuna : suit. 200
+GOTEDAN : relance. 400 à 600
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : suit. 400
+RayuRuna : suit. 400
+*** FLOP *** [8h 8s 9h]
+anakine766 : parole
+RayuRuna : parole
+GOTEDAN : mise. 2040
+anakine766 : passe.
+RayuRuna : passe.
+Personne n'a suivi. (2040) sont retournés à GOTEDAN.
+GOTEDAN a remporté 2040  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 2040 | Commission 0
+Tableau [8h 8s 9h]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (petite blind) s'est couché. avant Flop
+Siège 5 : Warexale (grosse blind) s'est couché. avant Flop
+Siège 6 : anakine766 s'est couché. sur le Flop
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : GOTEDAN a remporté (2040)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 29 **************
+Main PokerStars n°242402090092 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (50/100) - 12/03/2023 18:04:13 CET [12/03/2023 13:04:13 ET]
+Table '3556350638 28' 9-max Siège #4 est au bouton.
+Place 1: EFHBOC (9556 en jetons)
+Place 2: rafonso9 (13085 en jetons)
+Place 3: Obikeno60 (9311 en jetons)
+Place 4: leviathan89100 (9391 en jetons) ne joue pas.
+Place 5: Warexale (12116 en jetons)
+Place 6: anakine766 (2021 en jetons)
+Place 7: RayuRuna (9281 en jetons)
+Place 8: GOTEDAN (16032 en jetons)
+Place 9: miguelmv1989 (9758 en jetons)
+EFHBOC : met l'ante. 10
+rafonso9 : met l'ante. 10
+Obikeno60 : met l'ante. 10
+leviathan89100 : met l'ante. 10
+Warexale : met l'ante. 10
+anakine766 : met l'ante. 10
+RayuRuna : met l'ante. 10
+GOTEDAN : met l'ante. 10
+miguelmv1989 : met l'ante. 10
+Warexale : met la petite blind. 50
+anakine766 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5h Qc]
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : suit. 100
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+anakine766 : parole
+*** FLOP *** [4h 5d Js]
+anakine766 : parole
+miguelmv1989 : mise. 100
+anakine766 : suit. 100
+*** TOURNANT *** [4h 5d Js] [3s]
+anakine766 : parole
+miguelmv1989 : mise. 200
+anakine766 : suit. 200
+*** RIVIÈRE *** [4h 5d Js 3s] [4s]
+anakine766 : mise. 1611 et est all-in.
+miguelmv1989 : suit. 1611
+*** ABATTAGE ***
+anakine766 : montre [Th Ad] (une paire de Quatre)
+miguelmv1989 : montre [8s Qs] (une couleur, hauteur Dame)
+miguelmv1989 a remporté 4162  lors du pot .
+anakine766 a fini le tournoi en 1621er position.
+*** SYNTHÈSE ***
+Pot total 4162 | Commission 0
+Tableau [4h 5d Js 3s 4s]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (petite blind) s'est couché. avant Flop
+Siège 6 : anakine766 (grosse blind) a montré [Th Ad] et a perdu avec une paire de Quatre
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 a montré [8s Qs] et a gagné (4162) avec une couleur, hauteur Dame
+
+
+*********** # 30 **************
+Main PokerStars n°242402116329 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (50/100) - 12/03/2023 18:05:17 CET [12/03/2023 13:05:17 ET]
+Table '3556350638 28' 9-max Siège #5 est au bouton.
+Place 1: EFHBOC (9546 en jetons)
+Place 2: rafonso9 (13075 en jetons)
+Place 3: Obikeno60 (9301 en jetons)
+Place 4: leviathan89100 (9381 en jetons) ne joue pas.
+Place 5: Warexale (12056 en jetons)
+Place 7: RayuRuna (9271 en jetons)
+Place 8: GOTEDAN (16022 en jetons)
+Place 9: miguelmv1989 (11899 en jetons)
+EFHBOC : met l'ante. 10
+rafonso9 : met l'ante. 10
+Obikeno60 : met l'ante. 10
+leviathan89100 : met l'ante. 10
+Warexale : met l'ante. 10
+RayuRuna : met l'ante. 10
+GOTEDAN : met l'ante. 10
+miguelmv1989 : met l'ante. 10
+RayuRuna : met la petite blind. 50
+GOTEDAN : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3h Kc]
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 100 à 200
+RayuRuna : passe.
+GOTEDAN : suit. 100
+*** FLOP *** [5c 9s 3d]
+GOTEDAN : mise. 100
+Warexale : relance. 241 à 341
+GOTEDAN : suit. 241
+*** TOURNANT *** [5c 9s 3d] [Tc]
+GOTEDAN : mise. 200
+cristimor est déconnecté
+Warexale : suit. 200
+*** RIVIÈRE *** [5c 9s 3d Tc] [Jd]
+GOTEDAN : mise. 600
+Warexale : passe.
+Personne n'a suivi. (600) sont retournés à GOTEDAN.
+GOTEDAN a remporté 1612  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1612 | Commission 0
+Tableau [5c 9s 3d Tc Jd]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (bouton) s'est couché. sur le Rivière
+Siège 7 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 8 : GOTEDAN (grosse blind) a remporté (1612)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 31 **************
+Main PokerStars n°242402152412 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (50/100) - 12/03/2023 18:06:45 CET [12/03/2023 13:06:45 ET]
+Table '3556350638 28' 9-max Siège #7 est au bouton.
+Place 1: EFHBOC (9536 en jetons)
+Place 2: rafonso9 (13065 en jetons)
+Place 3: Obikeno60 (9291 en jetons)
+Place 4: leviathan89100 (9371 en jetons) ne joue pas.
+Place 5: Warexale (11305 en jetons)
+Place 6: cristimor (10000 en jetons)
+Place 7: RayuRuna (9211 en jetons)
+Place 8: GOTEDAN (16883 en jetons)
+Place 9: miguelmv1989 (11889 en jetons)
+EFHBOC : met l'ante. 10
+rafonso9 : met l'ante. 10
+Obikeno60 : met l'ante. 10
+leviathan89100 : met l'ante. 10
+Warexale : met l'ante. 10
+cristimor : met l'ante. 10
+RayuRuna : met l'ante. 10
+GOTEDAN : met l'ante. 10
+miguelmv1989 : met l'ante. 10
+GOTEDAN : met la petite blind. 50
+miguelmv1989 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3h Qh]
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 100 à 200
+cristimor : suit. 200
+RayuRuna : passe.
+GOTEDAN : suit. 150
+miguelmv1989 : suit. 100
+*** FLOP *** [6s Jc 3c]
+GOTEDAN : mise. 100
+miguelmv1989 : passe.
+Warexale : relance. 360 à 460
+cristimor : suit. 460
+GOTEDAN : passe.
+*** TOURNANT *** [6s Jc 3c] [5c]
+Warexale : mise. 1161
+cristimor : suit. 1161
+*** RIVIÈRE *** [6s Jc 3c 5c] [Qc]
+Warexale a dépassé le temps imparti.
+Warexale : parole
+cristimor : mise. 4232
+Warexale : suit. 4232
+*** ABATTAGE ***
+cristimor : montre [4c Jd] (une couleur, hauteur Dame)
+Warexale : montre [Kc Qs] (une couleur, hauteur Roi)
+Warexale a remporté 12696  lors du pot .
+*** SYNTHÈSE ***
+Pot total 12696 | Commission 0
+Tableau [6s Jc 3c 5c Qc]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale a montré [Kc Qs] et a gagné (12696) avec une couleur, hauteur Roi
+Siège 6 : cristimor a montré [4c Jd] et a perdu avec une couleur, hauteur Dame
+Siège 7 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (petite blind) s'est couché. sur le Flop
+Siège 9 : miguelmv1989 (grosse blind) s'est couché. sur le Flop
+
+
+*********** # 32 **************
+Main PokerStars n°242402211432 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (50/100) - 12/03/2023 18:09:09 CET [12/03/2023 13:09:09 ET]
+Table '3556350638 28' 9-max Siège #8 est au bouton.
+Place 1: EFHBOC (9526 en jetons)
+Place 2: rafonso9 (13055 en jetons)
+Place 3: Obikeno60 (9281 en jetons)
+Place 4: leviathan89100 (9361 en jetons) ne joue pas.
+Place 5: Warexale (17938 en jetons)
+Place 6: cristimor (3937 en jetons)
+Place 7: RayuRuna (9201 en jetons)
+Place 8: GOTEDAN (16573 en jetons)
+Place 9: miguelmv1989 (11679 en jetons)
+EFHBOC : met l'ante. 10
+rafonso9 : met l'ante. 10
+Obikeno60 : met l'ante. 10
+leviathan89100 : met l'ante. 10
+Warexale : met l'ante. 10
+cristimor : met l'ante. 10
+RayuRuna : met l'ante. 10
+GOTEDAN : met l'ante. 10
+miguelmv1989 : met l'ante. 10
+miguelmv1989 : met la petite blind. 50
+EFHBOC : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jc 3h]
+rafonso9 : relance. 110 à 210
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+cristimor : relance. 110 à 320
+RayuRuna : passe.
+GOTEDAN : suit. 320
+miguelmv1989 : passe.
+EFHBOC : suit. 220
+rafonso9 : suit. 110
+*** FLOP *** [As Ks Ah]
+EFHBOC : parole
+rafonso9 : parole
+cristimor : parole
+GOTEDAN : mise. 400
+EFHBOC : passe.
+rafonso9 : passe.
+cristimor : passe.
+Personne n'a suivi. (400) sont retournés à GOTEDAN.
+GOTEDAN a remporté 1420  lors du pot .
+GOTEDAN : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1420 | Commission 0
+Tableau [As Ks Ah]
+Siège 1 : EFHBOC (grosse blind) s'est couché. sur le Flop
+Siège 2 : rafonso9 s'est couché. sur le Flop
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : cristimor s'est couché. sur le Flop
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN (bouton) a remporté (1420)
+Siège 9 : miguelmv1989 (petite blind) s'est couché. avant Flop
+
+
+*********** # 33 **************
+Main PokerStars n°242402241502 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:10:22 CET [12/03/2023 13:10:22 ET]
+Table '3556350638 28' 9-max Siège #9 est au bouton.
+Place 1: EFHBOC (9196 en jetons)
+Place 2: rafonso9 (12725 en jetons)
+Place 3: Obikeno60 (9271 en jetons)
+Place 4: leviathan89100 (9351 en jetons) ne joue pas.
+Place 5: Warexale (17928 en jetons)
+Place 6: cristimor (3607 en jetons)
+Place 7: RayuRuna (9191 en jetons)
+Place 8: GOTEDAN (17663 en jetons)
+Place 9: miguelmv1989 (11619 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+cristimor : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+EFHBOC : met la petite blind. 60
+rafonso9 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Td 9d]
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 240 à 360
+cristimor : relance. 3232 à 3592 et est all-in.
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Warexale : passe.
+Personne n'a suivi. (3232) sont retournés à cristimor.
+cristimor a remporté 1035  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1035 | Commission 0
+Siège 1 : EFHBOC (petite blind) s'est couché. avant Flop
+Siège 2 : rafonso9 (grosse blind) s'est couché. avant Flop
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop
+Siège 6 : cristimor a remporté (1035)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 34 **************
+Main PokerStars n°242402264961 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:11:19 CET [12/03/2023 13:11:19 ET]
+Table '3556350638 28' 9-max Siège #1 est au bouton.
+Place 1: EFHBOC (9121 en jetons)
+Place 2: rafonso9 (12590 en jetons)
+Place 3: Obikeno60 (9256 en jetons)
+Place 4: leviathan89100 (9336 en jetons) ne joue pas.
+Place 5: Warexale (17553 en jetons)
+Place 6: cristimor (4267 en jetons)
+Place 7: RayuRuna (9176 en jetons)
+Place 8: GOTEDAN (17648 en jetons)
+Place 9: miguelmv1989 (11604 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+cristimor : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+rafonso9 : met la petite blind. 60
+Obikeno60 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5h Ks]
+leviathan89100 : passe.
+Warexale : passe.
+cristimor : suit. 120
+RayuRuna : passe.
+GOTEDAN : suit. 120
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : suit. 60
+Obikeno60 : parole
+*** FLOP *** [Tc 3d 9s]
+rafonso9 : parole
+Obikeno60 : parole
+cristimor : parole
+GOTEDAN : mise. 480
+rafonso9 : suit. 480
+Obikeno60 : passe.
+cristimor : relance. 480 à 960
+GOTEDAN : suit. 480
+rafonso9 : suit. 480
+*** TOURNANT *** [Tc 3d 9s] [Qs]
+rafonso9 : parole
+cristimor : mise. 3172 et est all-in.
+GOTEDAN : passe.
+rafonso9 : suit. 3172
+*** RIVIÈRE *** [Tc 3d 9s Qs] [7h]
+*** ABATTAGE ***
+rafonso9 : montre [8c Jh] (une suite, Huit à Dame)
+cristimor : montre [3h Th] (double paire, Dix et Trois)
+rafonso9 a remporté 9839  lors du pot .
+cristimor a fini le tournoi en 1583e position.
+*** SYNTHÈSE ***
+Pot total 9839 | Commission 0
+Tableau [Tc 3d 9s Qs 7h]
+Siège 1 : EFHBOC (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 (petite blind) a montré [8c Jh] et a gagné (9839) avec une suite, Huit à Dame
+Siège 3 : Obikeno60 (grosse blind) s'est couché. sur le Flop
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : cristimor a montré [3h Th] et a perdu avec double paire, Dix et Trois
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. sur le Tournant
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 35 **************
+Main PokerStars n°242402288062 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:12:15 CET [12/03/2023 13:12:15 ET]
+Table '3556350638 28' 9-max Siège #2 est au bouton.
+Place 1: EFHBOC (9106 en jetons)
+Place 2: rafonso9 (18162 en jetons)
+Place 3: Obikeno60 (9121 en jetons)
+Place 4: leviathan89100 (9321 en jetons) ne joue pas.
+Place 5: Warexale (17538 en jetons)
+Place 7: RayuRuna (9161 en jetons)
+Place 8: GOTEDAN (16553 en jetons)
+Place 9: miguelmv1989 (11589 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+Obikeno60 : met la petite blind. 60
+leviathan89100 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5h Jd]
+Warexale : passe.
+RayuRuna : passe.
+GOTEDAN : suit. 120
+miguelmv1989 : passe.
+EFHBOC : suit. 120
+rafonso9 : relance. 540 à 660
+Obikeno60 : passe.
+leviathan89100 : passe.
+GOTEDAN : passe.
+EFHBOC : suit. 540
+*** FLOP *** [Ad 6h Jc]
+EFHBOC : parole
+rafonso9 : parole
+*** TOURNANT *** [Ad 6h Jc] [5d]
+EFHBOC : mise. 870
+rafonso9 : passe.
+Personne n'a suivi. (870) sont retournés à EFHBOC.
+EFHBOC a remporté 1740  lors du pot .
+EFHBOC : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1740 | Commission 0
+Tableau [Ad 6h Jc 5d]
+Siège 1 : EFHBOC a remporté (1740)
+Siège 2 : rafonso9 (bouton) s'est couché. sur le Tournant
+Siège 3 : Obikeno60 (petite blind) s'est couché. avant Flop
+Siège 4 : leviathan89100 (grosse blind) s'est couché. avant Flop
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 36 **************
+Main PokerStars n°242402308452 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:13:05 CET [12/03/2023 13:13:05 ET]
+Table '3556350638 28' 9-max Siège #3 est au bouton.
+Place 1: EFHBOC (10171 en jetons)
+Place 2: rafonso9 (17487 en jetons)
+Place 3: Obikeno60 (9046 en jetons)
+Place 4: leviathan89100 (9186 en jetons) ne joue pas.
+Place 5: Warexale (17523 en jetons)
+Place 6: kikoluanco (10000 en jetons)
+Place 7: RayuRuna (9146 en jetons)
+Place 8: GOTEDAN (16418 en jetons)
+Place 9: miguelmv1989 (11574 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+kikoluanco : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+leviathan89100 : met la petite blind. 60
+Warexale : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qh Tc]
+kikoluanco : passe.
+RayuRuna : relance. 120 à 240
+GOTEDAN : passe.
+miguelmv1989 : relance. 120 à 360
+EFHBOC : suit. 360
+rafonso9 : suit. 360
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+RayuRuna : suit. 120
+*** FLOP *** [6c 3c 7d]
+RayuRuna : parole
+miguelmv1989 : mise. 878
+EFHBOC : passe.
+rafonso9 : passe.
+RayuRuna : passe.
+Personne n'a suivi. (878) sont retournés à miguelmv1989.
+miguelmv1989 a remporté 1755  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1755 | Commission 0
+Tableau [6c 3c 7d]
+Siège 1 : EFHBOC s'est couché. sur le Flop
+Siège 2 : rafonso9 s'est couché. sur le Flop
+Siège 3 : Obikeno60 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (petite blind) s'est couché. avant Flop
+Siège 5 : Warexale (grosse blind) s'est couché. avant Flop
+Siège 6 : kikoluanco s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 a remporté (1755)
+
+
+*********** # 37 **************
+Main PokerStars n°242402336858 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:14:14 CET [12/03/2023 13:14:14 ET]
+Table '3556350638 28' 9-max Siège #4 est au bouton.
+Place 1: EFHBOC (9796 en jetons)
+Place 2: rafonso9 (17112 en jetons)
+Place 3: Obikeno60 (9031 en jetons)
+Place 4: leviathan89100 (9111 en jetons) ne joue pas.
+Place 5: Warexale (17388 en jetons)
+Place 6: kikoluanco (9985 en jetons)
+Place 7: RayuRuna (8771 en jetons)
+Place 8: GOTEDAN (16403 en jetons)
+Place 9: miguelmv1989 (12954 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+kikoluanco : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+Warexale : met la petite blind. 60
+kikoluanco : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2s 3s]
+RayuRuna : passe.
+GOTEDAN : passe.
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : relance. 300 à 420
+kikoluanco : suit. 300
+*** FLOP *** [9d As Kc]
+Warexale a dépassé le temps imparti.
+Warexale : parole
+kikoluanco : parole
+*** TOURNANT *** [9d As Kc] [Jh]
+Warexale : mise. 644
+kikoluanco : suit. 644
+*** RIVIÈRE *** [9d As Kc Jh] [2h]
+Warexale : mise. 1227
+kikoluanco : passe.
+Personne n'a suivi. (1227) sont retournés à Warexale.
+Warexale a remporté 2263  lors du pot .
+Warexale : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 2263 | Commission 0
+Tableau [9d As Kc Jh 2h]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (petite blind) a remporté (2263)
+Siège 6 : kikoluanco (grosse blind) s'est couché. sur le Rivière
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : GOTEDAN s'est couché. avant Flop (n'a pas misé)
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 38 **************
+Main PokerStars n°242402369009 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:15:32 CET [12/03/2023 13:15:32 ET]
+Table '3556350638 28' 9-max Siège #5 est au bouton.
+Place 1: EFHBOC (9781 en jetons)
+Place 2: rafonso9 (17097 en jetons)
+Place 3: Obikeno60 (9016 en jetons)
+Place 4: leviathan89100 (9096 en jetons) ne joue pas.
+Place 5: Warexale (18572 en jetons)
+Place 6: kikoluanco (8906 en jetons)
+Place 7: RayuRuna (8756 en jetons)
+Place 8: GOTEDAN (16388 en jetons)
+Place 9: miguelmv1989 (12939 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+kikoluanco : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+kikoluanco : met la petite blind. 60
+RayuRuna : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Js 2c]
+GOTEDAN : relance. 435 à 555
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : passe.
+leviathan89100 : passe.
+Warexale : passe.
+kikoluanco : suit. 495
+RayuRuna : passe.
+*** FLOP *** [Td 7d As]
+kikoluanco : parole
+GOTEDAN : parole
+*** TOURNANT *** [Td 7d As] [2h]
+kikoluanco : parole
+GOTEDAN : parole
+*** RIVIÈRE *** [Td 7d As 2h] [3h]
+kikoluanco : mise. 960
+GOTEDAN : suit. 960
+*** ABATTAGE ***
+kikoluanco : montre [4d 6h] (Hauteur As)
+GOTEDAN : montre [Kc Ac] (une paire de As)
+GOTEDAN a remporté 3285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3285 | Commission 0
+Tableau [Td 7d As 2h 3h]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : kikoluanco (petite blind) a montré [4d 6h] et a perdu avec Hauteur As
+Siège 7 : RayuRuna (grosse blind) s'est couché. avant Flop
+Siège 8 : GOTEDAN a montré [Kc Ac] et a gagné (3285) avec une paire de As
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 39 **************
+Main PokerStars n°242402403482 : Tournoi #3556350638, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (60/120) - 12/03/2023 18:16:56 CET [12/03/2023 13:16:56 ET]
+Table '3556350638 28' 9-max Siège #6 est au bouton.
+Place 1: EFHBOC (9766 en jetons)
+Place 2: rafonso9 (17082 en jetons)
+Place 3: Obikeno60 (9001 en jetons)
+Place 4: leviathan89100 (9081 en jetons) ne joue pas.
+Place 5: Warexale (18557 en jetons)
+Place 6: kikoluanco (7376 en jetons)
+Place 7: RayuRuna (8621 en jetons)
+Place 8: GOTEDAN (18143 en jetons)
+Place 9: miguelmv1989 (12924 en jetons)
+EFHBOC : met l'ante. 15
+rafonso9 : met l'ante. 15
+Obikeno60 : met l'ante. 15
+leviathan89100 : met l'ante. 15
+Warexale : met l'ante. 15
+kikoluanco : met l'ante. 15
+RayuRuna : met l'ante. 15
+GOTEDAN : met l'ante. 15
+miguelmv1989 : met l'ante. 15
+RayuRuna : met la petite blind. 60
+GOTEDAN : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qd Td]
+miguelmv1989 : passe.
+EFHBOC : passe.
+rafonso9 : passe.
+Obikeno60 : relance. 240 à 360
+leviathan89100 : passe.
+Warexale : passe.
+kikoluanco : suit. 360
+RayuRuna : suit. 300
+GOTEDAN : suit. 240
+*** FLOP *** [Jd 2d 5s]
+RayuRuna : parole
+GOTEDAN : mise. 1575
+Obikeno60 : relance. 7051 à 8626 et est all-in.
+kikoluanco : passe.
+RayuRuna : suit. 8246 et est all-in.
+GOTEDAN : suit. 7051
+*** TOURNANT *** [Jd 2d 5s] [Th]
+*** RIVIÈRE *** [Jd 2d 5s Th] [2c]
+*** ABATTAGE ***
+GOTEDAN : montre [Jc Qc] (double paire, Valets et Deux)
+Obikeno60 : montre [Ks Kh] (double paire, Rois et Deux)
+Obikeno60 a remporté 760  parallèle lors du pot .
+RayuRuna : montre [Qd Td] (double paire, Dix et Deux)
+Obikeno60 a remporté 26313  principal lors du pot .
+RayuRuna a fini le tournoi en 1536e position.
+*** SYNTHÈSE ***
+Pot total 27073 Principal pot 26313. Parallèle pot 760. | Commission 0
+Tableau [Jd 2d 5s Th 2c]
+Siège 1 : EFHBOC s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafonso9 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Obikeno60 a montré [Ks Kh] et a gagné (27073) avec double paire, Rois et Deux
+Siège 4 : leviathan89100 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Warexale s'est couché. avant Flop (n'a pas misé)
+Siège 6 : kikoluanco (bouton) s'est couché. sur le Flop
+Siège 7 : RayuRuna (petite blind) a montré [Qd Td] et a perdu avec double paire, Dix et Deux
+Siège 8 : GOTEDAN (grosse blind) a montré [Jc Qc] et a perdu avec double paire, Valets et Deux
+Siège 9 : miguelmv1989 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Si vous avez des questions, veuillez nous contacter à "PokerStars Support" <support@pokerstars.fr>
+
+
+Vous recevez cet e-mail, car vous êtes client de The Stars Group (TSG), qui exploite les marques accessibles depuis un Compte Stars sous la licence de l’Autorité Nationale des Jeux (ANJ).
+
+Pour en savoir plus, veuillez consulter http://www.pokerstars.fr/starsaccount.
+

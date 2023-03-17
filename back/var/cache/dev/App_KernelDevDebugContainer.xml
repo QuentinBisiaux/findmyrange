@@ -333,7 +333,7 @@
       <tag name="controller.service_arguments"/>
       <tag name="routing.route_loader"/>
     </service>
-    <service id="App\Entity" class="App\Entity" abstract="true">
+    <service id="App\Domain" class="App\Domain" abstract="true">
       <tag name="container.excluded" source="in &quot;config/services.yaml&quot;"/>
     </service>
     <service id="App\Command\ProcessHandFileCommand" class="App\Command\ProcessHandFileCommand" autowire="true" autoconfigure="true">
@@ -347,12 +347,6 @@
         <argument>process all hands of a txt file</argument>
       </call>
     </service>
-    <service id="App\Domain\Hand\Hand" class="App\Domain\Hand\Hand" autowire="true" autoconfigure="true"/>
-    <service id="App\Domain\Hand\HandCollection" class="App\Domain\Hand\HandCollection" autowire="true" autoconfigure="true"/>
-    <service id="App\Domain\HandsFile\HandsFile" class="App\Domain\HandsFile\HandsFile" autowire="true" autoconfigure="true"/>
-    <service id="App\Domain\HandsFile\HandsRawFile" class="App\Domain\HandsFile\HandsRawFile" autowire="true" autoconfigure="true"/>
-    <service id="App\Domain\Position\Position" class="App\Domain\Position\Position" autowire="true" autoconfigure="true"/>
-    <service id="App\Domain\Tournament\Tournament" class="App\Domain\Tournament\Tournament" autowire="true" autoconfigure="true"/>
     <service id="App\Infrastructure\FileManager" class="App\Infrastructure\FileManager" autowire="true" autoconfigure="true"/>
     <service id="argument_metadata_factory" class="Symfony\Component\HttpKernel\ControllerMetadata\ArgumentMetadataFactory"/>
     <service id="response_listener" class="Symfony\Component\HttpKernel\EventListener\ResponseListener">

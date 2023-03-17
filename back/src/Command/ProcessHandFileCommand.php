@@ -32,23 +32,32 @@ class ProcessHandFileCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $io = new SymfonyStyle($input, $output);
-        try {
-            $fileContent = $this->fileManager->getFileContent(__DIR__ . '/../../var/data/hands');
-        } catch (FileException $ex) {
-            $io->error($ex->getMessage());
-        }
-        if (empty($fileContent)) {
-            $io->error('No data to process');
+        $files = $this->fileManager->getAllFiles(__DIR__ . '/../../var/data', '*.txt');
+
+        if(!$files->hasResults()) {
+            $io->error('No files to process');
             return Command::FAILURE;
         }
-        $handRawFile = new HandsRawFile($fileContent);
-        $rawHands = $handRawFile->getRawHands();
-
         $handCollection = new HandCollection();
-        foreach($rawHands as $rawHand) {
-            $hand = new Hand($rawHand);
-            $handCollection->addHand($hand);
+        foreach ($files as $file) {
+            try {
+                $fileContent = $this->fileManager->getFileContent($file->getPath() . '/' . $file->getFilename());
+            } catch (FileException $ex) {
+                $io->error($ex->getMessage());
+            }
+            if (empty($fileContent)) {
+                $io->error('No data to process in file ' . $file->getRelativePathname());
+                return Command::FAILURE;
+            }
+            $handRawFile = new HandsRawFile($fileContent);
+            $rawHands = $handRawFile->getRawHands();
+
+            foreach($rawHands as $rawHand) {
+                $hand = new Hand($rawHand);
+                $handCollection->addHand($hand);
+            }
         }
+        $handCollection->setCardsRaisedPreFlop();
         dump($handCollection->getCardsRaisedPreFlop());
 
         return self::SUCCESS;

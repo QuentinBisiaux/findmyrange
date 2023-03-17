@@ -24,10 +24,14 @@ class HandsRawFile
         $rawHands = [];
         $workingContent = $this->rawContent;
         $currentHandCount = 0;
-        foreach ($workingContent as $index => $line) {
+        foreach ($workingContent as $line) {
             if ($line === "\n") {
-                unset($workingContent[$index +1]);
+                continue;
+            }
+            if(preg_match('/\*{10} # [0-9]* \*{10}/', $line) === 1) {
                 $currentHandCount++;
+            }
+            if($currentHandCount === 0 and preg_match('/\*{10} # [0-9]* \*{10}/', $line) !== 1) {
                 continue;
             }
             $rawHands[$currentHandCount][] = $line;

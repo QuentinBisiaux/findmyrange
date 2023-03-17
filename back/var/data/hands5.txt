@@ -1,0 +1,1486 @@
+*********** # 1 **************
+Main PokerStars n°242418424720 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 12:09:34 CET [13/03/2023 7:09:34 ET]
+Table '3559916617 8' 6-max Siège #3 est au bouton.
+Place 1: RayuRuna (3000 en jetons, prime de 0.04 €)
+Place 2: abtzgil (6162 en jetons, prime de 0.06 €)
+Place 3: D37P1 (3474 en jetons, prime de 0.06 €)
+Place 4: McFamily10 (5760 en jetons, prime de 0.04 €)
+Place 5: bipbip37421 (2958 en jetons, prime de 0.04 €)
+Place 6: xxCarlos66xx (2860 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 2
+abtzgil : met l'ante. 2
+D37P1 : met l'ante. 2
+McFamily10 : met l'ante. 2
+bipbip37421 : met l'ante. 2
+xxCarlos66xx : met l'ante. 2
+McFamily10 : met la petite blind. 10
+bipbip37421 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jc 4c]
+xxCarlos66xx : passe.
+RayuRuna : passe.
+abtzgil : suit. 20
+D37P1 : suit. 20
+McFamily10 : suit. 10
+bipbip37421 : parole
+*** FLOP *** [4s 6d 7c]
+McFamily10 : parole
+bipbip37421 : mise. 46
+abtzgil : suit. 46
+D37P1 : passe.
+McFamily10 : passe.
+*** TOURNANT *** [4s 6d 7c] [Qc]
+bipbip37421 : parole
+abtzgil : parole
+*** RIVIÈRE *** [4s 6d 7c Qc] [Td]
+bipbip37421 : mise. 92
+abtzgil : suit. 92
+*** ABATTAGE ***
+bipbip37421 : montre [2s 5s] (Hauteur Dame)
+abtzgil : montre [3s 3c] (une paire de Trois)
+abtzgil a remporté 368  lors du pot .
+*** SYNTHÈSE ***
+Pot total 368 | Commission 0
+Tableau [4s 6d 7c Qc Td]
+Siège 1 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 2 : abtzgil a montré [3s 3c] et a gagné (368) avec une paire de Trois
+Siège 3 : D37P1 (bouton) s'est couché. sur le Flop
+Siège 4 : McFamily10 (petite blind) s'est couché. sur le Flop
+Siège 5 : bipbip37421 (grosse blind) a montré [2s 5s] et a perdu avec Hauteur Dame
+Siège 6 : xxCarlos66xx s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 2 **************
+Main PokerStars n°242418435179 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 12:10:38 CET [13/03/2023 7:10:38 ET]
+Table '3559916617 8' 6-max Siège #4 est au bouton.
+Place 1: RayuRuna (2998 en jetons, prime de 0.04 €)
+Place 2: abtzgil (6370 en jetons, prime de 0.06 €)
+Place 3: D37P1 (3452 en jetons, prime de 0.06 €)
+Place 4: McFamily10 (5738 en jetons, prime de 0.04 €)
+Place 5: bipbip37421 (2798 en jetons, prime de 0.04 €)
+Place 6: xxCarlos66xx (2858 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 3
+abtzgil : met l'ante. 3
+D37P1 : met l'ante. 3
+McFamily10 : met l'ante. 3
+bipbip37421 : met l'ante. 3
+xxCarlos66xx : met l'ante. 3
+bipbip37421 : met la petite blind. 15
+xxCarlos66xx : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6d Ts]
+RayuRuna : passe.
+abtzgil : suit. 30
+D37P1 : relance. 30 à 60
+McFamily10 : suit. 60
+bipbip37421 : suit. 45
+xxCarlos66xx : passe.
+abtzgil : suit. 30
+*** FLOP *** [8h 2d 3c]
+bipbip37421 : parole
+abtzgil : parole
+D37P1 : mise. 120
+McFamily10 : suit. 120
+bipbip37421 : passe.
+abtzgil : suit. 120
+*** TOURNANT *** [8h 2d 3c] [5d]
+abtzgil : parole
+D37P1 : mise. 90
+McFamily10 : suit. 90
+abtzgil : passe.
+*** RIVIÈRE *** [8h 2d 3c 5d] [3d]
+D37P1 : mise. 120
+McFamily10 : suit. 120
+*** ABATTAGE ***
+D37P1 : montre [9c 9d] (double paire, Neuf et Trois)
+McFamily10 : cache la main perdante.
+D37P1 a remporté 1068  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1068 | Commission 0
+Tableau [8h 2d 3c 5d 3d]
+Siège 1 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 2 : abtzgil s'est couché. sur le Tournant
+Siège 3 : D37P1 a montré [9c 9d] et a gagné (1068) avec double paire, Neuf et Trois
+Siège 4 : McFamily10 (bouton) a caché la main perdante. [Tc 8s]
+Siège 5 : bipbip37421 (petite blind) s'est couché. sur le Flop
+Siège 6 : xxCarlos66xx (grosse blind) s'est couché. avant Flop
+
+
+*********** # 3 **************
+Main PokerStars n°242418445712 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 12:11:43 CET [13/03/2023 7:11:43 ET]
+Table '3559916617 10' 6-max Siège #2 est au bouton.
+Place 1: topeiratinoslb (3225 en jetons, prime de 0.04 €)
+Place 2: Le Regman (2975 en jetons, prime de 0.04 €)
+Place 3: Mbaychepa (2954 en jetons, prime de 0.06 €) ne joue pas.
+Place 4: RayuRuna (2995 en jetons, prime de 0.04 €)
+Place 6: CHN-Rafael (3000 en jetons, prime de 0.04 €)
+topeiratinoslb : met l'ante. 3
+Le Regman : met l'ante. 3
+Mbaychepa : met l'ante. 3
+RayuRuna : met l'ante. 3
+CHN-Rafael : met l'ante. 3
+Mbaychepa : met la petite blind. 15
+RayuRuna : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2c 6c]
+CHN-Rafael est connecté
+CHN-Rafael est déconnecté
+CHN-Rafael est connecté
+CHN-Rafael : suit. 30
+topeiratinoslb : relance. 30 à 60
+Le Regman : relance. 30 à 90
+Mbaychepa : passe.
+RayuRuna : passe.
+CHN-Rafael : passe.
+topeiratinoslb : suit. 30
+*** FLOP *** [Ah Ac 5c]
+topeiratinoslb : mise. 30
+Le Regman : suit. 30
+*** TOURNANT *** [Ah Ac 5c] [7s]
+topeiratinoslb : mise. 30
+Le Regman : suit. 30
+*** RIVIÈRE *** [Ah Ac 5c 7s] [7d]
+topeiratinoslb : parole
+Le Regman : parole
+*** ABATTAGE ***
+topeiratinoslb : montre [5h 9h] (double paire, As et Sept)
+Le Regman : montre [Kh Jh] (double paire, As et Sept - Roi kicker)
+Le Regman a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0
+Tableau [Ah Ac 5c 7s 7d]
+Siège 1 : topeiratinoslb a montré [5h 9h] et a perdu avec double paire, As et Sept
+Siège 2 : Le Regman (bouton) a montré [Kh Jh] et a gagné (390) avec double paire, As et Sept
+Siège 3 : Mbaychepa (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) s'est couché. avant Flop
+Siège 6 : CHN-Rafael s'est couché. avant Flop
+
+
+*********** # 4 **************
+Main PokerStars n°242418452502 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 12:12:25 CET [13/03/2023 7:12:25 ET]
+Table '3559916617 10' 6-max Siège #3 est au bouton.
+Place 1: topeiratinoslb (3072 en jetons, prime de 0.04 €)
+Place 2: Le Regman (3212 en jetons, prime de 0.04 €)
+Place 3: Mbaychepa (2936 en jetons, prime de 0.06 €) ne joue pas.
+Place 4: RayuRuna (2962 en jetons, prime de 0.04 €)
+Place 6: CHN-Rafael (2967 en jetons, prime de 0.04 €)
+topeiratinoslb : met l'ante. 3
+Le Regman : met l'ante. 3
+Mbaychepa : met l'ante. 3
+RayuRuna : met l'ante. 3
+CHN-Rafael : met l'ante. 3
+RayuRuna : met la petite blind. 15
+CHN-Rafael : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kc 5s]
+topeiratinoslb : relance. 30 à 60
+Le Regman : relance. 30 à 90
+Mbaychepa : passe.
+RayuRuna : passe.
+CHN-Rafael : relance. 2874 à 2964 et est all-in.
+topeiratinoslb : passe.
+Le Regman : suit. 2874
+*** FLOP *** [Ac As 8c]
+*** TOURNANT *** [Ac As 8c] [8h]
+*** RIVIÈRE *** [Ac As 8c 8h] [Th]
+*** ABATTAGE ***
+CHN-Rafael : montre [Ts Td] (un full, full aux Dix par les As)
+Le Regman : montre [Ad Jd] (un full, full aux As par les Huit)
+Le Regman a remporté 6018  lors du pot .
+Le Regman gagne 0.02 € pour l'élimination de CHN-Rafael et sa prime augmente de 0.02 € à 0.06 €
+CHN-Rafael a fini le tournoi en 150e position.
+*** SYNTHÈSE ***
+Pot total 6018 | Commission 0
+Tableau [Ac As 8c 8h Th]
+Siège 1 : topeiratinoslb s'est couché. avant Flop
+Siège 2 : Le Regman a montré [Ad Jd] et a gagné (6018) avec un full, full aux As par les Huit
+Siège 3 : Mbaychepa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 6 : CHN-Rafael (grosse blind) a montré [Ts Td] et a perdu avec un full, full aux Dix par les As
+
+
+*********** # 5 **************
+Main PokerStars n°242418461922 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 12:13:22 CET [13/03/2023 7:13:22 ET]
+Table '3559916617 2' 6-max Siège #6 est au bouton.
+Place 1: yoniwinter (5899 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2988 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6670 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (2944 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2861 en jetons, prime de 0.04 €)
+yoniwinter : met l'ante. 3
+sakyo97277 : met l'ante. 3
+Fépetlamaille : met l'ante. 3
+RayuRuna : met l'ante. 3
+Miguiastur : met l'ante. 3
+yoniwinter : met la petite blind. 15
+sakyo97277 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs 9d]
+Fépetlamaille : suit. 30
+RayuRuna : relance. 60 à 90
+Miguiastur : suit. 90
+yoniwinter : suit. 75
+sakyo97277 : passe.
+Fépetlamaille : passe.
+*** FLOP *** [6c 7c Ah]
+yoniwinter : parole
+RayuRuna : mise. 120
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+yoniwinter : suit. 120
+*** TOURNANT *** [6c 7c Ah] [3c]
+yoniwinter : parole
+RayuRuna : parole
+*** RIVIÈRE *** [6c 7c Ah 3c] [8c]
+yoniwinter : parole
+RayuRuna : mise. 180
+yoniwinter : suit. 180
+*** ABATTAGE ***
+RayuRuna : montre [Qs 9d] (Hauteur As)
+yoniwinter : montre [2s Ad] (une paire de As)
+yoniwinter a remporté 945  lors du pot .
+*** SYNTHÈSE ***
+Pot total 945 | Commission 0
+Tableau [6c 7c Ah 3c 8c]
+Siège 1 : yoniwinter (petite blind) a montré [2s Ad] et a gagné (945) avec une paire de As
+Siège 2 : sakyo97277 (grosse blind) s'est couché. avant Flop
+Siège 3 : Fépetlamaille s'est couché. avant Flop
+Siège 4 : RayuRuna a montré [Qs 9d] et a perdu avec Hauteur As
+Siège 6 : Miguiastur (bouton) s'est couché. sur le Flop
+
+
+*********** # 6 **************
+Main PokerStars n°242418476296 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 12:14:49 CET [13/03/2023 7:14:49 ET]
+Table '3559916617 2' 6-max Siège #1 est au bouton.
+Place 1: yoniwinter (6451 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2955 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6637 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (2551 en jetons, prime de 0.04 €)
+Place 5: kapofurtive (3000 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2768 en jetons, prime de 0.04 €) ne joue pas.
+yoniwinter : met l'ante. 3
+sakyo97277 : met l'ante. 3
+Fépetlamaille : met l'ante. 3
+RayuRuna : met l'ante. 3
+kapofurtive : met l'ante. 3
+Miguiastur : met l'ante. 3
+sakyo97277 : met la petite blind. 15
+Fépetlamaille : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2d 8d]
+RayuRuna : passe.
+kapofurtive : passe.
+Miguiastur : passe.
+yoniwinter : relance. 60 à 90
+sakyo97277 : passe.
+Fépetlamaille : suit. 60
+*** FLOP *** [8c Jd Qd]
+Fépetlamaille : mise. 90
+Miguiastur est revenu.
+yoniwinter : relance. 90 à 180
+Fépetlamaille : suit. 90
+*** TOURNANT *** [8c Jd Qd] [Tc]
+Fépetlamaille : parole
+yoniwinter : parole
+*** RIVIÈRE *** [8c Jd Qd Tc] [9c]
+Fépetlamaille : mise. 120
+yoniwinter : suit. 120
+*** ABATTAGE ***
+Fépetlamaille : montre [6c Qc] (une couleur, hauteur Dame)
+yoniwinter : cache la main perdante.
+Fépetlamaille a remporté 813  lors du pot .
+*** SYNTHÈSE ***
+Pot total 813 | Commission 0
+Tableau [8c Jd Qd Tc 9c]
+Siège 1 : yoniwinter (bouton) a caché la main perdante. [Ah Ad]
+Siège 2 : sakyo97277 (petite blind) s'est couché. avant Flop
+Siège 3 : Fépetlamaille (grosse blind) a montré [6c Qc] et a gagné (813) avec une couleur, hauteur Dame
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : kapofurtive s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 7 **************
+Main PokerStars n°242418486163 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:15:48 CET [13/03/2023 7:15:48 ET]
+Table '3559916617 2' 6-max Siège #2 est au bouton.
+Place 1: yoniwinter (6058 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2937 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (7057 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (2548 en jetons, prime de 0.04 €)
+Place 5: kapofurtive (2997 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2765 en jetons, prime de 0.04 €)
+yoniwinter : met l'ante. 4
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+kapofurtive : met l'ante. 4
+Miguiastur : met l'ante. 4
+Fépetlamaille : met la petite blind. 20
+RayuRuna : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3h 6d]
+kapofurtive : relance. 2953 à 2993 et est all-in.
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+yoniwinter : passe.
+sakyo97277 : passe.
+Fépetlamaille : passe.
+RayuRuna : passe.
+Personne n'a suivi. (2953) sont retournés à kapofurtive.
+kapofurtive a remporté 124  lors du pot .
+kapofurtive : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 124 | Commission 0
+Siège 1 : yoniwinter s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) s'est couché. avant Flop
+Siège 5 : kapofurtive a remporté (124)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 8 **************
+Main PokerStars n°242418492020 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:16:24 CET [13/03/2023 7:16:24 ET]
+Table '3559916617 2' 6-max Siège #3 est au bouton.
+Place 1: yoniwinter (6054 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2933 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (7033 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (2504 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2761 en jetons, prime de 0.04 €) ne joue pas.
+yoniwinter : met l'ante. 4
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+Miguiastur : met l'ante. 4
+RayuRuna : met la petite blind. 20
+Miguiastur : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9h 9s]
+yoniwinter : passe.
+sakyo97277 : passe.
+Fépetlamaille : suit. 40
+RayuRuna : relance. 80 à 120
+Miguiastur : passe.
+Fépetlamaille : suit. 80
+*** FLOP *** [9d Kh 7c]
+RayuRuna : parole
+Fépetlamaille : mise. 150
+RayuRuna : suit. 150
+*** TOURNANT *** [9d Kh 7c] [7h]
+RayuRuna : parole
+Fépetlamaille : mise. 340
+RayuRuna : suit. 340
+*** RIVIÈRE *** [9d Kh 7c 7h] [Qh]
+RayuRuna : mise. 1890 et est all-in.
+Fépetlamaille : passe.
+Personne n'a suivi. (1890) sont retournés à RayuRuna.
+RayuRuna a remporté 1280  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0
+Tableau [9d Kh 7c 7h Qh]
+Siège 1 : yoniwinter s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (bouton) s'est couché. sur le Rivière
+Siège 4 : RayuRuna (petite blind) a remporté (1280)
+Siège 6 : Miguiastur (grosse blind) s'est couché. avant Flop
+
+
+*********** # 9 **************
+Main PokerStars n°242418504196 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:17:38 CET [13/03/2023 7:17:38 ET]
+Table '3559916617 2' 6-max Siège #4 est au bouton.
+Place 1: yoniwinter (6050 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2929 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6419 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3170 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (3000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 6: Miguiastur (2717 en jetons, prime de 0.04 €) ne joue pas.
+nikchtblof sera autorisé à jouer après le bouton.
+yoniwinter : met l'ante. 4
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+Miguiastur : met l'ante. 4
+Miguiastur : met la petite blind. 20
+yoniwinter : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7d 9h]
+sakyo97277 : passe.
+Fépetlamaille : relance. 80 à 120
+RayuRuna : passe.
+Miguiastur : passe.
+yoniwinter : passe.
+Personne n'a suivi. (80) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0
+Siège 1 : yoniwinter (grosse blind) s'est couché. avant Flop
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille a remporté (120)
+Siège 4 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (petite blind) s'est couché. avant Flop
+
+
+*********** # 10 **************
+Main PokerStars n°242418506523 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:17:51 CET [13/03/2023 7:17:51 ET]
+Table '3559916617 2' 6-max Siège #6 est au bouton.
+Place 1: yoniwinter (6006 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2925 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6495 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3166 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (3000 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2693 en jetons, prime de 0.04 €) ne joue pas.
+yoniwinter : met l'ante. 4
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+nikchtblof : met l'ante. 4
+Miguiastur : met l'ante. 4
+yoniwinter : met la petite blind. 20
+sakyo97277 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8c Ac]
+Fépetlamaille : passe.
+RayuRuna : relance. 60 à 100
+nikchtblof : passe.
+Miguiastur : passe.
+yoniwinter : passe.
+sakyo97277 : passe.
+Personne n'a suivi. (60) sont retournés à RayuRuna.
+RayuRuna a remporté 124  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 124 | Commission 0
+Siège 1 : yoniwinter (petite blind) s'est couché. avant Flop
+Siège 2 : sakyo97277 (grosse blind) s'est couché. avant Flop
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna a remporté (124)
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 11 **************
+Main PokerStars n°242418509120 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:18:07 CET [13/03/2023 7:18:07 ET]
+Table '3559916617 2' 6-max Siège #1 est au bouton.
+Place 1: yoniwinter (5982 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2881 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6491 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3246 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2996 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2689 en jetons, prime de 0.04 €) ne joue pas.
+yoniwinter : met l'ante. 4
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+nikchtblof : met l'ante. 4
+Miguiastur : met l'ante. 4
+sakyo97277 : met la petite blind. 20
+Fépetlamaille : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd Jc]
+RayuRuna : relance. 60 à 100
+nikchtblof : suit. 100
+Miguiastur : passe.
+yoniwinter : suit. 100
+Miguiastur est revenu.
+sakyo97277 : suit. 80
+Fépetlamaille : passe.
+*** FLOP *** [Td 6s 9c]
+sakyo97277 : parole
+RayuRuna : mise. 160
+nikchtblof : passe.
+yoniwinter : suit. 160
+sakyo97277 : suit. 160
+*** TOURNANT *** [Td 6s 9c] [9d]
+sakyo97277 : parole
+RayuRuna : parole
+yoniwinter : parole
+*** RIVIÈRE *** [Td 6s 9c 9d] [Kh]
+sakyo97277 : parole
+RayuRuna : mise. 720
+yoniwinter : passe.
+sakyo97277 : passe.
+Personne n'a suivi. (720) sont retournés à RayuRuna.
+RayuRuna a remporté 944  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 944 | Commission 0
+Tableau [Td 6s 9c 9d Kh]
+Siège 1 : yoniwinter (bouton) s'est couché. sur le Rivière
+Siège 2 : sakyo97277 (petite blind) s'est couché. sur le Rivière
+Siège 3 : Fépetlamaille (grosse blind) s'est couché. avant Flop
+Siège 4 : RayuRuna a remporté (944)
+Siège 5 : nikchtblof s'est couché. sur le Flop
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 12 **************
+Main PokerStars n°242418519969 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:19:11 CET [13/03/2023 7:19:11 ET]
+Table '3559916617 2' 6-max Siège #2 est au bouton.
+Place 2: sakyo97277 (2617 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6447 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3926 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2892 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2685 en jetons, prime de 0.04 €)
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+nikchtblof : met l'ante. 4
+Miguiastur : met l'ante. 4
+Fépetlamaille : met la petite blind. 20
+RayuRuna : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9h Kh]
+nikchtblof : passe.
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+sakyo97277 : passe.
+Fépetlamaille : passe.
+Personne n'a suivi. (20) sont retournés à RayuRuna.
+RayuRuna a remporté 60  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0
+Siège 2 : sakyo97277 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) a remporté (60)
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 13 **************
+Main PokerStars n°242418524412 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 12:19:38 CET [13/03/2023 7:19:38 ET]
+Table '3559916617 2' 6-max Siège #3 est au bouton.
+Place 2: sakyo97277 (2613 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6423 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3962 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2888 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2681 en jetons, prime de 0.04 €) ne joue pas.
+sakyo97277 : met l'ante. 4
+Fépetlamaille : met l'ante. 4
+RayuRuna : met l'ante. 4
+nikchtblof : met l'ante. 4
+Miguiastur : met l'ante. 4
+RayuRuna : met la petite blind. 20
+nikchtblof : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7d 8s]
+Miguiastur : passe.
+sakyo97277 : passe.
+Miguiastur est revenu.
+Fépetlamaille : suit. 40
+RayuRuna : suit. 20
+nikchtblof : parole
+*** FLOP *** [Kd 7s Ac]
+RayuRuna : parole
+nikchtblof : parole
+Fépetlamaille : parole
+*** TOURNANT *** [Kd 7s Ac] [3h]
+RayuRuna : mise. 80
+nikchtblof : passe.
+Fépetlamaille : passe.
+Personne n'a suivi. (80) sont retournés à RayuRuna.
+RayuRuna a remporté 140  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0
+Tableau [Kd 7s Ac 3h]
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (bouton) s'est couché. sur le Tournant
+Siège 4 : RayuRuna (petite blind) a remporté (140)
+Siège 5 : nikchtblof (grosse blind) s'est couché. sur le Tournant
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 14 **************
+Main PokerStars n°242418530854 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:20:17 CET [13/03/2023 7:20:17 ET]
+Table '3559916617 2' 6-max Siège #4 est au bouton.
+Place 2: sakyo97277 (2609 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6379 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4058 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2844 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2677 en jetons, prime de 0.04 €)
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+nikchtblof : met la petite blind. 25
+Miguiastur : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ts 8c]
+sakyo97277 : passe.
+Fépetlamaille : passe.
+RayuRuna : suit. 50
+nikchtblof : passe.
+Miguiastur a dépassé le temps imparti.
+Miguiastur : parole
+*** FLOP *** [4s 3d 6h]
+Miguiastur a dépassé le temps imparti.
+Miguiastur : parole
+RayuRuna : parole
+*** TOURNANT *** [4s 3d 6h] [5c]
+Miguiastur a dépassé le temps imparti.
+Miguiastur : parole
+RayuRuna : parole
+*** RIVIÈRE *** [4s 3d 6h 5c] [5d]
+Miguiastur : mise. 116
+RayuRuna : passe.
+Personne n'a suivi. (116) sont retournés à Miguiastur.
+Miguiastur a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0
+Tableau [4s 3d 6h 5c 5d]
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (bouton) s'est couché. sur le Rivière
+Siège 5 : nikchtblof (petite blind) s'est couché. avant Flop
+Siège 6 : Miguiastur (grosse blind) a remporté (150)
+
+
+*********** # 15 **************
+Main PokerStars n°242418544100 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:21:36 CET [13/03/2023 7:21:36 ET]
+Table '3559916617 2' 6-max Siège #5 est au bouton.
+Place 1: boulbi231 (3000 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2604 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6374 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4003 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2814 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2772 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+Miguiastur : met la petite blind. 25
+boulbi231 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6h 4c]
+sakyo97277 : passe.
+Fépetlamaille : suit. 50
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur : relance. 225 à 275
+boulbi231 : passe.
+Fépetlamaille : passe.
+Personne n'a suivi. (225) sont retournés à Miguiastur.
+Miguiastur a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0
+Siège 1 : boulbi231 (grosse blind) s'est couché. avant Flop
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille s'est couché. avant Flop
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (petite blind) a remporté (180)
+
+
+*********** # 16 **************
+Main PokerStars n°242418550189 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:22:11 CET [13/03/2023 7:22:11 ET]
+Table '3559916617 2' 6-max Siège #6 est au bouton.
+Place 1: boulbi231 (2945 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2599 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6319 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3998 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2809 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2897 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+boulbi231 : met la petite blind. 25
+sakyo97277 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2d Jc]
+Fépetlamaille : passe.
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur : passe.
+boulbi231 : suit. 25
+sakyo97277 : parole
+*** FLOP *** [8s 4d Ks]
+boulbi231 : parole
+sakyo97277 : mise. 72
+boulbi231 : passe.
+Personne n'a suivi. (72) sont retournés à sakyo97277.
+sakyo97277 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0
+Tableau [8s 4d Ks]
+Siège 1 : boulbi231 (petite blind) s'est couché. sur le Flop
+Siège 2 : sakyo97277 (grosse blind) a remporté (130)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 17 **************
+Main PokerStars n°242418554921 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:22:39 CET [13/03/2023 7:22:39 ET]
+Table '3559916617 2' 6-max Siège #1 est au bouton.
+Place 1: boulbi231 (2890 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2674 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6314 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3993 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2804 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2892 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+sakyo97277 : met la petite blind. 25
+Fépetlamaille : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kc 2h]
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur : passe.
+boulbi231 : passe.
+sakyo97277 : passe.
+Personne n'a suivi. (25) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0
+Siège 1 : boulbi231 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 (petite blind) s'est couché. avant Flop
+Siège 3 : Fépetlamaille (grosse blind) a remporté (80)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 18 **************
+Main PokerStars n°242418557494 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:22:54 CET [13/03/2023 7:22:54 ET]
+Table '3559916617 2' 6-max Siège #2 est au bouton.
+Place 1: boulbi231 (2885 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2644 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6364 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3988 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2799 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2887 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+Fépetlamaille : met la petite blind. 25
+RayuRuna : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6h 3d]
+nikchtblof : suit. 50
+Miguiastur : passe.
+boulbi231 : passe.
+sakyo97277 : suit. 50
+Fépetlamaille : passe.
+RayuRuna : parole
+*** FLOP *** [4s 2d 2c]
+RayuRuna : mise. 50
+nikchtblof : suit. 50
+sakyo97277 : passe.
+*** TOURNANT *** [4s 2d 2c] [4d]
+RayuRuna : parole
+nikchtblof : parole
+*** RIVIÈRE *** [4s 2d 2c 4d] [Ts]
+RayuRuna : parole
+nikchtblof : parole
+*** ABATTAGE ***
+RayuRuna : montre [6h 3d] (double paire, Quatre et Deux)
+nikchtblof : montre [Jd Jh] (double paire, Valets et Quatre)
+nikchtblof a remporté 305  lors du pot .
+*** SYNTHÈSE ***
+Pot total 305 | Commission 0
+Tableau [4s 2d 2c 4d Ts]
+Siège 1 : boulbi231 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 (bouton) s'est couché. sur le Flop
+Siège 3 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) a montré [6h 3d] et a perdu avec double paire, Quatre et Deux
+Siège 5 : nikchtblof a montré [Jd Jh] et a gagné (305) avec double paire, Valets et Quatre
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 19 **************
+Main PokerStars n°242418563986 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:23:31 CET [13/03/2023 7:23:31 ET]
+Table '3559916617 2' 6-max Siège #3 est au bouton.
+Place 1: boulbi231 (2880 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2589 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6334 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3883 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2999 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2882 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+RayuRuna : met la petite blind. 25
+nikchtblof : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5c Jd]
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+boulbi231 : passe.
+sakyo97277 : passe.
+Fépetlamaille : relance. 100 à 150
+RayuRuna : passe.
+nikchtblof : passe. [3s]
+Personne n'a suivi. (100) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 155  lors du pot .
+*** SYNTHÈSE ***
+Pot total 155 | Commission 0
+Siège 1 : boulbi231 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (bouton) a remporté (155)
+Siège 4 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 5 : nikchtblof (grosse blind) s'est couché. avant Flop
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 20 **************
+Main PokerStars n°242418568701 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:23:58 CET [13/03/2023 7:23:58 ET]
+Table '3559916617 2' 6-max Siège #4 est au bouton.
+Place 1: boulbi231 (2875 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2584 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6434 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3853 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2944 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2877 en jetons, prime de 0.04 €) ne joue pas.
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+nikchtblof : met la petite blind. 25
+Miguiastur : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8c Qd]
+boulbi231 : relance. 100 à 150
+sakyo97277 : passe.
+Fépetlamaille : passe.
+RayuRuna : suit. 150
+nikchtblof : passe.
+Miguiastur : passe.
+*** FLOP *** [9c Ks 5h]
+boulbi231 : mise. 405
+RayuRuna : passe.
+Personne n'a suivi. (405) sont retournés à boulbi231.
+boulbi231 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0
+Tableau [9c Ks 5h]
+Siège 1 : boulbi231 a remporté (405)
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (bouton) s'est couché. sur le Flop
+Siège 5 : nikchtblof (petite blind) s'est couché. avant Flop
+Siège 6 : Miguiastur (grosse blind) s'est couché. avant Flop
+
+
+*********** # 21 **************
+Main PokerStars n°242418573687 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:24:26 CET [13/03/2023 7:24:26 ET]
+Table '3559916617 2' 6-max Siège #5 est au bouton.
+Place 1: boulbi231 (3125 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2579 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6429 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3698 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2914 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2822 en jetons, prime de 0.04 €) ne joue pas.
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+Miguiastur : met la petite blind. 25
+boulbi231 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6h 9h]
+sakyo97277 : passe.
+Fépetlamaille : passe.
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur : passe.
+Personne n'a suivi. (25) sont retournés à boulbi231.
+boulbi231 a remporté 80  lors du pot .
+Miguiastur est revenu.
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0
+Siège 1 : boulbi231 (grosse blind) a remporté (80)
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (petite blind) s'est couché. avant Flop
+
+
+*********** # 22 **************
+Main PokerStars n°242418575065 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 12:24:34 CET [13/03/2023 7:24:34 ET]
+Table '3559916617 2' 6-max Siège #6 est au bouton.
+Place 1: boulbi231 (3175 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2574 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6424 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3693 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2909 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2792 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 5
+sakyo97277 : met l'ante. 5
+Fépetlamaille : met l'ante. 5
+RayuRuna : met l'ante. 5
+nikchtblof : met l'ante. 5
+Miguiastur : met l'ante. 5
+boulbi231 : met la petite blind. 25
+sakyo97277 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs 3d]
+Fépetlamaille : passe.
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+Miguiastur est revenu.
+boulbi231 : passe.
+Personne n'a suivi. (25) sont retournés à sakyo97277.
+sakyo97277 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0
+Siège 1 : boulbi231 (petite blind) s'est couché. avant Flop
+Siège 2 : sakyo97277 (grosse blind) a remporté (80)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 23 **************
+Main PokerStars n°242418581449 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:25:11 CET [13/03/2023 7:25:11 ET]
+Table '3559916617 2' 6-max Siège #1 est au bouton.
+Place 1: boulbi231 (3145 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2624 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6419 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3688 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2904 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2787 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+sakyo97277 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+sakyo97277 : met la petite blind. 30
+Fépetlamaille : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s Jd]
+RayuRuna : relance. 102 à 162
+nikchtblof : passe.
+Miguiastur : passe.
+boulbi231 : passe.
+sakyo97277 : passe.
+Fépetlamaille : suit. 102
+*** FLOP *** [4c Ah Kd]
+Fépetlamaille : mise. 120
+RayuRuna : passe.
+Personne n'a suivi. (120) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0
+Tableau [4c Ah Kd]
+Siège 1 : boulbi231 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 (petite blind) s'est couché. avant Flop
+Siège 3 : Fépetlamaille (grosse blind) a remporté (390)
+Siège 4 : RayuRuna s'est couché. sur le Flop
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 24 **************
+Main PokerStars n°242418588272 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:25:50 CET [13/03/2023 7:25:50 ET]
+Table '3559916617 2' 6-max Siège #2 est au bouton.
+Place 1: boulbi231 (3139 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2588 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6641 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3520 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2898 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2781 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+sakyo97277 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+Fépetlamaille : met la petite blind. 30
+RayuRuna : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7c Qc]
+nikchtblof : passe.
+Miguiastur : passe.
+boulbi231 : suit. 60
+sakyo97277 : relance. 2522 à 2582 et est all-in.
+Fépetlamaille : passe.
+RayuRuna : passe.
+boulbi231 : passe.
+Personne n'a suivi. (2522) sont retournés à sakyo97277.
+sakyo97277 a remporté 246  lors du pot .
+*** SYNTHÈSE ***
+Pot total 246 | Commission 0
+Siège 1 : boulbi231 s'est couché. avant Flop
+Siège 2 : sakyo97277 (bouton) a remporté (246)
+Siège 3 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) s'est couché. avant Flop
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 25 **************
+Main PokerStars n°242418592990 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:26:17 CET [13/03/2023 7:26:17 ET]
+Table '3559916617 2' 6-max Siège #3 est au bouton.
+Place 1: boulbi231 (3073 en jetons, prime de 0.04 €)
+Place 2: sakyo97277 (2768 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6605 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3454 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2892 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2775 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+sakyo97277 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+RayuRuna : met la petite blind. 30
+nikchtblof : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4c 4d]
+Miguiastur : passe.
+boulbi231 : passe.
+sakyo97277 : passe.
+Fépetlamaille : relance. 120 à 180
+RayuRuna : suit. 150
+nikchtblof : passe.
+*** FLOP *** [5d Qh 7s]
+RayuRuna : parole
+Fépetlamaille : mise. 396
+RayuRuna : passe.
+Personne n'a suivi. (396) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 456  lors du pot .
+*** SYNTHÈSE ***
+Pot total 456 | Commission 0
+Tableau [5d Qh 7s]
+Siège 1 : boulbi231 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sakyo97277 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (bouton) a remporté (456)
+Siège 4 : RayuRuna (petite blind) s'est couché. sur le Flop
+Siège 5 : nikchtblof (grosse blind) s'est couché. avant Flop
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 26 **************
+Main PokerStars n°242418598421 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:26:48 CET [13/03/2023 7:26:48 ET]
+Table '3559916617 2' 6-max Siège #4 est au bouton.
+Place 1: boulbi231 (3067 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6875 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3268 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2826 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2769 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+nikchtblof : met la petite blind. 30
+Miguiastur : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4s 6s]
+boulbi231 : passe.
+Fépetlamaille : passe.
+RayuRuna : passe.
+nikchtblof : passe.
+Personne n'a suivi. (30) sont retournés à Miguiastur.
+Miguiastur a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0
+Siège 1 : boulbi231 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof (petite blind) s'est couché. avant Flop
+Siège 6 : Miguiastur (grosse blind) a remporté (90)
+
+
+*********** # 27 **************
+Main PokerStars n°242418600489 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:26:59 CET [13/03/2023 7:26:59 ET]
+Table '3559916617 2' 6-max Siège #5 est au bouton.
+Place 1: boulbi231 (3061 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6869 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3262 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2790 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2823 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+Miguiastur : met la petite blind. 30
+boulbi231 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s 5s]
+Fépetlamaille : suit. 60
+RayuRuna : passe.
+nikchtblof : suit. 60
+Miguiastur : passe.
+boulbi231 : parole
+*** FLOP *** [4d 7s Qh]
+boulbi231 : mise. 240
+Fépetlamaille : passe.
+nikchtblof : passe.
+Personne n'a suivi. (240) sont retournés à boulbi231.
+boulbi231 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0
+Tableau [4d 7s Qh]
+Siège 1 : boulbi231 (grosse blind) a remporté (240)
+Siège 3 : Fépetlamaille s'est couché. sur le Flop
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof (bouton) s'est couché. sur le Flop
+Siège 6 : Miguiastur (petite blind) s'est couché. avant Flop
+
+
+*********** # 28 **************
+Main PokerStars n°242418604784 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:27:24 CET [13/03/2023 7:27:24 ET]
+Table '3559916617 2' 6-max Siège #6 est au bouton.
+Place 1: boulbi231 (3235 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6803 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3256 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2724 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2787 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+boulbi231 : met la petite blind. 30
+Fépetlamaille : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [As 8c]
+RayuRuna : relance. 60 à 120
+nikchtblof : suit. 120
+Miguiastur : passe.
+boulbi231 : passe.
+Fépetlamaille : passe.
+*** FLOP *** [Ts Qh Jh]
+lolo6865 est déconnecté
+RayuRuna : mise. 120
+nikchtblof : suit. 120
+*** TOURNANT *** [Ts Qh Jh] [3c]
+RayuRuna : parole
+nikchtblof : parole
+*** RIVIÈRE *** [Ts Qh Jh 3c] [9h]
+RayuRuna : mise. 300
+nikchtblof : suit. 300
+*** ABATTAGE ***
+RayuRuna : montre [As 8c] (une suite, Huit à Dame)
+nikchtblof : cache la main perdante.
+RayuRuna a remporté 1200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0
+Tableau [Ts Qh Jh 3c 9h]
+Siège 1 : boulbi231 (petite blind) s'est couché. avant Flop
+Siège 3 : Fépetlamaille (grosse blind) s'est couché. avant Flop
+Siège 4 : RayuRuna a montré [As 8c] et a gagné (1200) avec une suite, Huit à Dame
+Siège 5 : nikchtblof a caché la main perdante. [Qc Jc]
+Siège 6 : Miguiastur (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 29 **************
+Main PokerStars n°242418613331 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:28:12 CET [13/03/2023 7:28:12 ET]
+Table '3559916617 2' 6-max Siège #1 est au bouton.
+Place 1: boulbi231 (3199 en jetons, prime de 0.04 €)
+Place 2: lolo6865 (3000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 3: Fépetlamaille (6737 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (3910 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (2178 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2781 en jetons, prime de 0.04 €)
+lolo6865 sera autorisé à jouer après le bouton.
+boulbi231 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+Fépetlamaille : met la petite blind. 30
+RayuRuna : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ah 4d]
+nikchtblof : suit. 60
+Miguiastur : passe.
+boulbi231 : passe.
+Fépetlamaille : suit. 30
+RayuRuna : parole
+*** FLOP *** [8h Jh As]
+Fépetlamaille : mise. 120
+RayuRuna : suit. 120
+nikchtblof : suit. 120
+*** TOURNANT *** [8h Jh As] [4h]
+Fépetlamaille : mise. 120
+RayuRuna : relance. 240 à 360
+nikchtblof : passe.
+Fépetlamaille : suit. 240
+*** RIVIÈRE *** [8h Jh As 4h] [3h]
+Fépetlamaille : parole
+RayuRuna : mise. 780
+Fépetlamaille : passe.
+Personne n'a suivi. (780) sont retournés à RayuRuna.
+RayuRuna a remporté 1290  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1290 | Commission 0
+Tableau [8h Jh As 4h 3h]
+Siège 1 : boulbi231 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (petite blind) s'est couché. sur le Rivière
+Siège 4 : RayuRuna (grosse blind) a remporté (1290)
+Siège 5 : nikchtblof s'est couché. sur le Tournant
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 30 **************
+Main PokerStars n°242418628571 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 12:29:38 CET [13/03/2023 7:29:38 ET]
+Table '3559916617 2' 6-max Siège #3 est au bouton.
+Place 1: boulbi231 (3193 en jetons, prime de 0.04 €)
+Place 2: lolo6865 (3000 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6191 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4654 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (1992 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2775 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 6
+lolo6865 : met l'ante. 6
+Fépetlamaille : met l'ante. 6
+RayuRuna : met l'ante. 6
+nikchtblof : met l'ante. 6
+Miguiastur : met l'ante. 6
+RayuRuna : met la petite blind. 30
+nikchtblof : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8h 7c]
+Miguiastur : passe.
+boulbi231 : relance. 60 à 120
+lolo6865 : passe.
+Fépetlamaille : suit. 120
+RayuRuna : suit. 90
+nikchtblof : passe.
+*** FLOP *** [3c Td As]
+RayuRuna : parole
+boulbi231 : mise. 456
+Fépetlamaille : passe.
+RayuRuna : passe.
+Personne n'a suivi. (456) sont retournés à boulbi231.
+boulbi231 a remporté 456  lors du pot .
+*** SYNTHÈSE ***
+Pot total 456 | Commission 0
+Tableau [3c Td As]
+Siège 1 : boulbi231 a remporté (456)
+Siège 2 : lolo6865 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Fépetlamaille (bouton) s'est couché. sur le Flop
+Siège 4 : RayuRuna (petite blind) s'est couché. sur le Flop
+Siège 5 : nikchtblof (grosse blind) s'est couché. avant Flop
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 31 **************
+Main PokerStars n°242418634881 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 12:30:13 CET [13/03/2023 7:30:13 ET]
+Table '3559916617 2' 6-max Siège #4 est au bouton.
+Place 1: boulbi231 (3523 en jetons, prime de 0.04 €)
+Place 2: lolo6865 (2994 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6065 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4528 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (1926 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2769 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 8
+lolo6865 : met l'ante. 8
+Fépetlamaille : met l'ante. 8
+RayuRuna : met l'ante. 8
+nikchtblof : met l'ante. 8
+Miguiastur : met l'ante. 8
+nikchtblof : met la petite blind. 40
+Miguiastur : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qh 5s]
+boulbi231 : passe.
+lolo6865 : suit. 80
+Fépetlamaille : passe.
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur : parole
+*** FLOP *** [7d 7h Jh]
+Miguiastur : parole
+lolo6865 : parole
+*** TOURNANT *** [7d 7h Jh] [2c]
+Miguiastur : parole
+lolo6865 : mise. 248
+Miguiastur : passe.
+Personne n'a suivi. (248) sont retournés à lolo6865.
+lolo6865 a remporté 248  lors du pot .
+*** SYNTHÈSE ***
+Pot total 248 | Commission 0
+Tableau [7d 7h Jh 2c]
+Siège 1 : boulbi231 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lolo6865 a remporté (248)
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof (petite blind) s'est couché. avant Flop
+Siège 6 : Miguiastur (grosse blind) s'est couché. sur le Tournant
+
+
+*********** # 32 **************
+Main PokerStars n°242418643778 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 12:31:05 CET [13/03/2023 7:31:05 ET]
+Table '3559916617 2' 6-max Siège #5 est au bouton.
+Place 1: boulbi231 (3515 en jetons, prime de 0.04 €)
+Place 2: lolo6865 (3154 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6057 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4520 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (1878 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2681 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 8
+lolo6865 : met l'ante. 8
+Fépetlamaille : met l'ante. 8
+RayuRuna : met l'ante. 8
+nikchtblof : met l'ante. 8
+Miguiastur : met l'ante. 8
+Miguiastur : met la petite blind. 40
+boulbi231 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3d Kh]
+lolo6865 : suit. 80
+Fépetlamaille : relance. 328 à 408
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+Miguiastur est revenu.
+boulbi231 : suit. 328
+lolo6865 : suit. 328
+*** FLOP *** [Kd 5s 4c]
+boulbi231 : parole
+lolo6865 : parole
+Fépetlamaille : mise. 1712
+boulbi231 : passe.
+lolo6865 : passe.
+Personne n'a suivi. (1712) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 1312  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1312 | Commission 0
+Tableau [Kd 5s 4c]
+Siège 1 : boulbi231 (grosse blind) s'est couché. sur le Flop
+Siège 2 : lolo6865 s'est couché. sur le Flop
+Siège 3 : Fépetlamaille a remporté (1312)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (petite blind) s'est couché. avant Flop
+
+
+*********** # 33 **************
+Main PokerStars n°242418659007 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 12:32:32 CET [13/03/2023 7:32:32 ET]
+Table '3559916617 2' 6-max Siège #6 est au bouton.
+Place 1: boulbi231 (3099 en jetons, prime de 0.04 €)
+Place 2: lolo6865 (2738 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6953 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4512 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (1870 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2633 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 8
+lolo6865 : met l'ante. 8
+Fépetlamaille : met l'ante. 8
+RayuRuna : met l'ante. 8
+nikchtblof : met l'ante. 8
+Miguiastur : met l'ante. 8
+boulbi231 : met la petite blind. 40
+lolo6865 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6c 7d]
+Fépetlamaille : passe.
+RayuRuna : passe.
+nikchtblof : passe.
+Miguiastur a dépassé le temps imparti.
+Miguiastur : passe.
+Miguiastur ne joue pas.
+boulbi231 : relance. 208 à 288
+lolo6865 : suit. 208
+*** FLOP *** [5d Jd 4h]
+Miguiastur est revenu.
+boulbi231 : mise. 624
+lolo6865 : suit. 624
+*** TOURNANT *** [5d Jd 4h] [Qc]
+boulbi231 : mise. 1872
+lolo6865 : passe.
+Personne n'a suivi. (1872) sont retournés à boulbi231.
+boulbi231 a remporté 1872  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1872 | Commission 0
+Tableau [5d Jd 4h Qc]
+Siège 1 : boulbi231 (petite blind) a remporté (1872)
+Siège 2 : lolo6865 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Fépetlamaille s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 34 **************
+Main PokerStars n°242418667589 : Tournoi #3559916617, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 12:33:19 CET [13/03/2023 7:33:19 ET]
+Table '3559916617 2' 6-max Siège #1 est au bouton.
+Place 1: boulbi231 (4051 en jetons, prime de 0.04 €)
+Place 2: lolo6865 (1818 en jetons, prime de 0.04 €)
+Place 3: Fépetlamaille (6945 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (4504 en jetons, prime de 0.04 €)
+Place 5: nikchtblof (1862 en jetons, prime de 0.04 €)
+Place 6: Miguiastur (2625 en jetons, prime de 0.04 €)
+boulbi231 : met l'ante. 8
+lolo6865 : met l'ante. 8
+Fépetlamaille : met l'ante. 8
+RayuRuna : met l'ante. 8
+nikchtblof : met l'ante. 8
+Miguiastur : met l'ante. 8
+lolo6865 : met la petite blind. 40
+Fépetlamaille : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs Qh]
+RayuRuna : relance. 120 à 200
+nikchtblof : passe.
+Miguiastur : passe.
+boulbi231 : passe.
+lolo6865 : suit. 160
+Fépetlamaille : relance. 648 à 848
+RayuRuna : relance. 3648 à 4496 et est all-in.
+lolo6865 : suit. 1610 et est all-in.
+Fépetlamaille : suit. 3648
+*** FLOP *** [3c 4h 5c]
+*** TOURNANT *** [3c 4h 5c] [6d]
+*** RIVIÈRE *** [3c 4h 5c 6d] [9s]
+*** ABATTAGE ***
+Fépetlamaille : montre [9c 9h] (un brelan de Neuf)
+RayuRuna : montre [Qs Qh] (une paire de Dames)
+Fépetlamaille a remporté 5372  parallèle lors du pot .
+lolo6865 : montre [Tc Ks] (Hauteur Roi)
+Fépetlamaille a remporté 5478  principal lors du pot .
+Fépetlamaille gagne 0.02 € pour l'élimination de lolo6865 et sa prime augmente de 0.02 € à 0.10 €
+Fépetlamaille gagne 0.02 € pour l'élimination de RayuRuna et sa prime augmente de 0.02 € à 0.12 €
+RayuRuna a fini le tournoi en 124e position.
+lolo6865 a fini le tournoi en 125e position.
+Encarlopez est déconnecté
+*** SYNTHÈSE ***
+Pot total 10850 Principal pot 5478. Parallèle pot 5372. | Commission 0
+Tableau [3c 4h 5c 6d 9s]
+Siège 1 : boulbi231 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lolo6865 (petite blind) a montré [Tc Ks] et a perdu avec Hauteur Roi
+Siège 3 : Fépetlamaille (grosse blind) a montré [9c 9h] et a gagné (10850) avec un brelan de Neuf
+Siège 4 : RayuRuna a montré [Qs Qh] et a perdu avec une paire de Dames
+Siège 5 : nikchtblof s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Miguiastur s'est couché. avant Flop (n'a pas misé)

@@ -1,0 +1,1280 @@
+*********** # 1 **************
+Main PokerStars n°242431375101 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 23:16:31 CET [13/03/2023 18:16:31 ET]
+Table '3559916736 7' 9-max Siège #4 est au bouton.
+Place 1: anteamsc (2956 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (3000 en jetons, prime de 0.04 €)
+Place 3: planillas (1248 en jetons, prime de 0.04 €)
+Place 4: lili5644 (2684 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3165 en jetons, prime de 0.04 €)
+Place 6: Geri196 (4923 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (2960 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (3004 en jetons, prime de 0.04 €)
+Place 9: piju2009 (2953 en jetons, prime de 0.04 €)
+anteamsc : met l'ante. 4
+RayuRuna : met l'ante. 4
+planillas : met l'ante. 4
+lili5644 : met l'ante. 4
+Shaka169 : met l'ante. 4
+Geri196 : met l'ante. 4
+PoToCHoF : met l'ante. 4
+pagliuca82 : met l'ante. 4
+piju2009 : met l'ante. 4
+Shaka169 : met la petite blind. 20
+Geri196 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ts 3c]
+PoToCHoF : passe.
+pagliuca82 : passe.
+piju2009 : suit. 40
+anteamsc : relance. 40 à 80
+RayuRuna : passe.
+planillas : relance. 1164 à 1244 et est all-in.
+lili5644 : passe.
+Shaka169 : passe.
+Geri196 : passe.
+piju2009 : passe.
+anteamsc : suit. 1164
+*** FLOP *** [3s 5d Ac]
+*** TOURNANT *** [3s 5d Ac] [Kd]
+*** RIVIÈRE *** [3s 5d Ac Kd] [Qc]
+*** ABATTAGE ***
+anteamsc : montre [9c Tc] (Hauteur As)
+planillas : montre [Ad 9h] (une paire de As)
+planillas a remporté 2624  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2624 | Commission 0
+Tableau [3s 5d Ac Kd Qc]
+Siège 1 : anteamsc a montré [9c Tc] et a perdu avec Hauteur As
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : planillas a montré [Ad 9h] et a gagné (2624) avec une paire de As
+Siège 4 : lili5644 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Shaka169 (petite blind) s'est couché. avant Flop
+Siège 6 : Geri196 (grosse blind) s'est couché. avant Flop
+Siège 7 : PoToCHoF s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 s'est couché. avant Flop
+
+
+*********** # 2 **************
+Main PokerStars n°242431393597 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 23:17:20 CET [13/03/2023 18:17:20 ET]
+Table '3559916736 7' 9-max Siège #5 est au bouton.
+Place 1: anteamsc (1708 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (2996 en jetons, prime de 0.04 €)
+Place 3: planillas (2624 en jetons, prime de 0.04 €)
+Place 4: lili5644 (2680 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3141 en jetons, prime de 0.04 €)
+Place 6: Geri196 (4879 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (2956 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (3000 en jetons, prime de 0.04 €)
+Place 9: piju2009 (2909 en jetons, prime de 0.04 €)
+anteamsc : met l'ante. 4
+RayuRuna : met l'ante. 4
+planillas : met l'ante. 4
+lili5644 : met l'ante. 4
+Shaka169 : met l'ante. 4
+Geri196 : met l'ante. 4
+PoToCHoF : met l'ante. 4
+pagliuca82 : met l'ante. 4
+piju2009 : met l'ante. 4
+Geri196 : met la petite blind. 20
+PoToCHoF : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9c Ts]
+pagliuca82 : passe.
+piju2009 : passe.
+anteamsc : relance. 40 à 80
+RayuRuna : suit. 80
+planillas : passe.
+lili5644 : suit. 80
+Shaka169 : passe.
+Geri196 : passe.
+PoToCHoF : suit. 40
+*** FLOP *** [Qh 6d 8h]
+PoToCHoF : parole
+anteamsc : mise. 188
+RayuRuna : suit. 188
+lili5644 : suit. 188
+PoToCHoF : suit. 188
+*** TOURNANT *** [Qh 6d 8h] [2c]
+PoToCHoF : parole
+anteamsc : mise. 1436 et est all-in.
+RayuRuna : passe.
+lili5644 : passe.
+PoToCHoF : passe.
+Personne n'a suivi. (1436) sont retournés à anteamsc.
+anteamsc a remporté 1128  lors du pot .
+anteamsc : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1128 | Commission 0
+Tableau [Qh 6d 8h 2c]
+Siège 1 : anteamsc a remporté (1128)
+Siège 2 : RayuRuna s'est couché. sur le Tournant
+Siège 3 : planillas s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lili5644 s'est couché. sur le Tournant
+Siège 5 : Shaka169 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Geri196 (petite blind) s'est couché. avant Flop
+Siège 7 : PoToCHoF (grosse blind) s'est couché. sur le Tournant
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 3 **************
+Main PokerStars n°242431424381 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 23:18:41 CET [13/03/2023 18:18:41 ET]
+Table '3559916736 7' 9-max Siège #6 est au bouton.
+Place 1: anteamsc (2564 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (2724 en jetons, prime de 0.04 €)
+Place 3: planillas (2620 en jetons, prime de 0.04 €)
+Place 4: lili5644 (2408 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3137 en jetons, prime de 0.04 €)
+Place 6: Geri196 (4855 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (2684 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2996 en jetons, prime de 0.04 €)
+Place 9: piju2009 (2905 en jetons, prime de 0.04 €)
+anteamsc : met l'ante. 4
+RayuRuna : met l'ante. 4
+planillas : met l'ante. 4
+lili5644 : met l'ante. 4
+Shaka169 : met l'ante. 4
+Geri196 : met l'ante. 4
+PoToCHoF : met l'ante. 4
+pagliuca82 : met l'ante. 4
+piju2009 : met l'ante. 4
+PoToCHoF : met la petite blind. 20
+pagliuca82 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5d Kd]
+piju2009 : suit. 40
+anteamsc : passe.
+RayuRuna : relance. 80 à 120
+planillas : passe.
+lili5644 : passe.
+Shaka169 : passe.
+Geri196 : suit. 120
+PoToCHoF : passe.
+pagliuca82 : passe.
+piju2009 : suit. 80
+*** FLOP *** [6s Jh As]
+piju2009 : mise. 456
+RayuRuna : passe.
+Geri196 : suit. 456
+*** TOURNANT *** [6s Jh As] [7h]
+piju2009 : parole
+Geri196 : parole
+*** RIVIÈRE *** [6s Jh As 7h] [6d]
+piju2009 : mise. 684
+Geri196 : suit. 684
+*** ABATTAGE ***
+piju2009 : montre [Ac 8h] (double paire, As et Six)
+Geri196 : cache la main perdante.
+piju2009 a remporté 2736  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2736 | Commission 0
+Tableau [6s Jh As 7h 6d]
+Siège 1 : anteamsc s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna s'est couché. sur le Flop
+Siège 3 : planillas s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lili5644 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Geri196 (bouton) a caché la main perdante. [Jc 9c]
+Siège 7 : PoToCHoF (petite blind) s'est couché. avant Flop
+Siège 8 : pagliuca82 (grosse blind) s'est couché. avant Flop
+Siège 9 : piju2009 a montré [Ac 8h] et a gagné (2736) avec double paire, As et Six
+
+
+*********** # 4 **************
+Main PokerStars n°242431447821 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 23:19:43 CET [13/03/2023 18:19:43 ET]
+Table '3559916736 7' 9-max Siège #7 est au bouton.
+Place 1: anteamsc (2560 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (2600 en jetons, prime de 0.04 €)
+Place 3: planillas (2616 en jetons, prime de 0.04 €)
+Place 4: lili5644 (2404 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3133 en jetons, prime de 0.04 €)
+Place 6: Geri196 (3591 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (2660 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2952 en jetons, prime de 0.04 €)
+Place 9: piju2009 (4377 en jetons, prime de 0.04 €)
+anteamsc : met l'ante. 4
+RayuRuna : met l'ante. 4
+planillas : met l'ante. 4
+lili5644 : met l'ante. 4
+Shaka169 : met l'ante. 4
+Geri196 : met l'ante. 4
+PoToCHoF : met l'ante. 4
+pagliuca82 : met l'ante. 4
+piju2009 : met l'ante. 4
+pagliuca82 : met la petite blind. 20
+piju2009 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3c 8d]
+anteamsc : relance. 40 à 80
+RayuRuna : passe.
+planillas : passe.
+lili5644 : suit. 80
+Shaka169 : passe.
+Geri196 : suit. 80
+PoToCHoF : passe.
+pagliuca82 : passe.
+piju2009 : suit. 40
+*** FLOP *** [Kd Ts 9c]
+piju2009 : parole
+anteamsc : mise. 376
+lili5644 : suit. 376
+Geri196 : suit. 376
+piju2009 : passe.
+*** TOURNANT *** [Kd Ts 9c] [Qs]
+anteamsc : mise. 1504
+lili5644 : suit. 1504
+Geri196 : suit. 1504
+*** RIVIÈRE *** [Kd Ts 9c Qs] [5h]
+anteamsc : mise. 596 et est all-in.
+lili5644 : suit. 440 et est all-in.
+Geri196 : passe.
+Personne n'a suivi. (156) sont retournés à anteamsc.
+*** ABATTAGE ***
+anteamsc : montre [Ac 6d] (Hauteur As)
+lili5644 : montre [9d Th] (double paire, Dix et Neuf)
+lili5644 a remporté 6896  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6896 | Commission 0
+Tableau [Kd Ts 9c Qs 5h]
+Siège 1 : anteamsc a montré [Ac 6d] et a perdu avec Hauteur As
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : planillas s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lili5644 a montré [9d Th] et a gagné (6896) avec double paire, Dix et Neuf
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Geri196 s'est couché. sur le Rivière
+Siège 7 : PoToCHoF (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 (petite blind) s'est couché. avant Flop
+Siège 9 : piju2009 (grosse blind) s'est couché. sur le Flop
+
+
+*********** # 5 **************
+Main PokerStars n°242431475371 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 23:20:55 CET [13/03/2023 18:20:55 ET]
+Table '3559916736 7' 9-max Siège #8 est au bouton.
+Place 1: anteamsc (156 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (2596 en jetons, prime de 0.04 €)
+Place 3: planillas (2612 en jetons, prime de 0.04 €)
+Place 4: lili5644 (6896 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3129 en jetons, prime de 0.04 €)
+Place 6: Geri196 (1627 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (2656 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2928 en jetons, prime de 0.04 €)
+Place 9: piju2009 (4293 en jetons, prime de 0.04 €)
+anteamsc : met l'ante. 5
+RayuRuna : met l'ante. 5
+planillas : met l'ante. 5
+lili5644 : met l'ante. 5
+Shaka169 : met l'ante. 5
+Geri196 : met l'ante. 5
+PoToCHoF : met l'ante. 5
+pagliuca82 : met l'ante. 5
+piju2009 : met l'ante. 5
+piju2009 : met la petite blind. 25
+anteamsc : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6c 9c]
+RayuRuna : relance. 100 à 150
+planillas : passe.
+lili5644 : suit. 150
+Shaka169 : passe.
+Geri196 : suit. 150
+PoToCHoF : passe.
+pagliuca82 : passe.
+piju2009 : suit. 125
+anteamsc : relance. 1 à 151 et est all-in.
+RayuRuna : suit. 1
+lili5644 : suit. 1
+Geri196 : suit. 1
+piju2009 : suit. 1
+*** FLOP *** [Ac 2h 5s]
+piju2009 : parole
+RayuRuna : mise. 200
+lili5644 : suit. 200
+Geri196 : passe.
+piju2009 : passe.
+*** TOURNANT *** [Ac 2h 5s] [Jc]
+RayuRuna : mise. 500
+lili5644 : passe.
+Personne n'a suivi. (500) sont retournés à RayuRuna.
+*** RIVIÈRE *** [Ac 2h 5s Jc] [7c]
+*** ABATTAGE ***
+RayuRuna : montre [6c 9c] (une couleur, hauteur As)
+RayuRuna a remporté 400  parallèle lors du pot .
+anteamsc : montre [As 7d] (double paire, As et Sept)
+RayuRuna a remporté 800  principal lors du pot .
+RayuRuna gagne 0.02 € pour l'élimination de anteamsc et sa prime augmente de 0.02 € à 0.06 €
+anteamsc a fini le tournoi en 294e position.
+*** SYNTHÈSE ***
+Pot total 1200 Principal pot 800. Parallèle pot 400. | Commission 0
+Tableau [Ac 2h 5s Jc 7c]
+Siège 1 : anteamsc (grosse blind) a montré [As 7d] et a perdu avec double paire, As et Sept
+Siège 2 : RayuRuna a montré [6c 9c] et a gagné (1200) avec une couleur, hauteur As
+Siège 3 : planillas s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lili5644 s'est couché. sur le Tournant
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Geri196 s'est couché. sur le Flop
+Siège 7 : PoToCHoF s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 (petite blind) s'est couché. sur le Flop
+
+
+*********** # 6 **************
+Main PokerStars n°242431510393 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 23:22:28 CET [13/03/2023 18:22:28 ET]
+Table '3559916736 7' 9-max Siège #9 est au bouton.
+Place 2: RayuRuna (3440 en jetons, prime de 0.06 €)
+Place 3: planillas (2607 en jetons, prime de 0.04 €)
+Place 4: lili5644 (6540 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3124 en jetons, prime de 0.04 €)
+Place 6: Geri196 (1471 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (2651 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2923 en jetons, prime de 0.04 €)
+Place 9: piju2009 (4137 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 5
+planillas : met l'ante. 5
+lili5644 : met l'ante. 5
+Shaka169 : met l'ante. 5
+Geri196 : met l'ante. 5
+PoToCHoF : met l'ante. 5
+pagliuca82 : met l'ante. 5
+piju2009 : met l'ante. 5
+RayuRuna : met la petite blind. 25
+planillas : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8c Qh]
+lili5644 : relance. 50 à 100
+Shaka169 : passe.
+Geri196 : suit. 100
+PoToCHoF : suit. 100
+pagliuca82 : passe.
+piju2009 : passe.
+RayuRuna : suit. 75
+planillas : suit. 50
+*** FLOP *** [9s 3c 2d]
+RayuRuna : parole
+planillas : parole
+lili5644 : mise. 100
+Geri196 : passe.
+PoToCHoF : suit. 100
+RayuRuna : passe.
+planillas a dépassé le temps imparti.
+planillas : passe.
+planillas ne joue pas.
+*** TOURNANT *** [9s 3c 2d] [7h]
+lili5644 : mise. 100
+planillas est revenu.
+PoToCHoF : suit. 100
+*** RIVIÈRE *** [9s 3c 2d 7h] [4d]
+lili5644 : mise. 300
+PoToCHoF : relance. 450 à 750
+lili5644 : suit. 450
+*** ABATTAGE ***
+PoToCHoF : montre [3d 6d] (une paire de Trois)
+lili5644 : montre [Jd Js] (une paire de Valets)
+lili5644 a remporté 2440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2440 | Commission 0
+Tableau [9s 3c 2d 7h 4d]
+Siège 2 : RayuRuna (petite blind) s'est couché. sur le Flop
+Siège 3 : planillas (grosse blind) s'est couché. sur le Flop
+Siège 4 : lili5644 a montré [Jd Js] et a gagné (2440) avec une paire de Valets
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Geri196 s'est couché. sur le Flop
+Siège 7 : PoToCHoF a montré [3d 6d] et a perdu avec une paire de Trois
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 7 **************
+Main PokerStars n°242431560108 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 23:24:39 CET [13/03/2023 18:24:39 ET]
+Table '3559916736 7' 9-max Siège #2 est au bouton.
+Place 1: ramos77000 (3000 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (3335 en jetons, prime de 0.06 €)
+Place 3: planillas (2502 en jetons, prime de 0.04 €)
+Place 4: lili5644 (7925 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3119 en jetons, prime de 0.04 €)
+Place 6: Geri196 (1366 en jetons, prime de 0.04 €)
+Place 7: PoToCHoF (1596 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2918 en jetons, prime de 0.04 €)
+Place 9: piju2009 (4132 en jetons, prime de 0.04 €)
+ramos77000 : met l'ante. 5
+RayuRuna : met l'ante. 5
+planillas : met l'ante. 5
+lili5644 : met l'ante. 5
+Shaka169 : met l'ante. 5
+Geri196 : met l'ante. 5
+PoToCHoF : met l'ante. 5
+pagliuca82 : met l'ante. 5
+piju2009 : met l'ante. 5
+planillas : met la petite blind. 25
+lili5644 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jh Ah]
+Shaka169 : passe.
+Geri196 : suit. 50
+PoToCHoF : passe.
+pagliuca82 : passe.
+piju2009 : passe.
+ramos77000 : suit. 50
+RayuRuna : relance. 125 à 175
+planillas : passe.
+lili5644 : suit. 125
+Geri196 : suit. 125
+ramos77000 : suit. 125
+*** FLOP *** [4d 3c Jd]
+lili5644 : mise. 100
+Geri196 : suit. 100
+ramos77000 : suit. 100
+RayuRuna : relance. 650 à 750
+lili5644 : suit. 650
+Geri196 : passe.
+ramos77000 : suit. 650
+*** TOURNANT *** [4d 3c Jd] [6h]
+lili5644 : mise. 100
+ramos77000 : suit. 100
+RayuRuna : relance. 2305 à 2405 et est all-in.
+lili5644 : suit. 2305
+ramos77000 : passe.
+*** RIVIÈRE *** [4d 3c Jd 6h] [Ts]
+*** ABATTAGE ***
+lili5644 : montre [Js As] (une paire de Valets)
+RayuRuna : montre [Jh Ah] (une paire de Valets)
+lili5644 a remporté 4015  lors du pot .
+RayuRuna a remporté 4015  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8030 | Commission 0
+Tableau [4d 3c Jd 6h Ts]
+Siège 1 : ramos77000 s'est couché. sur le Tournant
+Siège 2 : RayuRuna (bouton) a montré [Jh Ah] et a gagné (4015) avec une paire de Valets
+Siège 3 : planillas (petite blind) s'est couché. avant Flop
+Siège 4 : lili5644 (grosse blind) a montré [Js As] et a gagné (4015) avec une paire de Valets
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Geri196 s'est couché. sur le Flop
+Siège 7 : PoToCHoF s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 8 **************
+Main PokerStars n°242431602311 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 23:26:33 CET [13/03/2023 18:26:33 ET]
+Table '3559916736 7' 9-max Siège #3 est au bouton.
+Place 1: ramos77000 (1970 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (4015 en jetons, prime de 0.06 €)
+Place 3: planillas (2472 en jetons, prime de 0.04 €)
+Place 4: lili5644 (8605 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3114 en jetons, prime de 0.04 €)
+Place 6: Geri196 (1086 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2913 en jetons, prime de 0.04 €)
+Place 9: piju2009 (4127 en jetons, prime de 0.04 €)
+ramos77000 : met l'ante. 6
+RayuRuna : met l'ante. 6
+planillas : met l'ante. 6
+lili5644 : met l'ante. 6
+Shaka169 : met l'ante. 6
+Geri196 : met l'ante. 6
+pagliuca82 : met l'ante. 6
+piju2009 : met l'ante. 6
+lili5644 : met la petite blind. 30
+Shaka169 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4c 6s]
+Geri196 : suit. 60
+pagliuca82 : passe.
+piju2009 : passe.
+ramos77000 : suit. 60
+RayuRuna : passe.
+planillas : suit. 60
+lili5644 : suit. 30
+Shaka169 : parole
+*** FLOP *** [5h 5d Qd]
+lili5644 : mise. 180
+Shaka169 : passe.
+Geri196 : passe.
+ramos77000 : suit. 180
+planillas : suit. 180
+*** TOURNANT *** [5h 5d Qd] [2h]
+lili5644 : mise. 120
+ramos77000 : suit. 120
+planillas : suit. 120
+*** RIVIÈRE *** [5h 5d Qd 2h] [9c]
+lili5644 : parole
+ramos77000 : mise. 1248
+K!rut@62650 est déconnecté
+planillas : suit. 1248
+lili5644 : passe.
+*** ABATTAGE ***
+ramos77000 : montre [5s 9d] (un full, full aux Cinq par les Neuf)
+planillas : cache la main perdante.
+ramos77000 a remporté 3744  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3744 | Commission 0
+Tableau [5h 5d Qd 2h 9c]
+Siège 1 : ramos77000 a montré [5s 9d] et a gagné (3744) avec un full, full aux Cinq par les Neuf
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : planillas (bouton) a caché la main perdante. [Qs Th]
+Siège 4 : lili5644 (petite blind) s'est couché. sur le Rivière
+Siège 5 : Shaka169 (grosse blind) s'est couché. sur le Flop
+Siège 6 : Geri196 s'est couché. sur le Flop
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 9 **************
+Main PokerStars n°242431641681 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 23:28:18 CET [13/03/2023 18:28:18 ET]
+Table '3559916736 7' 9-max Siège #4 est au bouton.
+Place 1: ramos77000 (4100 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (4009 en jetons, prime de 0.06 €)
+Place 3: planillas (858 en jetons, prime de 0.04 €)
+Place 4: lili5644 (8239 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3048 en jetons, prime de 0.04 €)
+Place 6: Geri196 (1020 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (3000 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2907 en jetons, prime de 0.04 €)
+Place 9: piju2009 (4121 en jetons, prime de 0.04 €)
+ramos77000 : met l'ante. 6
+RayuRuna : met l'ante. 6
+planillas : met l'ante. 6
+lili5644 : met l'ante. 6
+Shaka169 : met l'ante. 6
+Geri196 : met l'ante. 6
+K!rut@62650 : met l'ante. 6
+pagliuca82 : met l'ante. 6
+piju2009 : met l'ante. 6
+Shaka169 : met la petite blind. 30
+Geri196 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qd Js]
+K!rut@62650 : relance. 60 à 120
+pagliuca82 : passe.
+piju2009 : relance. 744 à 864
+ramos77000 : passe.
+RayuRuna : passe.
+planillas : passe.
+lili5644 : suit. 864
+Shaka169 : passe.
+Geri196 : relance. 150 à 1014 et est all-in.
+K!rut@62650 : passe.
+piju2009 : suit. 150
+lili5644 : passe.
+*** FLOP *** [2h 5h Jh]
+*** TOURNANT *** [2h 5h Jh] [Kh]
+*** RIVIÈRE *** [2h 5h Jh Kh] [Qh]
+*** ABATTAGE ***
+Geri196 : montre [6c Kd] (une couleur, hauteur Roi)
+piju2009 : montre [As Ah] (une couleur, hauteur As)
+piju2009 a remporté 3096  lors du pot .
+piju2009 gagne 0.02 € pour l'élimination de Geri196 et sa prime augmente de 0.02 € à 0.06 €
+Geri196 a fini le tournoi en 271er position.
+*** SYNTHÈSE ***
+Pot total 3096 | Commission 0
+Tableau [2h 5h Jh Kh Qh]
+Siège 1 : ramos77000 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : planillas s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lili5644 (bouton) s'est couché. avant Flop
+Siège 5 : Shaka169 (petite blind) s'est couché. avant Flop
+Siège 6 : Geri196 (grosse blind) a montré [6c Kd] et a perdu avec une couleur, hauteur Roi
+Siège 7 : K!rut@62650 s'est couché. avant Flop
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 a montré [As Ah] et a gagné (3096) avec une couleur, hauteur As
+
+
+*********** # 10 **************
+Main PokerStars n°242431666018 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 23:29:24 CET [13/03/2023 18:29:24 ET]
+Table '3559916736 7' 9-max Siège #5 est au bouton.
+Place 1: ramos77000 (4094 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (4003 en jetons, prime de 0.06 €)
+Place 3: planillas (852 en jetons, prime de 0.04 €)
+Place 4: lili5644 (7369 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3012 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (2874 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2901 en jetons, prime de 0.04 €)
+Place 9: piju2009 (6197 en jetons, prime de 0.06 €)
+ramos77000 : met l'ante. 6
+RayuRuna : met l'ante. 6
+planillas : met l'ante. 6
+lili5644 : met l'ante. 6
+Shaka169 : met l'ante. 6
+K!rut@62650 : met l'ante. 6
+pagliuca82 : met l'ante. 6
+piju2009 : met l'ante. 6
+K!rut@62650 : met la petite blind. 30
+pagliuca82 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5d 7h]
+piju2009 : passe.
+ramos77000 : suit. 60
+RayuRuna : suit. 60
+planillas : passe.
+lili5644 : suit. 60
+Shaka169 : passe.
+K!rut@62650 : suit. 30
+pagliuca82 : parole
+*** FLOP *** [Kd Qd Ts]
+K!rut@62650 : parole
+pagliuca82 : parole
+ramos77000 : parole
+RayuRuna : mise. 120
+lili5644 : suit. 120
+K!rut@62650 : suit. 120
+pagliuca82 : passe.
+ramos77000 : suit. 120
+*** TOURNANT *** [Kd Qd Ts] [5h]
+K!rut@62650 : parole
+ramos77000 : parole
+RayuRuna : mise. 360
+lili5644 : passe.
+K!rut@62650 : suit. 360
+ramos77000 : suit. 360
+*** RIVIÈRE *** [Kd Qd Ts 5h] [9h]
+K!rut@62650 : parole
+ramos77000 : parole
+RayuRuna : parole
+*** ABATTAGE ***
+K!rut@62650 : montre [8h Qc] (une paire de Dames)
+ramos77000 : montre [5s Qs] (double paire, Dames et Cinq)
+RayuRuna : cache la main perdante.
+ramos77000 a remporté 1908  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1908 | Commission 0
+Tableau [Kd Qd Ts 5h 9h]
+Siège 1 : ramos77000 a montré [5s Qs] et a gagné (1908) avec double paire, Dames et Cinq
+Siège 2 : RayuRuna a caché la main perdante. [5d 7h]
+Siège 3 : planillas s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lili5644 s'est couché. sur le Tournant
+Siège 5 : Shaka169 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : K!rut@62650 (petite blind) a montré [8h Qc] et a perdu avec une paire de Dames
+Siège 8 : pagliuca82 (grosse blind) s'est couché. sur le Flop
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 11 **************
+Main PokerStars n°242431720055 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 23:31:49 CET [13/03/2023 18:31:49 ET]
+Table '3559916736 7' 9-max Siège #7 est au bouton.
+Place 1: carallan-FOZ (3000 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (3457 en jetons, prime de 0.06 €)
+Place 3: planillas (846 en jetons, prime de 0.04 €)
+Place 4: lili5644 (7183 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (3006 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (3000 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (2328 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (2835 en jetons, prime de 0.04 €)
+Place 9: piju2009 (6191 en jetons, prime de 0.06 €)
+carallan-FOZ : met l'ante. 8
+RayuRuna : met l'ante. 8
+planillas : met l'ante. 8
+lili5644 : met l'ante. 8
+Shaka169 : met l'ante. 8
+Herrerita17 : met l'ante. 8
+K!rut@62650 : met l'ante. 8
+pagliuca82 : met l'ante. 8
+piju2009 : met l'ante. 8
+pagliuca82 : met la petite blind. 40
+piju2009 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8h 4c]
+carallan-FOZ est connecté
+carallan-FOZ est déconnecté
+carallan-FOZ est connecté
+carallan-FOZ : passe.
+RayuRuna : passe.
+planillas : relance. 758 à 838 et est all-in.
+lili5644 : passe.
+Shaka169 : passe.
+Herrerita17 : passe.
+K!rut@62650 : passe.
+pagliuca82 : relance. 1989 à 2827 et est all-in.
+piju2009 : passe.
+Personne n'a suivi. (1989) sont retournés à pagliuca82.
+*** FLOP *** [Kd 3d Th]
+*** TOURNANT *** [Kd 3d Th] [Ks]
+*** RIVIÈRE *** [Kd 3d Th Ks] [7d]
+*** ABATTAGE ***
+pagliuca82 : montre [7c 7h] (un full, full aux Sept par les Rois)
+planillas : montre [Jh As] (une paire de Rois)
+pagliuca82 a remporté 1828  lors du pot .
+pagliuca82 gagne 0.02 € pour l'élimination de planillas et sa prime augmente de 0.02 € à 0.06 €
+planillas a fini le tournoi en 258e position.
+*** SYNTHÈSE ***
+Pot total 1828 | Commission 0
+Tableau [Kd 3d Th Ks 7d]
+Siège 1 : carallan-FOZ s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : planillas a montré [Jh As] et a perdu avec une paire de Rois
+Siège 4 : lili5644 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Herrerita17 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : K!rut@62650 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 (petite blind) a montré [7c 7h] et a gagné (1828) avec un full, full aux Sept par les Rois
+Siège 9 : piju2009 (grosse blind) s'est couché. avant Flop
+
+
+*********** # 12 **************
+Main PokerStars n°242431733834 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 23:32:26 CET [13/03/2023 18:32:26 ET]
+Table '3559916736 7' 9-max Siège #8 est au bouton.
+Place 2: RayuRuna (3449 en jetons, prime de 0.06 €)
+Place 4: lili5644 (7175 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2998 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (2992 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (2320 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (3817 en jetons, prime de 0.06 €)
+Place 9: piju2009 (6103 en jetons, prime de 0.06 €)
+RayuRuna : met l'ante. 8
+lili5644 : met l'ante. 8
+Shaka169 : met l'ante. 8
+Herrerita17 : met l'ante. 8
+K!rut@62650 : met l'ante. 8
+pagliuca82 : met l'ante. 8
+piju2009 : met l'ante. 8
+piju2009 : met la petite blind. 40
+RayuRuna : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3d 5s]
+lili5644 : suit. 80
+anoniaztra35 est déconnecté
+Shaka169 : passe.
+Herrerita17 : suit. 80
+K!rut@62650 : passe.
+pagliuca82 : suit. 80
+piju2009 : suit. 40
+RayuRuna : parole
+*** FLOP *** [Qs 2h 8c]
+piju2009 : parole
+RayuRuna : parole
+lili5644 : mise. 80
+Herrerita17 : suit. 80
+pagliuca82 : suit. 80
+piju2009 : passe.
+RayuRuna : passe.
+*** TOURNANT *** [Qs 2h 8c] [4d]
+lili5644 : parole
+Herrerita17 : parole
+pagliuca82 : parole
+*** RIVIÈRE *** [Qs 2h 8c 4d] [As]
+lili5644 : parole
+Herrerita17 : parole
+pagliuca82 : parole
+*** ABATTAGE ***
+lili5644 : montre [Tc 9c] (Hauteur As)
+Herrerita17 : montre [Kd Jc] (Hauteur As - Roi kicker)
+pagliuca82 : cache la main perdante.
+Herrerita17 a remporté 696  lors du pot .
+*** SYNTHÈSE ***
+Pot total 696 | Commission 0
+Tableau [Qs 2h 8c 4d As]
+Siège 2 : RayuRuna (grosse blind) s'est couché. sur le Flop
+Siège 4 : lili5644 a montré [Tc 9c] et a perdu avec Hauteur As
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Herrerita17 a montré [Kd Jc] et a gagné (696) avec Hauteur As
+Siège 7 : K!rut@62650 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 (bouton) a caché la main perdante. [Ks Ts]
+Siège 9 : piju2009 (petite blind) s'est couché. sur le Flop
+
+
+*********** # 13 **************
+Main PokerStars n°242431764148 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 23:33:46 CET [13/03/2023 18:33:46 ET]
+Table '3559916736 7' 9-max Siège #9 est au bouton.
+Place 1: anoniaztra35 (1724 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 2: RayuRuna (3361 en jetons, prime de 0.06 €)
+Place 3: Clig1967 (3000 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2990 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (3520 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (2312 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (3649 en jetons, prime de 0.06 €)
+Place 9: piju2009 (6015 en jetons, prime de 0.06 €)
+anoniaztra35 sera autorisé à jouer après le bouton.
+RayuRuna : met l'ante. 8
+Clig1967 : met l'ante. 8
+Shaka169 : met l'ante. 8
+Herrerita17 : met l'ante. 8
+K!rut@62650 : met l'ante. 8
+pagliuca82 : met l'ante. 8
+piju2009 : met l'ante. 8
+RayuRuna : met la petite blind. 40
+Clig1967 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2c Kh]
+Shaka169 : passe.
+Herrerita17 : suit. 80
+K!rut@62650 : passe.
+pagliuca82 : passe.
+piju2009 : passe.
+RayuRuna : passe.
+Clig1967 : parole
+*** FLOP *** [4c 6c 8s]
+Clig1967 : parole
+Herrerita17 : parole
+*** TOURNANT *** [4c 6c 8s] [Jh]
+Clig1967 : parole
+Herrerita17 : parole
+*** RIVIÈRE *** [4c 6c 8s Jh] [6d]
+Clig1967 : parole
+Herrerita17 : mise. 80
+Clig1967 : passe.
+Personne n'a suivi. (80) sont retournés à Herrerita17.
+Herrerita17 a remporté 256  lors du pot .
+*** SYNTHÈSE ***
+Pot total 256 | Commission 0
+Tableau [4c 6c 8s Jh 6d]
+Siège 2 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 3 : Clig1967 (grosse blind) s'est couché. sur le Rivière
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Herrerita17 a remporté (256)
+Siège 7 : K!rut@62650 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 14 **************
+Main PokerStars n°242431775466 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 23:34:17 CET [13/03/2023 18:34:17 ET]
+Table '3559916736 7' 9-max Siège #2 est au bouton.
+Place 1: anoniaztra35 (1724 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (3313 en jetons, prime de 0.06 €)
+Place 3: Clig1967 (2912 en jetons, prime de 0.04 €)
+Place 4: pasrou23 (3000 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2982 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (3688 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (2304 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (3641 en jetons, prime de 0.06 €)
+Place 9: piju2009 (6007 en jetons, prime de 0.06 €)
+anoniaztra35 : met l'ante. 8
+RayuRuna : met l'ante. 8
+Clig1967 : met l'ante. 8
+pasrou23 : met l'ante. 8
+Shaka169 : met l'ante. 8
+Herrerita17 : met l'ante. 8
+K!rut@62650 : met l'ante. 8
+pagliuca82 : met l'ante. 8
+piju2009 : met l'ante. 8
+Clig1967 : met la petite blind. 40
+pasrou23 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Th 5c]
+Shaka169 : passe.
+Herrerita17 : suit. 80
+K!rut@62650 : suit. 80
+pagliuca82 : passe.
+piju2009 : passe.
+anoniaztra35 : passe.
+RayuRuna : passe.
+Clig1967 : passe.
+pasrou23 : relance. 80 à 160
+Herrerita17 : suit. 80
+K!rut@62650 : suit. 80
+*** FLOP *** [9d 4s Qh]
+pasrou23 : mise. 296
+Herrerita17 : suit. 296
+K!rut@62650 : suit. 296
+*** TOURNANT *** [9d 4s Qh] [8s]
+pasrou23 : parole
+Herrerita17 : parole
+K!rut@62650 : mise. 560
+pasrou23 : passe.
+Herrerita17 : suit. 560
+*** RIVIÈRE *** [9d 4s Qh 8s] [8h]
+Herrerita17 : mise. 160
+K!rut@62650 : suit. 160
+*** ABATTAGE ***
+Herrerita17 : montre [Kh 4h] (double paire, Huit et Quatre)
+K!rut@62650 : montre [Qs Kc] (double paire, Dames et Huit)
+K!rut@62650 a remporté 2920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2920 | Commission 0
+Tableau [9d 4s Qh 8s 8h]
+Siège 1 : anoniaztra35 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Clig1967 (petite blind) s'est couché. avant Flop
+Siège 4 : pasrou23 (grosse blind) s'est couché. sur le Tournant
+Siège 5 : Shaka169 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Herrerita17 a montré [Kh 4h] et a perdu avec double paire, Huit et Quatre
+Siège 7 : K!rut@62650 a montré [Qs Kc] et a gagné (2920) avec double paire, Dames et Huit
+Siège 8 : pagliuca82 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 15 **************
+Main PokerStars n°242431799268 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 23:35:20 CET [13/03/2023 18:35:20 ET]
+Table '3559916736 7' 9-max Siège #3 est au bouton.
+Place 1: anoniaztra35 (1716 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (3305 en jetons, prime de 0.06 €)
+Place 3: Clig1967 (2864 en jetons, prime de 0.04 €)
+Place 4: pasrou23 (2536 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2974 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (2504 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (4040 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (3633 en jetons, prime de 0.06 €)
+Place 9: piju2009 (5999 en jetons, prime de 0.06 €)
+anoniaztra35 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Clig1967 : met l'ante. 10
+pasrou23 : met l'ante. 10
+Shaka169 : met l'ante. 10
+Herrerita17 : met l'ante. 10
+K!rut@62650 : met l'ante. 10
+pagliuca82 : met l'ante. 10
+piju2009 : met l'ante. 10
+pasrou23 : met la petite blind. 50
+Shaka169 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3s 9h]
+Herrerita17 : passe.
+K!rut@62650 : relance. 200 à 300
+pagliuca82 : relance. 3323 à 3623 et est all-in.
+piju2009 : passe.
+anoniaztra35 : passe.
+RayuRuna : passe.
+Clig1967 : passe.
+pasrou23 : passe.
+Shaka169 : passe.
+K!rut@62650 : suit. 3323
+*** FLOP *** [Ac 3c 7s]
+*** TOURNANT *** [Ac 3c 7s] [Ad]
+*** RIVIÈRE *** [Ac 3c 7s Ad] [4c]
+*** ABATTAGE ***
+K!rut@62650 : montre [Qh Qc] (double paire, As et Dames)
+pagliuca82 : montre [Kc Kd] (double paire, As et Rois)
+pagliuca82 a remporté 7486  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7486 | Commission 0
+Tableau [Ac 3c 7s Ad 4c]
+Siège 1 : anoniaztra35 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Clig1967 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pasrou23 (petite blind) s'est couché. avant Flop
+Siège 5 : Shaka169 (grosse blind) s'est couché. avant Flop
+Siège 6 : Herrerita17 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : K!rut@62650 a montré [Qh Qc] et a perdu avec double paire, As et Dames
+Siège 8 : pagliuca82 a montré [Kc Kd] et a gagné (7486) avec double paire, As et Rois
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 16 **************
+Main PokerStars n°242431817204 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 23:36:08 CET [13/03/2023 18:36:08 ET]
+Table '3559916736 7' 9-max Siège #4 est au bouton.
+Place 1: anoniaztra35 (1706 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (3295 en jetons, prime de 0.06 €)
+Place 3: Clig1967 (2854 en jetons, prime de 0.04 €)
+Place 4: pasrou23 (2476 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2864 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (2494 en jetons, prime de 0.04 €)
+Place 7: K!rut@62650 (407 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (7486 en jetons, prime de 0.06 €)
+Place 9: piju2009 (5989 en jetons, prime de 0.06 €)
+anoniaztra35 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Clig1967 : met l'ante. 10
+pasrou23 : met l'ante. 10
+Shaka169 : met l'ante. 10
+Herrerita17 : met l'ante. 10
+K!rut@62650 : met l'ante. 10
+pagliuca82 : met l'ante. 10
+piju2009 : met l'ante. 10
+Shaka169 : met la petite blind. 50
+Herrerita17 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd 8h]
+K!rut@62650 : relance. 297 à 397 et est all-in.
+pagliuca82 : suit. 397
+piju2009 : passe.
+anoniaztra35 : passe.
+RayuRuna : suit. 397
+Clig1967 : passe.
+pasrou23 : passe.
+Shaka169 : passe.
+Herrerita17 : passe.
+*** FLOP *** [Kh 7s Qd]
+pagliuca82 : parole
+RayuRuna : mise. 2888 et est all-in.
+pagliuca82 : passe.
+Personne n'a suivi. (2888) sont retournés à RayuRuna.
+*** TOURNANT *** [Kh 7s Qd] [2h]
+*** RIVIÈRE *** [Kh 7s Qd 2h] [5h]
+*** ABATTAGE ***
+K!rut@62650 : montre [4c Ac] (Hauteur As)
+RayuRuna : montre [Kd 8h] (une paire de Rois)
+RayuRuna a remporté 1431  lors du pot .
+RayuRuna gagne 0.02 € pour l'élimination de K!rut@62650 et sa prime augmente de 0.02 € à 0.08 €
+K!rut@62650 a fini le tournoi en 246e position.
+*** SYNTHÈSE ***
+Pot total 1431 | Commission 0
+Tableau [Kh 7s Qd 2h 5h]
+Siège 1 : anoniaztra35 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna a montré [Kd 8h] et a gagné (1431) avec une paire de Rois
+Siège 3 : Clig1967 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pasrou23 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Shaka169 (petite blind) s'est couché. avant Flop
+Siège 6 : Herrerita17 (grosse blind) s'est couché. avant Flop
+Siège 7 : K!rut@62650 a montré [4c Ac] et a perdu avec Hauteur As
+Siège 8 : pagliuca82 s'est couché. sur le Flop
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 17 **************
+Main PokerStars n°242431829614 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 23:36:41 CET [13/03/2023 18:36:41 ET]
+Table '3559916736 7' 9-max Siège #5 est au bouton.
+Place 1: anoniaztra35 (1696 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (4319 en jetons, prime de 0.08 €)
+Place 3: Clig1967 (2844 en jetons, prime de 0.04 €)
+Place 4: pasrou23 (2466 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2804 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (2384 en jetons, prime de 0.04 €)
+Place 8: pagliuca82 (7079 en jetons, prime de 0.06 €)
+Place 9: piju2009 (5979 en jetons, prime de 0.06 €)
+anoniaztra35 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Clig1967 : met l'ante. 10
+pasrou23 : met l'ante. 10
+Shaka169 : met l'ante. 10
+Herrerita17 : met l'ante. 10
+pagliuca82 : met l'ante. 10
+piju2009 : met l'ante. 10
+Herrerita17 : met la petite blind. 50
+pagliuca82 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Js 3d]
+piju2009 : passe.
+anoniaztra35 : passe.
+RayuRuna : passe.
+Clig1967 : suit. 100
+pasrou23 : suit. 100
+Shaka169 : passe.
+Herrerita17 : suit. 50
+pagliuca82 : parole
+*** FLOP *** [4s Qs 6c]
+Herrerita17 : parole
+pagliuca82 : parole
+Clig1967 : parole
+pasrou23 : mise. 480
+Herrerita17 : passe.
+pagliuca82 : passe.
+Clig1967 : passe.
+Personne n'a suivi. (480) sont retournés à pasrou23.
+pasrou23 a remporté 480  lors du pot .
+pasrou23 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0
+Tableau [4s Qs 6c]
+Siège 1 : anoniaztra35 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Clig1967 s'est couché. sur le Flop
+Siège 4 : pasrou23 a remporté (480)
+Siège 5 : Shaka169 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Herrerita17 (petite blind) s'est couché. sur le Flop
+Siège 8 : pagliuca82 (grosse blind) s'est couché. sur le Flop
+Siège 9 : piju2009 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 18 **************
+Main PokerStars n°242431847765 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 23:37:30 CET [13/03/2023 18:37:30 ET]
+Table '3559916736 7' 9-max Siège #6 est au bouton.
+Place 1: anoniaztra35 (1686 en jetons, prime de 0.04 €)
+Place 2: RayuRuna (4309 en jetons, prime de 0.08 €)
+Place 3: Clig1967 (2734 en jetons, prime de 0.04 €)
+Place 4: pasrou23 (2836 en jetons, prime de 0.04 €)
+Place 5: Shaka169 (2794 en jetons, prime de 0.04 €)
+Place 6: Herrerita17 (2274 en jetons, prime de 0.04 €)
+Place 7: kams976 (3000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 8: pagliuca82 (6969 en jetons, prime de 0.06 €)
+Place 9: piju2009 (5969 en jetons, prime de 0.06 €)
+kams976 sera autorisé à jouer après le bouton.
+anoniaztra35 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Clig1967 : met l'ante. 10
+pasrou23 : met l'ante. 10
+Shaka169 : met l'ante. 10
+Herrerita17 : met l'ante. 10
+pagliuca82 : met l'ante. 10
+piju2009 : met l'ante. 10
+pagliuca82 : met la petite blind. 50
+piju2009 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jc Qc]
+anoniaztra35 : passe.
+RayuRuna : relance. 130 à 230
+Clig1967 : passe.
+pasrou23 : passe.
+Shaka169 : relance. 2554 à 2784 et est all-in.
+Herrerita17 : passe.
+pagliuca82 : passe.
+piju2009 : passe.
+RayuRuna : suit. 2554
+*** FLOP *** [9h 4c Ah]
+*** TOURNANT *** [9h 4c Ah] [Jh]
+*** RIVIÈRE *** [9h 4c Ah Jh] [Ks]
+*** ABATTAGE ***
+RayuRuna : montre [Jc Qc] (une paire de Valets)
+Shaka169 : montre [Qh Kh] (une couleur, hauteur As)
+Shaka169 a remporté 5798  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5798 | Commission 0
+Tableau [9h 4c Ah Jh Ks]
+Siège 1 : anoniaztra35 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : RayuRuna a montré [Jc Qc] et a perdu avec une paire de Valets
+Siège 3 : Clig1967 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : pasrou23 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Shaka169 a montré [Qh Kh] et a gagné (5798) avec une couleur, hauteur As
+Siège 6 : Herrerita17 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : pagliuca82 (petite blind) s'est couché. avant Flop
+Siège 9 : piju2009 (grosse blind) s'est couché. avant Flop
+
+
+*********** # 19 **************
+Main PokerStars n°242431870742 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 23:38:32 CET [13/03/2023 18:38:32 ET]
+Table '3559916736 11' 9-max Siège #4 est au bouton.
+Place 1: Cupzinho15 (2790 en jetons, prime de 0.04 €)
+Place 2: peter pet119 (1850 en jetons, prime de 0.14 €)
+Place 3: arturocuduro (10746 en jetons, prime de 0.08 €)
+Place 4: mazinger 592 (3109 en jetons, prime de 0.04 €)
+Place 5: Auténtico (2309 en jetons, prime de 0.04 €)
+Place 6: MemeZi (9019 en jetons, prime de 0.06 €)
+Place 7: RayuRuna (1515 en jetons, prime de 0.08 €)
+Place 8: iyusta1978 (7519 en jetons, prime de 0.08 €)
+Cupzinho15 : met l'ante. 10
+peter pet119 : met l'ante. 10
+arturocuduro : met l'ante. 10
+mazinger 592 : met l'ante. 10
+Auténtico : met l'ante. 10
+MemeZi : met l'ante. 10
+RayuRuna : met l'ante. 10
+iyusta1978 : met l'ante. 10
+Auténtico : met la petite blind. 50
+MemeZi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qd 7s]
+RayuRuna : passe.
+iyusta1978 : suit. 100
+Cupzinho15 : suit. 100
+peter pet119 : passe.
+arturocuduro : suit. 100
+mazinger 592 : passe.
+Auténtico : suit. 50
+MemeZi : parole
+*** FLOP *** [8h 8c Qh]
+Auténtico : parole
+MemeZi : parole
+iyusta1978 : parole
+Cupzinho15 : parole
+arturocuduro : parole
+*** TOURNANT *** [8h 8c Qh] [8s]
+Auténtico : parole
+MemeZi : parole
+iyusta1978 : parole
+Cupzinho15 : mise. 290
+arturocuduro : passe.
+Auténtico : passe.
+MemeZi : passe.
+iyusta1978 : passe.
+Personne n'a suivi. (290) sont retournés à Cupzinho15.
+Cupzinho15 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0
+Tableau [8h 8c Qh 8s]
+Siège 1 : Cupzinho15 a remporté (580)
+Siège 2 : peter pet119 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : arturocuduro s'est couché. sur le Tournant
+Siège 4 : mazinger 592 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Auténtico (petite blind) s'est couché. sur le Tournant
+Siège 6 : MemeZi (grosse blind) s'est couché. sur le Tournant
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : iyusta1978 s'est couché. sur le Tournant
+
+
+*********** # 20 **************
+Main PokerStars n°242431909799 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VIII (60/120) - 13/03/2023 23:40:17 CET [13/03/2023 18:40:17 ET]
+Table '3559916736 11' 9-max Siège #5 est au bouton.
+Place 1: Cupzinho15 (3260 en jetons, prime de 0.04 €)
+Place 2: peter pet119 (1840 en jetons, prime de 0.14 €)
+Place 3: arturocuduro (10636 en jetons, prime de 0.08 €)
+Place 4: mazinger 592 (3099 en jetons, prime de 0.04 €)
+Place 5: Auténtico (2199 en jetons, prime de 0.04 €)
+Place 6: MemeZi (8909 en jetons, prime de 0.06 €)
+Place 7: RayuRuna (1505 en jetons, prime de 0.08 €)
+Place 8: iyusta1978 (7409 en jetons, prime de 0.08 €)
+Place 9: LuPiTa9 (3000 en jetons, prime de 0.04 €)
+Cupzinho15 : met l'ante. 15
+peter pet119 : met l'ante. 15
+arturocuduro : met l'ante. 15
+mazinger 592 : met l'ante. 15
+Auténtico : met l'ante. 15
+MemeZi : met l'ante. 15
+RayuRuna : met l'ante. 15
+iyusta1978 : met l'ante. 15
+LuPiTa9 : met l'ante. 15
+MemeZi : met la petite blind. 60
+RayuRuna : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3s Jh]
+iyusta1978 : relance. 240 à 360
+LuPiTa9 : passe.
+Cupzinho15 : passe.
+peter pet119 : passe.
+arturocuduro : passe.
+mazinger 592 : passe.
+Auténtico : passe.
+MemeZi : passe.
+RayuRuna : passe.
+Personne n'a suivi. (240) sont retournés à iyusta1978.
+iyusta1978 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0
+Siège 1 : Cupzinho15 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : peter pet119 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : arturocuduro s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mazinger 592 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Auténtico (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : MemeZi (petite blind) s'est couché. avant Flop
+Siège 7 : RayuRuna (grosse blind) s'est couché. avant Flop
+Siège 8 : iyusta1978 a remporté (435)
+Siège 9 : LuPiTa9 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 21 **************
+Main PokerStars n°242431920642 : Tournoi #3559916736, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VIII (60/120) - 13/03/2023 23:40:45 CET [13/03/2023 18:40:45 ET]
+Table '3559916736 11' 9-max Siège #6 est au bouton.
+Place 1: Cupzinho15 (3245 en jetons, prime de 0.04 €)
+Place 2: peter pet119 (1825 en jetons, prime de 0.14 €)
+Place 3: arturocuduro (10621 en jetons, prime de 0.08 €)
+Place 4: mazinger 592 (3084 en jetons, prime de 0.04 €)
+Place 5: Auténtico (2184 en jetons, prime de 0.04 €)
+Place 6: MemeZi (8834 en jetons, prime de 0.06 €)
+Place 7: RayuRuna (1370 en jetons, prime de 0.08 €)
+Place 8: iyusta1978 (7709 en jetons, prime de 0.08 €)
+Cupzinho15 : met l'ante. 15
+peter pet119 : met l'ante. 15
+arturocuduro : met l'ante. 15
+mazinger 592 : met l'ante. 15
+Auténtico : met l'ante. 15
+MemeZi : met l'ante. 15
+RayuRuna : met l'ante. 15
+iyusta1978 : met l'ante. 15
+RayuRuna : met la petite blind. 60
+iyusta1978 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ah 3c]
+Cupzinho15 : passe.
+peter pet119 : passe.
+arturocuduro : passe.
+mazinger 592 : passe.
+Auténtico : passe.
+MemeZi : passe.
+RayuRuna : relance. 1235 à 1355 et est all-in.
+iyusta1978 : suit. 1235
+*** FLOP *** [8h 9s 5d]
+*** TOURNANT *** [8h 9s 5d] [Jd]
+*** RIVIÈRE *** [8h 9s 5d Jd] [7s]
+*** ABATTAGE ***
+RayuRuna : montre [Ah 3c] (Hauteur As)
+iyusta1978 : montre [6s Ks] (une suite, Cinq à Neuf)
+iyusta1978 a remporté 2830  lors du pot .
+iyusta1978 gagne 0.04 € pour l'élimination de RayuRuna et sa prime augmente de 0.04 € à 0.12 €
+RayuRuna a fini le tournoi en 221er position.
+*** SYNTHÈSE ***
+Pot total 2830 | Commission 0
+Tableau [8h 9s 5d Jd 7s]
+Siège 1 : Cupzinho15 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : peter pet119 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : arturocuduro s'est couché. avant Flop (n'a pas misé)
+Siège 4 : mazinger 592 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Auténtico s'est couché. avant Flop (n'a pas misé)
+Siège 6 : MemeZi (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) a montré [Ah 3c] et a perdu avec Hauteur As
+Siège 8 : iyusta1978 (grosse blind) a montré [6s Ks] et a gagné (2830) avec une suite, Cinq à Neuf

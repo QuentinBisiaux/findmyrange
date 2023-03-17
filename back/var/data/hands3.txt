@@ -1,0 +1,3996 @@
+*********** # 1 **************
+Main PokerStars n°242419364112 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:35:05 CET [13/03/2023 8:35:05 ET]
+Table '3559916634 5' 9-max Siège #1 est au bouton.
+Place 1: RayuRuna (3000 en jetons, prime de 0.04 €)
+Place 2: steelex1980 (3000 en jetons, prime de 0.04 €)
+Place 3: angel5204 (3000 en jetons, prime de 0.04 €)
+Place 4: P1r1 (3000 en jetons, prime de 0.04 €)
+Place 5: MY-AVA-56 (3000 en jetons, prime de 0.04 €)
+Place 6: zambio103 (3000 en jetons, prime de 0.04 €)
+Place 7: chugstaar (3000 en jetons, prime de 0.04 €)
+Place 8: Severa66 (3000 en jetons, prime de 0.04 €)
+Place 9: MAYyAaXX (3000 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 2
+steelex1980 : met l'ante. 2
+angel5204 : met l'ante. 2
+P1r1 : met l'ante. 2
+MY-AVA-56 : met l'ante. 2
+zambio103 : met l'ante. 2
+chugstaar : met l'ante. 2
+Severa66 : met l'ante. 2
+MAYyAaXX : met l'ante. 2
+steelex1980 : met la petite blind. 10
+angel5204 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs Ks]
+P1r1 : passe.
+MY-AVA-56 : passe.
+zambio103 : suit. 20
+chugstaar : passe.
+Severa66 : passe.
+MAYyAaXX : passe.
+RayuRuna : suit. 20
+steelex1980 : passe.
+angel5204 : parole
+*** FLOP *** [2s 2d 4c]
+angel5204 : mise. 20
+zambio103 : suit. 20
+RayuRuna : suit. 20
+*** TOURNANT *** [2s 2d 4c] [Kc]
+angel5204 : mise. 20
+zambio103 : suit. 20
+RayuRuna : suit. 20
+*** RIVIÈRE *** [2s 2d 4c Kc] [As]
+angel5204 : parole
+zambio103 : parole
+RayuRuna : mise. 104
+angel5204 : suit. 104
+zambio103 : passe.
+*** ABATTAGE ***
+RayuRuna : montre [Qs Ks] (double paire, Rois et Deux)
+angel5204 : montre [Kh 4h] (double paire, Rois et Quatre)
+angel5204 a remporté 416  lors du pot .
+*** SYNTHÈSE ***
+Pot total 416 | Commission 0
+Tableau [2s 2d 4c Kc As]
+Siège 1 : RayuRuna (bouton) a montré [Qs Ks] et a perdu avec double paire, Rois et Deux
+Siège 2 : steelex1980 (petite blind) s'est couché. avant Flop
+Siège 3 : angel5204 (grosse blind) a montré [Kh 4h] et a gagné (416) avec double paire, Rois et Quatre
+Siège 4 : P1r1 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : MY-AVA-56 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : zambio103 s'est couché. sur le Rivière
+Siège 7 : chugstaar s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Severa66 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 2 **************
+Main PokerStars n°242419377343 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:36:09 CET [13/03/2023 8:36:09 ET]
+Table '3559916634 5' 9-max Siège #2 est au bouton.
+Place 1: RayuRuna (2834 en jetons, prime de 0.04 €)
+Place 2: steelex1980 (2988 en jetons, prime de 0.04 €)
+Place 3: angel5204 (3250 en jetons, prime de 0.04 €)
+Place 4: P1r1 (2998 en jetons, prime de 0.04 €)
+Place 5: MY-AVA-56 (2998 en jetons, prime de 0.04 €)
+Place 6: zambio103 (2938 en jetons, prime de 0.04 €)
+Place 7: chugstaar (2998 en jetons, prime de 0.04 €)
+Place 8: Severa66 (2998 en jetons, prime de 0.04 €)
+Place 9: MAYyAaXX (2998 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 2
+steelex1980 : met l'ante. 2
+angel5204 : met l'ante. 2
+P1r1 : met l'ante. 2
+MY-AVA-56 : met l'ante. 2
+zambio103 : met l'ante. 2
+chugstaar : met l'ante. 2
+Severa66 : met l'ante. 2
+MAYyAaXX : met l'ante. 2
+angel5204 : met la petite blind. 10
+P1r1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8h 6c]
+MY-AVA-56 : passe.
+zambio103 : passe.
+chugstaar : passe.
+Severa66 : passe.
+MAYyAaXX : passe.
+RayuRuna : passe.
+steelex1980 : relance. 2966 à 2986 et est all-in.
+angel5204 : passe.
+P1r1 : passe.
+Personne n'a suivi. (2966) sont retournés à steelex1980.
+steelex1980 a remporté 68  lors du pot .
+*** SYNTHÈSE ***
+Pot total 68 | Commission 0
+Siège 1 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 2 : steelex1980 (bouton) a remporté (68)
+Siège 3 : angel5204 (petite blind) s'est couché. avant Flop
+Siège 4 : P1r1 (grosse blind) s'est couché. avant Flop
+Siège 5 : MY-AVA-56 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : zambio103 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : chugstaar s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Severa66 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 3 **************
+Main PokerStars n°242419384130 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:36:42 CET [13/03/2023 8:36:42 ET]
+Table '3559916634 5' 9-max Siège #3 est au bouton.
+Place 1: RayuRuna (2832 en jetons, prime de 0.04 €)
+Place 2: steelex1980 (3034 en jetons, prime de 0.04 €)
+Place 3: angel5204 (3238 en jetons, prime de 0.04 €)
+Place 4: P1r1 (2976 en jetons, prime de 0.04 €)
+Place 5: MY-AVA-56 (2996 en jetons, prime de 0.04 €)
+Place 6: zambio103 (2936 en jetons, prime de 0.04 €)
+Place 7: chugstaar (2996 en jetons, prime de 0.04 €)
+Place 8: Severa66 (2996 en jetons, prime de 0.04 €)
+Place 9: MAYyAaXX (2996 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 2
+steelex1980 : met l'ante. 2
+angel5204 : met l'ante. 2
+P1r1 : met l'ante. 2
+MY-AVA-56 : met l'ante. 2
+zambio103 : met l'ante. 2
+chugstaar : met l'ante. 2
+Severa66 : met l'ante. 2
+MAYyAaXX : met l'ante. 2
+P1r1 : met la petite blind. 10
+MY-AVA-56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6s Qs]
+zambio103 : suit. 20
+chugstaar : suit. 20
+Severa66 : passe.
+MAYyAaXX : passe.
+RayuRuna : passe.
+steelex1980 : suit. 20
+angel5204 : suit. 20
+P1r1 : suit. 10
+MY-AVA-56 : parole
+*** FLOP *** [Td Jh 4s]
+P1r1 : parole
+MY-AVA-56 : parole
+zambio103 : parole
+chugstaar : parole
+steelex1980 : parole
+angel5204 : parole
+*** TOURNANT *** [Td Jh 4s] [Qd]
+P1r1 : parole
+MY-AVA-56 : parole
+zambio103 : mise. 620
+chugstaar : passe.
+steelex1980 : passe.
+angel5204 : passe.
+P1r1 : passe.
+MY-AVA-56 : passe.
+Personne n'a suivi. (620) sont retournés à zambio103.
+zambio103 a remporté 138  lors du pot .
+*** SYNTHÈSE ***
+Pot total 138 | Commission 0
+Tableau [Td Jh 4s Qd]
+Siège 1 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 2 : steelex1980 s'est couché. sur le Tournant
+Siège 3 : angel5204 (bouton) s'est couché. sur le Tournant
+Siège 4 : P1r1 (petite blind) s'est couché. sur le Tournant
+Siège 5 : MY-AVA-56 (grosse blind) s'est couché. sur le Tournant
+Siège 6 : zambio103 a remporté (138)
+Siège 7 : chugstaar s'est couché. sur le Tournant
+Siège 8 : Severa66 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 4 **************
+Main PokerStars n°242419399737 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:37:58 CET [13/03/2023 8:37:58 ET]
+Table '3559916634 5' 9-max Siège #4 est au bouton.
+Place 1: RayuRuna (2830 en jetons, prime de 0.04 €)
+Place 2: steelex1980 (3012 en jetons, prime de 0.04 €)
+Place 3: angel5204 (3216 en jetons, prime de 0.04 €)
+Place 4: P1r1 (2954 en jetons, prime de 0.04 €)
+Place 5: MY-AVA-56 (2974 en jetons, prime de 0.04 €)
+Place 6: zambio103 (3052 en jetons, prime de 0.04 €)
+Place 7: chugstaar (2974 en jetons, prime de 0.04 €)
+Place 8: Severa66 (2994 en jetons, prime de 0.04 €)
+Place 9: MAYyAaXX (2994 en jetons, prime de 0.04 €)
+RayuRuna : met l'ante. 2
+steelex1980 : met l'ante. 2
+angel5204 : met l'ante. 2
+P1r1 : met l'ante. 2
+MY-AVA-56 : met l'ante. 2
+zambio103 : met l'ante. 2
+chugstaar : met l'ante. 2
+Severa66 : met l'ante. 2
+MAYyAaXX : met l'ante. 2
+MY-AVA-56 : met la petite blind. 10
+zambio103 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8d 2c]
+chugstaar : passe.
+Severa66 : passe.
+MAYyAaXX : suit. 20
+RayuRuna : passe.
+steelex1980 : suit. 20
+angel5204 : suit. 20
+P1r1 : passe.
+MY-AVA-56 : passe.
+zambio103 : parole
+*** FLOP *** [Qc Kd Qd]
+zambio103 : mise. 108
+MAYyAaXX : suit. 108
+steelex1980 : suit. 108
+angel5204 : suit. 108
+*** TOURNANT *** [Qc Kd Qd] [6h]
+zambio103 : parole
+MAYyAaXX : parole
+steelex1980 : parole
+angel5204 : mise. 120
+zambio103 : suit. 120
+MAYyAaXX : suit. 120
+steelex1980 : passe.
+*** RIVIÈRE *** [Qc Kd Qd 6h] [5c]
+zambio103 : parole
+MAYyAaXX : parole
+angel5204 : parole
+*** ABATTAGE ***
+zambio103 : montre [3d 6d] (double paire, Dames et Six)
+MAYyAaXX : cache la main perdante.
+angel5204 : montre [4s Qh] (un brelan de Dames)
+angel5204 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0
+Tableau [Qc Kd Qd 6h 5c]
+Siège 1 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 2 : steelex1980 s'est couché. sur le Tournant
+Siège 3 : angel5204 a montré [4s Qh] et a gagné (900) avec un brelan de Dames
+Siège 4 : P1r1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : MY-AVA-56 (petite blind) s'est couché. avant Flop
+Siège 6 : zambio103 (grosse blind) a montré [3d 6d] et a perdu avec double paire, Dames et Six
+Siège 7 : chugstaar s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Severa66 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : MAYyAaXX a caché la main perdante. [Th Jh]
+
+
+*********** # 5 **************
+Main PokerStars n°242419427403 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:40:11 CET [13/03/2023 8:40:11 ET]
+Table '3559916634 7' 9-max Siège #1 est au bouton.
+Place 1: jahkil (2970 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9010 en jetons, prime de 0.08 €)
+Place 3: sylv189400 (3000 en jetons, prime de 0.04 €)
+Place 4: hidalgo92 (2946 en jetons, prime de 0.04 €)
+Place 5: AALAAure (3174 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2998 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2828 en jetons, prime de 0.04 €)
+Place 8: YogiMasta (2966 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 3
+oscar7811 : met l'ante. 3
+sylv189400 : met l'ante. 3
+hidalgo92 : met l'ante. 3
+AALAAure : met l'ante. 3
+manuel10819 : met l'ante. 3
+RayuRuna : met l'ante. 3
+YogiMasta : met l'ante. 3
+oscar7811 : met la petite blind. 15
+sylv189400 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8h Ad]
+hidalgo92 : passe.
+AALAAure : relance. 60 à 90
+manuel10819 : passe.
+RayuRuna : suit. 90
+YogiMasta : suit. 90
+jahkil : passe.
+oscar7811 : passe.
+sylv189400 : suit. 60
+*** FLOP *** [Kh 2s 5d]
+sylv189400 : parole
+AALAAure : mise. 90
+RayuRuna : passe.
+YogiMasta : suit. 90
+sylv189400 : passe.
+*** TOURNANT *** [Kh 2s 5d] [9h]
+AALAAure : parole
+YogiMasta : parole
+*** RIVIÈRE *** [Kh 2s 5d 9h] [9d]
+AALAAure : parole
+YogiMasta : parole
+*** ABATTAGE ***
+AALAAure : montre [Ac 3c] (une paire de Neuf)
+YogiMasta : montre [3h Ah] (une paire de Neuf)
+AALAAure a remporté 290  lors du pot .
+YogiMasta a remporté 289  lors du pot .
+*** SYNTHÈSE ***
+Pot total 579 | Commission 0
+Tableau [Kh 2s 5d 9h 9d]
+Siège 1 : jahkil (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 (petite blind) s'est couché. avant Flop
+Siège 3 : sylv189400 (grosse blind) s'est couché. sur le Flop
+Siège 4 : hidalgo92 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure a montré [Ac 3c] et a gagné (290) avec une paire de Neuf
+Siège 6 : manuel10819 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : YogiMasta a montré [3h Ah] et a gagné (289) avec une paire de Neuf
+
+
+*********** # 6 **************
+Main PokerStars n°242419442729 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:41:24 CET [13/03/2023 8:41:24 ET]
+Table '3559916634 7' 9-max Siège #2 est au bouton.
+Place 1: jahkil (2967 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8992 en jetons, prime de 0.08 €)
+Place 3: sylv189400 (2907 en jetons, prime de 0.04 €)
+Place 5: AALAAure (3281 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2995 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2735 en jetons, prime de 0.04 €)
+Place 8: YogiMasta (3072 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3000 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 3
+oscar7811 : met l'ante. 3
+sylv189400 : met l'ante. 3
+AALAAure : met l'ante. 3
+manuel10819 : met l'ante. 3
+RayuRuna : met l'ante. 3
+YogiMasta : met l'ante. 3
+migue6455 : met l'ante. 3
+sylv189400 : met la petite blind. 15
+AALAAure : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jc Kc]
+manuel10819 : passe.
+RayuRuna : relance. 36 à 66
+YogiMasta est déconnecté
+YogiMasta a dépassé le temps imparti.
+YogiMasta : passe.
+YogiMasta ne joue pas.
+migue6455 : passe.
+YogiMasta est revenu.
+rioja21 est déconnecté
+jahkil : suit. 66
+oscar7811 : passe.
+sylv189400 : passe.
+AALAAure : suit. 36
+*** FLOP *** [Ts 3h 8s]
+AALAAure : mise. 60
+YogiMasta est déconnecté
+YogiMasta est déconnecté
+RayuRuna a dépassé le temps imparti.
+RayuRuna : passe.
+RayuRuna ne joue pas.
+RayuRuna est revenu.
+jahkil : suit. 60
+*** TOURNANT *** [Ts 3h 8s] [5d]
+AALAAure : parole
+jahkil : mise. 90
+AALAAure : suit. 90
+*** RIVIÈRE *** [Ts 3h 8s 5d] [Td]
+AALAAure : parole
+migue6455 est déconnecté
+jahkil : mise. 210
+AALAAure : passe.
+Personne n'a suivi. (210) sont retournés à jahkil.
+jahkil a remporté 537  lors du pot .
+*** SYNTHÈSE ***
+Pot total 537 | Commission 0
+Tableau [Ts 3h 8s 5d Td]
+Siège 1 : jahkil a remporté (537)
+Siège 2 : oscar7811 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sylv189400 (petite blind) s'est couché. avant Flop
+Siège 5 : AALAAure (grosse blind) s'est couché. sur le Rivière
+Siège 6 : manuel10819 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : YogiMasta s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 7 **************
+Main PokerStars n°242419472197 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:43:46 CET [13/03/2023 8:43:46 ET]
+Table '3559916634 7' 9-max Siège #3 est au bouton.
+Place 1: jahkil (3285 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8989 en jetons, prime de 0.08 €)
+Place 3: sylv189400 (2889 en jetons, prime de 0.04 €)
+Place 4: rioja21 (3000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 5: AALAAure (3062 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2992 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2666 en jetons, prime de 0.04 €)
+Place 8: YogiMasta (3069 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2997 en jetons, prime de 0.04 €)
+rioja21 sera autorisé à jouer après le bouton.
+jahkil : met l'ante. 3
+oscar7811 : met l'ante. 3
+sylv189400 : met l'ante. 3
+AALAAure : met l'ante. 3
+manuel10819 : met l'ante. 3
+RayuRuna : met l'ante. 3
+YogiMasta : met l'ante. 3
+migue6455 : met l'ante. 3
+AALAAure : met la petite blind. 15
+manuel10819 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4h Kh]
+RayuRuna : passe.
+YogiMasta : passe.
+migue6455 est connecté
+migue6455 est déconnecté
+migue6455 est connecté
+migue6455 a dépassé le temps imparti.
+migue6455 : passe.
+migue6455 ne joue pas.
+jahkil : passe.
+migue6455 est revenu.
+oscar7811 : passe.
+sylv189400 : suit. 30
+AALAAure : suit. 15
+manuel10819 : parole
+*** FLOP *** [9d 8s 5h]
+AALAAure : mise. 3029 et est all-in.
+manuel10819 : passe.
+sylv189400 : passe. [5d]
+Personne n'a suivi. (3029) sont retournés à AALAAure.
+AALAAure a remporté 114  lors du pot .
+*** SYNTHÈSE ***
+Pot total 114 | Commission 0
+Tableau [9d 8s 5h]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sylv189400 (bouton) s'est couché. sur le Flop
+Siège 5 : AALAAure (petite blind) a remporté (114)
+Siège 6 : manuel10819 (grosse blind) s'est couché. sur le Flop
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : YogiMasta s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 8 **************
+Main PokerStars n°242419486745 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:44:56 CET [13/03/2023 8:44:56 ET]
+Table '3559916634 7' 9-max Siège #5 est au bouton.
+Place 1: jahkil (3282 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8986 en jetons, prime de 0.08 €)
+Place 3: sylv189400 (2856 en jetons, prime de 0.04 €)
+Place 4: rioja21 (3000 en jetons, prime de 0.04 €)
+Place 5: AALAAure (3143 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2959 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2663 en jetons, prime de 0.04 €)
+Place 8: YogiMasta (3066 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2994 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 3
+oscar7811 : met l'ante. 3
+sylv189400 : met l'ante. 3
+rioja21 : met l'ante. 3
+AALAAure : met l'ante. 3
+manuel10819 : met l'ante. 3
+RayuRuna : met l'ante. 3
+YogiMasta : met l'ante. 3
+migue6455 : met l'ante. 3
+manuel10819 : met la petite blind. 15
+RayuRuna : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [As 6c]
+YogiMasta : passe.
+migue6455 : suit. 30
+jahkil : passe.
+oscar7811 : suit. 30
+sylv189400 : suit. 30
+rioja21 : passe.
+AALAAure : suit. 30
+manuel10819 : suit. 15
+RayuRuna : parole
+*** FLOP *** [8c 5s 2s]
+manuel10819 : parole
+RayuRuna : parole
+migue6455 : parole
+oscar7811 : mise. 207
+sylv189400 : suit. 207
+AALAAure : suit. 207
+manuel10819 : passe.
+RayuRuna : passe.
+migue6455 : passe.
+*** TOURNANT *** [8c 5s 2s] [7s]
+oscar7811 : mise. 8746 et est all-in.
+sylv189400 : suit. 2616 et est all-in.
+AALAAure : passe.
+Personne n'a suivi. (6130) sont retournés à oscar7811.
+*** RIVIÈRE *** [8c 5s 2s 7s] [3h]
+*** ABATTAGE ***
+oscar7811 : montre [8h 2h] (double paire, Huit et Deux)
+sylv189400 : montre [Ks Jh] (Hauteur Roi)
+oscar7811 a remporté 6060  lors du pot .
+oscar7811 gagne 0.02 € pour l'élimination de sylv189400 et sa prime augmente de 0.02 € à 0.10 €
+sylv189400 a fini le tournoi en 240e position.
+*** SYNTHÈSE ***
+Pot total 6060 | Commission 0
+Tableau [8c 5s 2s 7s 3h]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 a montré [8h 2h] et a gagné (6060) avec double paire, Huit et Deux
+Siège 3 : sylv189400 a montré [Ks Jh] et a perdu avec Hauteur Roi
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure (bouton) s'est couché. sur le Tournant
+Siège 6 : manuel10819 (petite blind) s'est couché. sur le Flop
+Siège 7 : RayuRuna (grosse blind) s'est couché. sur le Flop
+Siège 8 : YogiMasta s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. sur le Flop
+
+
+*********** # 9 **************
+Main PokerStars n°242419502122 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:46:09 CET [13/03/2023 8:46:09 ET]
+Table '3559916634 7' 9-max Siège #6 est au bouton.
+Place 1: jahkil (3279 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (12190 en jetons, prime de 0.10 €)
+Place 4: rioja21 (2997 en jetons, prime de 0.04 €)
+Place 5: AALAAure (2903 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2926 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2630 en jetons, prime de 0.04 €)
+Place 8: YogiMasta (3063 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2961 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 4
+oscar7811 : met l'ante. 4
+rioja21 : met l'ante. 4
+AALAAure : met l'ante. 4
+manuel10819 : met l'ante. 4
+RayuRuna : met l'ante. 4
+YogiMasta : met l'ante. 4
+migue6455 : met l'ante. 4
+RayuRuna : met la petite blind. 20
+YogiMasta : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5d Qh]
+migue6455 : suit. 40
+jahkil : suit. 40
+oscar7811 : suit. 40
+rioja21 : passe.
+AALAAure : suit. 40
+manuel10819 : passe.
+RayuRuna : passe.
+YogiMasta : parole
+*** FLOP *** [Jd 8c 9h]
+YogiMasta : mise. 80
+migue6455 : suit. 80
+jahkil : suit. 80
+oscar7811 : suit. 80
+AALAAure : suit. 80
+*** TOURNANT *** [Jd 8c 9h] [Qd]
+YogiMasta : parole
+migue6455 : mise. 40
+jahkil : suit. 40
+oscar7811 : suit. 40
+AALAAure : suit. 40
+YogiMasta : suit. 40
+*** RIVIÈRE *** [Jd 8c 9h Qd] [3d]
+YogiMasta : parole
+migue6455 : mise. 40
+jahkil : suit. 40
+oscar7811 : relance. 11986 à 12026 et est all-in.
+AALAAure : suit. 2739 et est all-in.
+YogiMasta : passe.
+migue6455 : passe.
+jahkil : passe.
+Personne n'a suivi. (9287) sont retournés à oscar7811.
+*** ABATTAGE ***
+oscar7811 : montre [7d 2d] (une couleur, hauteur Dame)
+AALAAure : montre [Td 8d] (une couleur, hauteur Dame - Dix plus haute)
+AALAAure a remporté 6410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 6410 | Commission 0
+Tableau [Jd 8c 9h Qd 3d]
+Siège 1 : jahkil s'est couché. sur le Rivière
+Siège 2 : oscar7811 a montré [7d 2d] et a perdu avec une couleur, hauteur Dame
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure a montré [Td 8d] et a gagné (6410) avec une couleur, hauteur Dame
+Siège 6 : manuel10819 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 8 : YogiMasta (grosse blind) s'est couché. sur le Rivière
+Siège 9 : migue6455 s'est couché. sur le Rivière
+
+
+*********** # 10 **************
+Main PokerStars n°242419530558 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:48:22 CET [13/03/2023 8:48:22 ET]
+Table '3559916634 7' 9-max Siège #7 est au bouton.
+Place 1: jahkil (3075 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9287 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3000 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2993 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6410 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2922 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2606 en jetons, prime de 0.04 €)
+Place 8: YogiMasta (2899 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2757 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 4
+oscar7811 : met l'ante. 4
+JoseJama14 : met l'ante. 4
+rioja21 : met l'ante. 4
+AALAAure : met l'ante. 4
+manuel10819 : met l'ante. 4
+RayuRuna : met l'ante. 4
+YogiMasta : met l'ante. 4
+migue6455 : met l'ante. 4
+YogiMasta : met la petite blind. 20
+migue6455 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ks Ts]
+jahkil : passe.
+oscar7811 : suit. 40
+JoseJama14 : passe.
+rioja21 : passe.
+AALAAure : suit. 40
+manuel10819 a dépassé le temps imparti.
+manuel10819 : passe.
+manuel10819 ne joue pas.
+RayuRuna : relance. 80 à 120
+YogiMasta : passe.
+migue6455 : passe.
+manuel10819 est revenu.
+oscar7811 : suit. 80
+AALAAure : suit. 80
+*** FLOP *** [Ad Ac As]
+oscar7811 : parole
+AALAAure : parole
+RayuRuna : mise. 200
+oscar7811 : passe.
+AALAAure : suit. 200
+*** TOURNANT *** [Ad Ac As] [Td]
+AALAAure : mise. 6086 et est all-in.
+RayuRuna : suit. 2282 et est all-in.
+Personne n'a suivi. (3804) sont retournés à AALAAure.
+*** RIVIÈRE *** [Ad Ac As Td] [6s]
+*** ABATTAGE ***
+AALAAure : montre [Th 9d] (un full, full aux As par les Dix)
+RayuRuna : montre [Ks Ts] (un full, full aux As par les Dix)
+AALAAure a remporté 2710  lors du pot .
+RayuRuna a remporté 2710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5420 | Commission 0
+Tableau [Ad Ac As Td 6s]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. sur le Flop
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure a montré [Th 9d] et a gagné (2710) avec un full, full aux As par les Dix
+Siège 6 : manuel10819 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (bouton) a montré [Ks Ts] et a gagné (2710) avec un full, full aux As par les Dix
+Siège 8 : YogiMasta (petite blind) s'est couché. avant Flop
+Siège 9 : migue6455 (grosse blind) s'est couché. avant Flop
+
+
+*********** # 11 **************
+Main PokerStars n°242419554759 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:50:17 CET [13/03/2023 8:50:17 ET]
+Table '3559916634 7' 9-max Siège #9 est au bouton.
+Place 1: jahkil (3071 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9163 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2996 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2989 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6514 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2918 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2710 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2713 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 5
+oscar7811 : met l'ante. 5
+JoseJama14 : met l'ante. 5
+rioja21 : met l'ante. 5
+AALAAure : met l'ante. 5
+manuel10819 : met l'ante. 5
+RayuRuna : met l'ante. 5
+migue6455 : met l'ante. 5
+jahkil : met la petite blind. 25
+oscar7811 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9c Js]
+JoseJama14 : passe.
+rioja21 : passe.
+AALAAure : suit. 50
+manuel10819 : suit. 50
+RayuRuna : suit. 50
+migue6455 a dépassé le temps imparti.
+migue6455 : passe.
+migue6455 ne joue pas.
+jahkil : passe.
+migue6455 est revenu.
+oscar7811 : parole
+*** FLOP *** [Ah 8d 5s]
+oscar7811 : parole
+AALAAure : parole
+manuel10819 : parole
+RayuRuna : parole
+*** TOURNANT *** [Ah 8d 5s] [Jc]
+oscar7811 : parole
+AALAAure : parole
+manuel10819 : parole
+RayuRuna : mise. 150
+oscar7811 : suit. 150
+AALAAure : suit. 150
+manuel10819 : suit. 150
+*** RIVIÈRE *** [Ah 8d 5s Jc] [Kd]
+oscar7811 : mise. 8958 et est all-in.
+AALAAure : passe.
+manuel10819 : passe.
+RayuRuna : passe.
+Personne n'a suivi. (8958) sont retournés à oscar7811.
+oscar7811 a remporté 865  lors du pot .
+*** SYNTHÈSE ***
+Pot total 865 | Commission 0
+Tableau [Ah 8d 5s Jc Kd]
+Siège 1 : jahkil (petite blind) s'est couché. avant Flop
+Siège 2 : oscar7811 (grosse blind) a remporté (865)
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. sur le Rivière
+Siège 6 : manuel10819 s'est couché. sur le Rivière
+Siège 7 : RayuRuna s'est couché. sur le Rivière
+Siège 9 : migue6455 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 12 **************
+Main PokerStars n°242419580319 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:52:17 CET [13/03/2023 8:52:17 ET]
+Table '3559916634 7' 9-max Siège #1 est au bouton.
+Place 1: jahkil (3041 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9823 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2991 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2984 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6309 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2713 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2505 en jetons, prime de 0.04 €)
+Place 8: 4quart (3000 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2708 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 5
+oscar7811 : met l'ante. 5
+JoseJama14 : met l'ante. 5
+rioja21 : met l'ante. 5
+AALAAure : met l'ante. 5
+manuel10819 : met l'ante. 5
+RayuRuna : met l'ante. 5
+4quart : met l'ante. 5
+migue6455 : met l'ante. 5
+oscar7811 : met la petite blind. 25
+JoseJama14 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4s Js]
+rioja21 : passe.
+AALAAure : relance. 100 à 150
+manuel10819 : passe.
+RayuRuna : passe.
+4quart : passe.
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : passe.
+Personne n'a suivi. (100) sont retournés à AALAAure.
+AALAAure a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0
+Siège 1 : jahkil (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 (petite blind) s'est couché. avant Flop
+Siège 3 : JoseJama14 (grosse blind) s'est couché. avant Flop
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure a remporté (170)
+Siège 6 : manuel10819 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : 4quart s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 13 **************
+Main PokerStars n°242419589319 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:52:59 CET [13/03/2023 8:52:59 ET]
+Table '3559916634 7' 9-max Siège #2 est au bouton.
+Place 1: jahkil (3036 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9793 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2936 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2979 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6424 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2708 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2500 en jetons, prime de 0.04 €)
+Place 8: 4quart (2995 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2703 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 5
+oscar7811 : met l'ante. 5
+JoseJama14 : met l'ante. 5
+rioja21 : met l'ante. 5
+AALAAure : met l'ante. 5
+manuel10819 : met l'ante. 5
+RayuRuna : met l'ante. 5
+4quart : met l'ante. 5
+migue6455 : met l'ante. 5
+JoseJama14 : met la petite blind. 25
+rioja21 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kh 5d]
+AALAAure : relance. 100 à 150
+manuel10819 : suit. 150
+RayuRuna : passe.
+4quart : passe.
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 : passe.
+*** FLOP *** [7s 6s 2s]
+AALAAure : mise. 150
+manuel10819 : passe.
+Personne n'a suivi. (150) sont retournés à AALAAure.
+AALAAure a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0
+Tableau [7s 6s 2s]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 (petite blind) s'est couché. avant Flop
+Siège 4 : rioja21 (grosse blind) s'est couché. avant Flop
+Siège 5 : AALAAure a remporté (420)
+Siège 6 : manuel10819 s'est couché. sur le Flop
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : 4quart s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 14 **************
+Main PokerStars n°242419601267 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:53:56 CET [13/03/2023 8:53:56 ET]
+Table '3559916634 7' 9-max Siège #3 est au bouton.
+Place 1: jahkil (3031 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9788 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2906 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2924 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6689 en jetons, prime de 0.04 €)
+Place 6: manuel10819 (2553 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2495 en jetons, prime de 0.04 €)
+Place 8: 4quart (2990 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2698 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 5
+oscar7811 : met l'ante. 5
+JoseJama14 : met l'ante. 5
+rioja21 : met l'ante. 5
+AALAAure : met l'ante. 5
+manuel10819 : met l'ante. 5
+RayuRuna : met l'ante. 5
+4quart : met l'ante. 5
+migue6455 : met l'ante. 5
+rioja21 : met la petite blind. 25
+AALAAure : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5d Qh]
+manuel10819 : suit. 50
+RayuRuna : passe.
+4quart a dépassé le temps imparti.
+4quart : passe.
+4quart ne joue pas.
+4quart est revenu.
+migue6455 : suit. 50
+jahkil : suit. 50
+oscar7811 : suit. 50
+JoseJama14 : passe.
+rioja21 : passe.
+AALAAure : parole
+*** FLOP *** [3s Kc 9h]
+AALAAure : parole
+manuel10819 : parole
+migue6455 : parole
+jahkil : parole
+oscar7811 : parole
+*** TOURNANT *** [3s Kc 9h] [Js]
+AALAAure : mise. 100
+manuel10819 : suit. 100
+migue6455 : passe.
+jahkil : suit. 100
+oscar7811 : passe.
+*** RIVIÈRE *** [3s Kc 9h Js] [7s]
+AALAAure : mise. 310
+manuel10819 : relance. 2088 à 2398 et est all-in.
+jahkil : passe.
+AALAAure : suit. 2088
+*** ABATTAGE ***
+manuel10819 : montre [Jc Jh] (un brelan de Valets)
+AALAAure : montre [Td 8c] (une suite, Sept à Valet)
+AALAAure a remporté 5416  lors du pot .
+AALAAure gagne 0.02 € pour l'élimination de manuel10819 et sa prime augmente de 0.02 € à 0.06 €
+manuel10819 a fini le tournoi en 220e position.
+*** SYNTHÈSE ***
+Pot total 5416 | Commission 0
+Tableau [3s Kc 9h Js 7s]
+Siège 1 : jahkil s'est couché. sur le Rivière
+Siège 2 : oscar7811 s'est couché. sur le Tournant
+Siège 3 : JoseJama14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 (petite blind) s'est couché. avant Flop
+Siège 5 : AALAAure (grosse blind) a montré [Td 8c] et a gagné (5416) avec une suite, Sept à Valet
+Siège 6 : manuel10819 a montré [Jc Jh] et a perdu avec un brelan de Valets
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : 4quart s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. sur le Tournant
+
+
+*********** # 15 **************
+Main PokerStars n°242419691096 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 14:01:49 CET [13/03/2023 9:01:49 ET]
+Table '3559916634 7' 9-max Siège #4 est au bouton.
+Place 1: jahkil (2876 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9733 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2901 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2894 en jetons, prime de 0.04 €)
+Place 5: AALAAure (9552 en jetons, prime de 0.06 €)
+Place 6: rulando (3000 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2490 en jetons, prime de 0.04 €)
+Place 8: 4quart (2985 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2643 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 6
+oscar7811 : met l'ante. 6
+JoseJama14 : met l'ante. 6
+rioja21 : met l'ante. 6
+AALAAure : met l'ante. 6
+rulando : met l'ante. 6
+RayuRuna : met l'ante. 6
+4quart : met l'ante. 6
+migue6455 : met l'ante. 6
+AALAAure : met la petite blind. 30
+rulando : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ac 4c]
+RayuRuna : relance. 60 à 120
+4quart : passe.
+migue6455 : suit. 120
+jahkil : relance. 504 à 624
+oscar7811 : suit. 624
+JoseJama14 : passe.
+rioja21 a dépassé le temps imparti.
+rioja21 : passe.
+rioja21 ne joue pas.
+AALAAure : suit. 594
+rulando : passe.
+RayuRuna : suit. 504
+migue6455 : passe.
+*** FLOP *** [Ts Tc 2h]
+AALAAure : parole
+RayuRuna : parole
+jahkil : mise. 2246 et est all-in.
+oscar7811 : passe.
+AALAAure : passe.
+RayuRuna : passe.
+Personne n'a suivi. (2246) sont retournés à jahkil.
+jahkil a remporté 2730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2730 | Commission 0
+Tableau [Ts Tc 2h]
+Siège 1 : jahkil a remporté (2730)
+Siège 2 : oscar7811 s'est couché. sur le Flop
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure (petite blind) s'est couché. sur le Flop
+Siège 6 : rulando (grosse blind) s'est couché. avant Flop
+Siège 7 : RayuRuna s'est couché. sur le Flop
+Siège 8 : 4quart s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop
+
+
+*********** # 16 **************
+Main PokerStars n°242419720462 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 14:04:06 CET [13/03/2023 9:04:06 ET]
+Table '3559916634 7' 9-max Siège #5 est au bouton.
+Place 1: jahkil (4976 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9103 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2895 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2888 en jetons, prime de 0.04 €) ne joue pas.
+Place 5: AALAAure (8922 en jetons, prime de 0.06 €)
+Place 6: rulando (2934 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (1860 en jetons, prime de 0.04 €)
+Place 8: 4quart (2979 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2517 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 6
+oscar7811 : met l'ante. 6
+JoseJama14 : met l'ante. 6
+rioja21 : met l'ante. 6
+AALAAure : met l'ante. 6
+rulando : met l'ante. 6
+RayuRuna : met l'ante. 6
+4quart : met l'ante. 6
+migue6455 : met l'ante. 6
+rulando : met la petite blind. 30
+RayuRuna : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5d 4c]
+4quart : suit. 60
+migue6455 : passe.
+rioja21 est revenu.
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 a dépassé le temps imparti.
+rioja21 : passe.
+rioja21 ne joue pas.
+rioja21 est revenu.
+AALAAure : suit. 60
+rulando : suit. 30
+RayuRuna : parole
+*** FLOP *** [Kc Js Ah]
+rulando : parole
+RayuRuna : parole
+4quart a dépassé le temps imparti.
+4quart : parole
+AALAAure : mise. 120
+rulando : passe.
+RayuRuna : passe.
+4quart : passe.
+Personne n'a suivi. (120) sont retournés à AALAAure.
+AALAAure a remporté 294  lors du pot .
+*** SYNTHÈSE ***
+Pot total 294 | Commission 0
+Tableau [Kc Js Ah]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure (bouton) a remporté (294)
+Siège 6 : rulando (petite blind) s'est couché. sur le Flop
+Siège 7 : RayuRuna (grosse blind) s'est couché. sur le Flop
+Siège 8 : 4quart s'est couché. sur le Flop
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 17 **************
+Main PokerStars n°242419744159 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 14:05:56 CET [13/03/2023 9:05:56 ET]
+Table '3559916634 7' 9-max Siège #6 est au bouton.
+Place 1: jahkil (4970 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (9097 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2889 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2882 en jetons, prime de 0.04 €)
+Place 5: AALAAure (9150 en jetons, prime de 0.06 €)
+Place 6: rulando (2868 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (1794 en jetons, prime de 0.04 €)
+Place 8: 4quart (2913 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2511 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 6
+oscar7811 : met l'ante. 6
+JoseJama14 : met l'ante. 6
+rioja21 : met l'ante. 6
+AALAAure : met l'ante. 6
+rulando : met l'ante. 6
+RayuRuna : met l'ante. 6
+4quart : met l'ante. 6
+migue6455 : met l'ante. 6
+RayuRuna : met la petite blind. 30
+4quart : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5h 8s]
+migue6455 : suit. 60
+jahkil : relance. 72 à 132
+oscar7811 : suit. 132
+JoseJama14 : suit. 132
+rioja21 : passe.
+AALAAure : suit. 132
+rulando : passe.
+RayuRuna : passe.
+4quart : suit. 72
+migue6455 : suit. 72
+*** FLOP *** [6c 4d Qc]
+4quart : parole
+migue6455 : parole
+jahkil : parole
+oscar7811 : parole
+JoseJama14 : parole
+AALAAure : parole
+*** TOURNANT *** [6c 4d Qc] [6d]
+4quart : parole
+migue6455 : parole
+jahkil : mise. 263
+oscar7811 : suit. 263
+JoseJama14 : suit. 263
+AALAAure : passe.
+4quart : passe.
+migue6455 a dépassé le temps imparti.
+migue6455 : passe.
+migue6455 ne joue pas.
+*** RIVIÈRE *** [6c 4d Qc 6d] [4s]
+migue6455 est revenu.
+jahkil : parole
+oscar7811 : parole
+JoseJama14 : parole
+*** ABATTAGE ***
+jahkil : montre [7h 7s] (double paire, Sept et Six)
+oscar7811 : cache la main perdante.
+JoseJama14 : cache la main perdante.
+jahkil a remporté 1665  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1665 | Commission 0
+Tableau [6c 4d Qc 6d 4s]
+Siège 1 : jahkil a montré [7h 7s] et a gagné (1665) avec double paire, Sept et Six
+Siège 2 : oscar7811 a caché la main perdante. [Kc 7c]
+Siège 3 : JoseJama14 a caché la main perdante. [Ad Jd]
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. sur le Tournant
+Siège 6 : rulando (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 8 : 4quart (grosse blind) s'est couché. sur le Tournant
+Siège 9 : migue6455 s'est couché. sur le Tournant
+
+
+*********** # 18 **************
+Main PokerStars n°242419771521 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 14:08:02 CET [13/03/2023 9:08:02 ET]
+Table '3559916634 7' 9-max Siège #7 est au bouton.
+Place 1: jahkil (6234 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8696 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2488 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2876 en jetons, prime de 0.04 €)
+Place 5: AALAAure (9012 en jetons, prime de 0.06 €)
+Place 7: RayuRuna (1758 en jetons, prime de 0.04 €)
+Place 8: 4quart (2775 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2373 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 8
+oscar7811 : met l'ante. 8
+JoseJama14 : met l'ante. 8
+rioja21 : met l'ante. 8
+AALAAure : met l'ante. 8
+RayuRuna : met l'ante. 8
+4quart : met l'ante. 8
+migue6455 : met l'ante. 8
+4quart : met la petite blind. 40
+migue6455 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Tc Ac]
+jma2481973 est déconnecté
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : suit. 80
+rioja21 a dépassé le temps imparti.
+rioja21 : passe.
+rioja21 ne joue pas.
+AALAAure : suit. 80
+rioja21 est revenu.
+RayuRuna : relance. 160 à 240
+4quart a dépassé le temps imparti.
+4quart : passe.
+4quart ne joue pas.
+migue6455 : passe.
+JoseJama14 : suit. 160
+4quart est revenu.
+AALAAure : passe.
+*** FLOP *** [Kh 9c Qd]
+JoseJama14 : parole
+RayuRuna : mise. 400
+JoseJama14 : passe.
+Personne n'a suivi. (400) sont retournés à RayuRuna.
+RayuRuna a remporté 744  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 744 | Commission 0
+Tableau [Kh 9c Qd]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 s'est couché. sur le Flop
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. avant Flop
+Siège 7 : RayuRuna (bouton) a remporté (744)
+Siège 8 : 4quart (petite blind) s'est couché. avant Flop
+Siège 9 : migue6455 (grosse blind) s'est couché. avant Flop
+
+
+*********** # 19 **************
+Main PokerStars n°242419789680 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 14:09:26 CET [13/03/2023 9:09:26 ET]
+Table '3559916634 7' 9-max Siège #9 est au bouton.
+Place 1: jahkil (6226 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8688 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2240 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2868 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8924 en jetons, prime de 0.06 €)
+Place 6: jma2481973 (3000 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2254 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2285 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 8
+oscar7811 : met l'ante. 8
+JoseJama14 : met l'ante. 8
+rioja21 : met l'ante. 8
+AALAAure : met l'ante. 8
+jma2481973 : met l'ante. 8
+RayuRuna : met l'ante. 8
+migue6455 : met l'ante. 8
+jahkil : met la petite blind. 40
+oscar7811 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kc 6c]
+JoseJama14 : suit. 80
+rioja21 : passe.
+AALAAure : suit. 80
+jma2481973 : suit. 80
+RayuRuna : passe.
+migue6455 : suit. 80
+jahkil : passe.
+oscar7811 : parole
+*** FLOP *** [Qd Th 7d]
+oscar7811 : parole
+JoseJama14 : parole
+AALAAure : parole
+jma2481973 : parole
+migue6455 : parole
+*** TOURNANT *** [Qd Th 7d] [9h]
+oscar7811 : parole
+JoseJama14 : parole
+AALAAure : parole
+jma2481973 : mise. 160
+migue6455 : passe.
+oscar7811 : passe.
+JoseJama14 : suit. 160
+AALAAure : passe.
+*** RIVIÈRE *** [Qd Th 7d 9h] [Ac]
+JoseJama14 : parole
+jma2481973 : mise. 400
+JoseJama14 : suit. 400
+*** ABATTAGE ***
+jma2481973 : montre [7s 7c] (un brelan de Sept)
+JoseJama14 : montre [Tc Ts] (un brelan de Dix)
+JoseJama14 a remporté 1624  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1624 | Commission 0
+Tableau [Qd Th 7d 9h Ac]
+Siège 1 : jahkil (petite blind) s'est couché. avant Flop
+Siège 2 : oscar7811 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : JoseJama14 a montré [Tc Ts] et a gagné (1624) avec un brelan de Dix
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. sur le Tournant
+Siège 6 : jma2481973 a montré [7s 7c] et a perdu avec un brelan de Sept
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 (bouton) s'est couché. sur le Tournant
+
+
+*********** # 20 **************
+Main PokerStars n°242419808255 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VI (40/80) - 13/03/2023 14:10:52 CET [13/03/2023 9:10:52 ET]
+Table '3559916634 7' 9-max Siège #1 est au bouton.
+Place 1: jahkil (6178 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8600 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3216 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2860 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8836 en jetons, prime de 0.06 €)
+Place 6: jma2481973 (2352 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (2246 en jetons, prime de 0.04 €)
+Place 8: Jotas4 (3000 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2197 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 8
+oscar7811 : met l'ante. 8
+JoseJama14 : met l'ante. 8
+rioja21 : met l'ante. 8
+AALAAure : met l'ante. 8
+jma2481973 : met l'ante. 8
+RayuRuna : met l'ante. 8
+Jotas4 : met l'ante. 8
+migue6455 : met l'ante. 8
+oscar7811 : met la petite blind. 40
+JoseJama14 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Jc Ks]
+rioja21 a dépassé le temps imparti.
+rioja21 : passe.
+rioja21 ne joue pas.
+AALAAure : suit. 80
+rioja21 est revenu.
+jma2481973 : passe.
+RayuRuna : suit. 80
+Jotas4 : passe.
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : suit. 40
+JoseJama14 : parole
+*** FLOP *** [Kc 4h 2s]
+oscar7811 : parole
+JoseJama14 : parole
+AALAAure : parole
+RayuRuna : parole
+*** TOURNANT *** [Kc 4h 2s] [Qc]
+oscar7811 : parole
+JoseJama14 : parole
+AALAAure : mise. 80
+RayuRuna : relance. 160 à 240
+oscar7811 : suit. 240
+JoseJama14 : passe.
+AALAAure : suit. 160
+*** RIVIÈRE *** [Kc 4h 2s Qc] [4s]
+oscar7811 : parole
+AALAAure : parole
+RayuRuna : mise. 1918 et est all-in.
+oscar7811 : passe.
+AALAAure : passe.
+Personne n'a suivi. (1918) sont retournés à RayuRuna.
+RayuRuna a remporté 1112  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1112 | Commission 0
+Tableau [Kc 4h 2s Qc 4s]
+Siège 1 : jahkil (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 (petite blind) s'est couché. sur le Rivière
+Siège 3 : JoseJama14 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. sur le Rivière
+Siège 6 : jma2481973 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna a remporté (1112)
+Siège 8 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 21 **************
+Main PokerStars n°242419828949 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 14:12:28 CET [13/03/2023 9:12:28 ET]
+Table '3559916634 7' 9-max Siège #2 est au bouton.
+Place 1: jahkil (6170 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8272 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3128 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2852 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8508 en jetons, prime de 0.06 €)
+Place 6: jma2481973 (2344 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (3030 en jetons, prime de 0.04 €)
+Place 8: Jotas4 (2992 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2189 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 10
+oscar7811 : met l'ante. 10
+JoseJama14 : met l'ante. 10
+rioja21 : met l'ante. 10
+AALAAure : met l'ante. 10
+jma2481973 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Jotas4 : met l'ante. 10
+migue6455 : met l'ante. 10
+JoseJama14 : met la petite blind. 50
+rioja21 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3c 5c]
+AALAAure : passe.
+jma2481973 : passe.
+RayuRuna : passe.
+Jotas4 : suit. 100
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 : parole
+*** FLOP *** [9d 8h As]
+rioja21 : parole
+Jotas4 : mise. 100
+rioja21 : passe.
+Personne n'a suivi. (100) sont retournés à Jotas4.
+Jotas4 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0
+Tableau [9d 8h As]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 (petite blind) s'est couché. avant Flop
+Siège 4 : rioja21 (grosse blind) s'est couché. sur le Flop
+Siège 5 : AALAAure s'est couché. avant Flop (n'a pas misé)
+Siège 6 : jma2481973 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 a remporté (340)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 22 **************
+Main PokerStars n°242419840139 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 14:13:19 CET [13/03/2023 9:13:19 ET]
+Table '3559916634 7' 9-max Siège #3 est au bouton.
+Place 1: jahkil (6160 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8262 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3068 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2742 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8498 en jetons, prime de 0.06 €)
+Place 6: jma2481973 (2334 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (3020 en jetons, prime de 0.04 €)
+Place 8: Jotas4 (3222 en jetons, prime de 0.04 €)
+Place 9: migue6455 (2179 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 10
+oscar7811 : met l'ante. 10
+JoseJama14 : met l'ante. 10
+rioja21 : met l'ante. 10
+AALAAure : met l'ante. 10
+jma2481973 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Jotas4 : met l'ante. 10
+migue6455 : met l'ante. 10
+rioja21 : met la petite blind. 50
+AALAAure : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s 5c]
+jma2481973 : passe.
+RayuRuna : passe.
+Jotas4 : suit. 100
+migue6455 : suit. 100
+jahkil : suit. 100
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 : passe.
+AALAAure : parole
+*** FLOP *** [8d 6c 7s]
+AALAAure : mise. 100
+Jotas4 : suit. 100
+migue6455 : suit. 100
+jahkil : suit. 100
+*** TOURNANT *** [8d 6c 7s] [3c]
+AALAAure : parole
+Jotas4 : parole
+migue6455 : mise. 100
+jahkil : suit. 100
+AALAAure : suit. 100
+Jotas4 : suit. 100
+*** RIVIÈRE *** [8d 6c 7s 3c] [Ks]
+AALAAure : parole
+Jotas4 : parole
+migue6455 : mise. 100
+jahkil : suit. 100
+AALAAure : passe.
+Jotas4 : passe.
+*** ABATTAGE ***
+migue6455 : montre [Qc 8h] (une paire de Huit)
+jahkil : cache la main perdante.
+migue6455 a remporté 1540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1540 | Commission 0
+Tableau [8d 6c 7s 3c Ks]
+Siège 1 : jahkil a caché la main perdante. [7c As]
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 (petite blind) s'est couché. avant Flop
+Siège 5 : AALAAure (grosse blind) s'est couché. sur le Rivière
+Siège 6 : jma2481973 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 s'est couché. sur le Rivière
+Siège 9 : migue6455 a montré [Qc 8h] et a gagné (1540) avec une paire de Huit
+
+
+*********** # 23 **************
+Main PokerStars n°242419859482 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VII (50/100) - 13/03/2023 14:14:49 CET [13/03/2023 9:14:49 ET]
+Table '3559916634 7' 9-max Siège #4 est au bouton.
+Place 1: jahkil (5750 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8252 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3058 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2682 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8188 en jetons, prime de 0.06 €)
+Place 6: jma2481973 (2324 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (3010 en jetons, prime de 0.04 €)
+Place 8: Jotas4 (2912 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3309 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 10
+oscar7811 : met l'ante. 10
+JoseJama14 : met l'ante. 10
+rioja21 : met l'ante. 10
+AALAAure : met l'ante. 10
+jma2481973 : met l'ante. 10
+RayuRuna : met l'ante. 10
+Jotas4 : met l'ante. 10
+migue6455 : met l'ante. 10
+AALAAure : met la petite blind. 50
+jma2481973 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8d 7d]
+RayuRuna a dépassé le temps imparti.
+RayuRuna : passe.
+RayuRuna ne joue pas.
+Jotas4 : suit. 100
+migue6455 : suit. 100
+jahkil : passe.
+RayuRuna est revenu.
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 : suit. 100
+AALAAure : suit. 50
+jma2481973 : parole
+*** FLOP *** [4d Kh Ah]
+AALAAure : parole
+jma2481973 : parole
+Jotas4 : parole
+migue6455 : parole
+rioja21 : parole
+*** TOURNANT *** [4d Kh Ah] [4s]
+AALAAure : parole
+jma2481973 : parole
+Jotas4 : parole
+migue6455 : parole
+rioja21 : parole
+*** RIVIÈRE *** [4d Kh Ah 4s] [8c]
+AALAAure : parole
+jma2481973 : parole
+Jotas4 : parole
+migue6455 : parole
+rioja21 : parole
+*** ABATTAGE ***
+AALAAure : montre [5s 9h] (une paire de Quatre)
+jma2481973 : cache la main perdante.
+Jotas4 : montre [Td 7h] (une paire de Quatre - As+Roi+Dix kicker)
+migue6455 : montre [Qs 8h] (double paire, Huit et Quatre)
+rioja21 : cache la main perdante.
+migue6455 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0
+Tableau [4d Kh Ah 4s 8c]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 (bouton) a caché la main perdante. [9c Th]
+Siège 5 : AALAAure (petite blind) a montré [5s 9h] et a perdu avec une paire de Quatre
+Siège 6 : jma2481973 (grosse blind) a caché la main perdante. [5d 3d]
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 a montré [Td 7h] et a perdu avec une paire de Quatre
+Siège 9 : migue6455 a montré [Qs 8h] et a gagné (590) avec double paire, Huit et Quatre
+
+
+*********** # 24 **************
+Main PokerStars n°242419887635 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VIII (60/120) - 13/03/2023 14:16:59 CET [13/03/2023 9:16:59 ET]
+Table '3559916634 7' 9-max Siège #5 est au bouton.
+Place 1: jahkil (5740 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8242 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3048 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2572 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8078 en jetons, prime de 0.06 €)
+Place 6: jma2481973 (2214 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (3000 en jetons, prime de 0.04 €)
+Place 8: Jotas4 (2802 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3789 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 15
+oscar7811 : met l'ante. 15
+JoseJama14 : met l'ante. 15
+rioja21 : met l'ante. 15
+AALAAure : met l'ante. 15
+jma2481973 : met l'ante. 15
+RayuRuna : met l'ante. 15
+Jotas4 : met l'ante. 15
+migue6455 : met l'ante. 15
+jma2481973 : met la petite blind. 60
+RayuRuna : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qd Kh]
+Jotas4 : passe.
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : suit. 120
+rioja21 : passe.
+AALAAure : passe.
+jma2481973 : suit. 60
+RayuRuna : relance. 240 à 360
+JoseJama14 : suit. 240
+jma2481973 : suit. 240
+*** FLOP *** [5d Qh Jh]
+jma2481973 : parole
+RayuRuna : mise. 608
+JoseJama14 : passe.
+jma2481973 : relance. 1231 à 1839 et est all-in.
+RayuRuna : suit. 1231
+*** TOURNANT *** [5d Qh Jh] [Qc]
+*** RIVIÈRE *** [5d Qh Jh Qc] [Qs]
+*** ABATTAGE ***
+jma2481973 : montre [Th 9h] (un brelan de Dames)
+RayuRuna : montre [Qd Kh] (un carré de Dames)
+RayuRuna a remporté 4893  lors du pot .
+RayuRuna gagne 0.02 € pour l'élimination de jma2481973 et sa prime augmente de 0.02 € à 0.06 €
+jma2481973 a fini le tournoi en 155e position.
+*** SYNTHÈSE ***
+Pot total 4893 | Commission 0
+Tableau [5d Qh Jh Qc Qs]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 s'est couché. sur le Flop
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : jma2481973 (petite blind) a montré [Th 9h] et a perdu avec un brelan de Dames
+Siège 7 : RayuRuna (grosse blind) a montré [Qd Kh] et a gagné (4893) avec un carré de Dames
+Siège 8 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 25 **************
+Main PokerStars n°242419899667 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VIII (60/120) - 13/03/2023 14:17:55 CET [13/03/2023 9:17:55 ET]
+Table '3559916634 7' 9-max Siège #7 est au bouton.
+Place 1: jahkil (5725 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8227 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2673 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2557 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8063 en jetons, prime de 0.06 €)
+Place 7: RayuRuna (5679 en jetons, prime de 0.06 €)
+Place 8: Jotas4 (2787 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3774 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 15
+oscar7811 : met l'ante. 15
+JoseJama14 : met l'ante. 15
+rioja21 : met l'ante. 15
+AALAAure : met l'ante. 15
+RayuRuna : met l'ante. 15
+Jotas4 : met l'ante. 15
+migue6455 : met l'ante. 15
+Jotas4 : met la petite blind. 60
+migue6455 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6d 4c]
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 : suit. 120
+AALAAure : relance. 120 à 240
+RayuRuna : passe.
+Jotas4 : passe.
+migue6455 : passe.
+rioja21 : suit. 120
+*** FLOP *** [9c As 9h]
+rioja21 : parole
+AALAAure : mise. 240
+rioja21 : passe.
+Personne n'a suivi. (240) sont retournés à AALAAure.
+AALAAure a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0
+Tableau [9c As 9h]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 s'est couché. sur le Flop
+Siège 5 : AALAAure a remporté (780)
+Siège 7 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 (petite blind) s'est couché. avant Flop
+Siège 9 : migue6455 (grosse blind) s'est couché. avant Flop
+
+
+*********** # 26 **************
+Main PokerStars n°242419917723 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VIII (60/120) - 13/03/2023 14:19:19 CET [13/03/2023 9:19:19 ET]
+Table '3559916634 7' 9-max Siège #8 est au bouton.
+Place 1: jahkil (5710 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (8212 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2658 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2302 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8588 en jetons, prime de 0.06 €)
+Place 6: nas21nas (3000 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (5664 en jetons, prime de 0.06 €)
+Place 8: Jotas4 (2712 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3639 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 15
+oscar7811 : met l'ante. 15
+JoseJama14 : met l'ante. 15
+rioja21 : met l'ante. 15
+AALAAure : met l'ante. 15
+nas21nas : met l'ante. 15
+RayuRuna : met l'ante. 15
+Jotas4 : met l'ante. 15
+migue6455 : met l'ante. 15
+migue6455 : met la petite blind. 60
+jahkil : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd Ks]
+oscar7811 : suit. 120
+JoseJama14 : passe.
+rioja21 : passe.
+AALAAure : suit. 120
+nas21nas : suit. 120
+RayuRuna : relance. 360 à 480
+Jotas4 : passe.
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : relance. 360 à 840
+AALAAure : passe.
+nas21nas : passe.
+RayuRuna : suit. 360
+*** FLOP *** [8d Qs 9c]
+oscar7811 : parole
+RayuRuna : parole
+*** TOURNANT *** [8d Qs 9c] [6d]
+oscar7811 : parole
+RayuRuna : mise. 1118
+oscar7811 : suit. 1118
+*** RIVIÈRE *** [8d Qs 9c 6d] [7c]
+oscar7811 : parole
+RayuRuna : parole
+*** ABATTAGE ***
+oscar7811 : montre [As Kh] (Hauteur As)
+RayuRuna : montre [Kd Ks] (une paire de Rois)
+RayuRuna a remporté 4471  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4471 | Commission 0
+Tableau [8d Qs 9c 6d 7c]
+Siège 1 : jahkil (grosse blind) s'est couché. avant Flop
+Siège 2 : oscar7811 a montré [As Kh] et a perdu avec Hauteur As
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. avant Flop
+Siège 6 : nas21nas s'est couché. avant Flop
+Siège 7 : RayuRuna a montré [Kd Ks] et a gagné (4471) avec une paire de Rois
+Siège 8 : Jotas4 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 (petite blind) s'est couché. avant Flop
+
+
+*********** # 27 **************
+Main PokerStars n°242419936649 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau VIII (60/120) - 13/03/2023 14:20:47 CET [13/03/2023 9:20:47 ET]
+Table '3559916634 7' 9-max Siège #9 est au bouton.
+Place 1: jahkil (5575 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (6239 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2643 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2287 en jetons, prime de 0.04 €)
+Place 5: AALAAure (8453 en jetons, prime de 0.06 €)
+Place 6: nas21nas (2865 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (8162 en jetons, prime de 0.06 €)
+Place 8: Jotas4 (2697 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3564 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 15
+oscar7811 : met l'ante. 15
+JoseJama14 : met l'ante. 15
+rioja21 : met l'ante. 15
+AALAAure : met l'ante. 15
+nas21nas : met l'ante. 15
+RayuRuna : met l'ante. 15
+Jotas4 : met l'ante. 15
+migue6455 : met l'ante. 15
+jahkil : met la petite blind. 60
+oscar7811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ts 4c]
+JoseJama14 : passe.
+rioja21 : suit. 120
+AALAAure : relance. 120 à 240
+nas21nas : suit. 240
+RayuRuna : passe.
+Jotas4 : passe.
+migue6455 : passe.
+jahkil : suit. 180
+oscar7811 : suit. 120
+rioja21 : suit. 120
+*** FLOP *** [Kh 7h 5s]
+jahkil : parole
+oscar7811 : parole
+rioja21 : parole
+AALAAure : mise. 240
+nas21nas : suit. 240
+jahkil : suit. 240
+oscar7811 : suit. 240
+rioja21 : passe.
+*** TOURNANT *** [Kh 7h 5s] [Kc]
+jahkil : parole
+oscar7811 : parole
+AALAAure : mise. 240
+nas21nas : suit. 240
+jahkil : suit. 240
+oscar7811 : passe.
+*** RIVIÈRE *** [Kh 7h 5s Kc] [2d]
+jahkil : mise. 905
+AALAAure : suit. 905
+nas21nas : passe.
+*** ABATTAGE ***
+jahkil : montre [Ks Jh] (un brelan de Rois)
+AALAAure : cache la main perdante.
+jahkil a remporté 4825  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4825 | Commission 0
+Tableau [Kh 7h 5s Kc 2d]
+Siège 1 : jahkil (petite blind) a montré [Ks Jh] et a gagné (4825) avec un brelan de Rois
+Siège 2 : oscar7811 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : JoseJama14 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 s'est couché. sur le Flop
+Siège 5 : AALAAure a caché la main perdante. [9c 9h]
+Siège 6 : nas21nas s'est couché. sur le Rivière
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 28 **************
+Main PokerStars n°242419963753 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IX (75/150) - 13/03/2023 14:22:53 CET [13/03/2023 9:22:53 ET]
+Table '3559916634 7' 9-max Siège #1 est au bouton.
+Place 1: jahkil (8760 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (5744 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (2628 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2032 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6813 en jetons, prime de 0.06 €)
+Place 6: nas21nas (2130 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (8147 en jetons, prime de 0.06 €)
+Place 8: Jotas4 (2682 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3549 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 20
+oscar7811 : met l'ante. 20
+JoseJama14 : met l'ante. 20
+rioja21 : met l'ante. 20
+AALAAure : met l'ante. 20
+nas21nas : met l'ante. 20
+RayuRuna : met l'ante. 20
+Jotas4 : met l'ante. 20
+migue6455 : met l'ante. 20
+oscar7811 : met la petite blind. 75
+JoseJama14 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6s 4h]
+rioja21 : passe.
+AALAAure : suit. 150
+nas21nas : passe.
+RayuRuna : passe.
+Jotas4 : passe.
+migue6455 : suit. 150
+jahkil : suit. 150
+oscar7811 : suit. 75
+JoseJama14 : relance. 2458 à 2608 et est all-in.
+AALAAure : passe.
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : passe.
+Personne n'a suivi. (2458) sont retournés à JoseJama14.
+JoseJama14 a remporté 930  lors du pot .
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0
+Siège 1 : jahkil (bouton) s'est couché. avant Flop
+Siège 2 : oscar7811 (petite blind) s'est couché. avant Flop
+Siège 3 : JoseJama14 (grosse blind) a remporté (930)
+Siège 4 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : AALAAure s'est couché. avant Flop
+Siège 6 : nas21nas s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. avant Flop
+
+
+*********** # 29 **************
+Main PokerStars n°242419973735 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IX (75/150) - 13/03/2023 14:23:40 CET [13/03/2023 9:23:40 ET]
+Table '3559916634 7' 9-max Siège #2 est au bouton.
+Place 1: jahkil (8590 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (5574 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3388 en jetons, prime de 0.04 €)
+Place 4: rioja21 (2012 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6643 en jetons, prime de 0.06 €)
+Place 6: nas21nas (2110 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (8127 en jetons, prime de 0.06 €)
+Place 8: Jotas4 (2662 en jetons, prime de 0.04 €)
+Place 9: migue6455 (3379 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 20
+oscar7811 : met l'ante. 20
+JoseJama14 : met l'ante. 20
+rioja21 : met l'ante. 20
+AALAAure : met l'ante. 20
+nas21nas : met l'ante. 20
+RayuRuna : met l'ante. 20
+Jotas4 : met l'ante. 20
+migue6455 : met l'ante. 20
+JoseJama14 : met la petite blind. 75
+rioja21 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2d 3c]
+AALAAure : passe.
+nas21nas : suit. 150
+RayuRuna : passe.
+Jotas4 : passe.
+migue6455 : suit. 150
+jahkil : passe.
+oscar7811 : passe.
+JoseJama14 : passe.
+rioja21 a dépassé le temps imparti.
+rioja21 : parole
+*** FLOP *** [Ts As Jd]
+rioja21 : parole
+nas21nas : mise. 705
+migue6455 : passe.
+rioja21 : suit. 705
+*** TOURNANT *** [Ts As Jd] [8c]
+rioja21 : parole
+nas21nas : mise. 1235 et est all-in.
+rioja21 : suit. 1137 et est all-in.
+Personne n'a suivi. (98) sont retournés à nas21nas.
+*** RIVIÈRE *** [Ts As Jd 8c] [Ah]
+*** ABATTAGE ***
+rioja21 : montre [5h Kc] (une paire de As)
+nas21nas : montre [6h 3d] (une paire de As - plus basse kicker)
+rioja21 a remporté 4389  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4389 | Commission 0
+Tableau [Ts As Jd 8c Ah]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JoseJama14 (petite blind) s'est couché. avant Flop
+Siège 4 : rioja21 (grosse blind) a montré [5h Kc] et a gagné (4389) avec une paire de As
+Siège 5 : AALAAure s'est couché. avant Flop (n'a pas misé)
+Siège 6 : nas21nas a montré [6h 3d] et a perdu avec une paire de As
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : migue6455 s'est couché. sur le Flop
+
+
+*********** # 30 **************
+Main PokerStars n°242419990058 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IX (75/150) - 13/03/2023 14:24:55 CET [13/03/2023 9:24:55 ET]
+Table '3559916634 7' 9-max Siège #3 est au bouton.
+Place 1: jahkil (8570 en jetons, prime de 0.04 €)
+Place 2: oscar7811 (5554 en jetons, prime de 0.10 €)
+Place 3: JoseJama14 (3293 en jetons, prime de 0.04 €)
+Place 4: rioja21 (4389 en jetons, prime de 0.04 €)
+Place 5: AALAAure (6623 en jetons, prime de 0.06 €)
+Place 6: nas21nas (98 en jetons, prime de 0.04 €)
+Place 7: RayuRuna (8107 en jetons, prime de 0.06 €)
+Place 9: migue6455 (3209 en jetons, prime de 0.04 €)
+jahkil : met l'ante. 20
+oscar7811 : met l'ante. 20
+JoseJama14 : met l'ante. 20
+rioja21 : met l'ante. 20
+AALAAure : met l'ante. 20
+nas21nas : met l'ante. 20
+RayuRuna : met l'ante. 20
+migue6455 : met l'ante. 20
+rioja21 : met la petite blind. 75
+AALAAure : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6s 6c]
+nas21nas : suit. 78 et est all-in.
+RayuRuna : relance. 300 à 450
+migue6455 : passe.
+jahkil : passe.
+oscar7811 : suit. 450
+JoseJama14 : passe.
+rioja21 : suit. 375
+AALAAure : suit. 300
+*** FLOP *** [5h 3d Qc]
+rioja21 : parole
+AALAAure : parole
+RayuRuna : mise. 750
+oscar7811 : relance. 750 à 1500
+rioja21 : passe.
+AALAAure : passe.
+RayuRuna : suit. 750
+*** TOURNANT *** [5h 3d Qc] [Ts]
+RayuRuna : parole
+oscar7811 : mise. 2519
+RayuRuna : passe.
+Personne n'a suivi. (2519) sont retournés à oscar7811.
+*** RIVIÈRE *** [5h 3d Qc Ts] [Td]
+*** ABATTAGE ***
+oscar7811 : montre [Jd Qs] (double paire, Dames et Dix)
+oscar7811 a remporté 4488  parallèle lors du pot .
+nas21nas : montre [2s 4s] (une paire de Dix)
+oscar7811 a remporté 550  principal lors du pot .
+oscar7811 gagne 0.02 € pour l'élimination de nas21nas et sa prime augmente de 0.02 € à 0.12 €
+nas21nas a fini le tournoi en 127e position.
+*** SYNTHÈSE ***
+Pot total 5038 Principal pot 550. Parallèle pot 4488. | Commission 0
+Tableau [5h 3d Qc Ts Td]
+Siège 1 : jahkil s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar7811 a montré [Jd Qs] et a gagné (5038) avec double paire, Dames et Dix
+Siège 3 : JoseJama14 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : rioja21 (petite blind) s'est couché. sur le Flop
+Siège 5 : AALAAure (grosse blind) s'est couché. sur le Flop
+Siège 6 : nas21nas a montré [2s 4s] et a perdu avec une paire de Dix
+Siège 7 : RayuRuna s'est couché. sur le Tournant
+Siège 9 : migue6455 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 31 **************
+Main PokerStars n°242420008139 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau IX (75/150) - 13/03/2023 14:26:17 CET [13/03/2023 9:26:17 ET]
+Table '3559916634 14' 9-max Siège #8 est au bouton.
+Place 1: malisseRR (2497 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7826 en jetons, prime de 0.06 €)
+Place 3: berrysup (2645 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (10053 en jetons, prime de 0.08 €)
+Place 5: angel5204 (3081 en jetons, prime de 0.04 €)
+Place 6: smvcc (76 en jetons, prime de 0.04 €)
+Place 7: MAYyAaXX (8595 en jetons, prime de 0.04 €)
+Place 8: Bossjul (3168 en jetons, prime de 0.06 €)
+Place 9: RayuRuna (6137 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+RayuRuna sera autorisé à jouer après le bouton.
+malisseRR : met l'ante. 20
+1kmmasiprou : met l'ante. 20
+berrysup : met l'ante. 20
+jorgecost507 : met l'ante. 20
+angel5204 : met l'ante. 20
+smvcc : met l'ante. 20
+MAYyAaXX : met l'ante. 20
+Bossjul : met l'ante. 20
+malisseRR : met la petite blind. 75
+1kmmasiprou : met la grosse blind. 150
+*** CARTES FERMÉES ***
+berrysup : passe.
+jorgecost507 : suit. 150
+angel5204 : suit. 150
+smvcc : suit. 56 et est all-in.
+MAYyAaXX : passe.
+Bossjul : suit. 150
+malisseRR : suit. 75
+1kmmasiprou : parole
+*** FLOP *** [Js Kh 3h]
+malisseRR : parole
+1kmmasiprou : parole
+jorgecost507 : mise. 150
+angel5204 : passe.
+Bossjul : suit. 150
+malisseRR : suit. 150
+1kmmasiprou : passe.
+*** TOURNANT *** [Js Kh 3h] [2d]
+malisseRR : parole
+jorgecost507 : mise. 150
+Bossjul : suit. 150
+malisseRR : suit. 150
+*** RIVIÈRE *** [Js Kh 3h 2d] [9h]
+malisseRR : parole
+jorgecost507 : mise. 1800
+Bossjul : suit. 1800
+malisseRR : passe.
+*** ABATTAGE ***
+jorgecost507 : montre [Kc 9s] (double paire, Rois et Neuf)
+Bossjul : montre [Jh 7h] (une couleur, hauteur Roi)
+Bossjul a remporté 4970  parallèle lors du pot .
+smvcc : cache la main perdante.
+Bossjul a remporté 496  principal lors du pot .
+Bossjul gagne 0.02 € pour l'élimination de smvcc et sa prime augmente de 0.02 € à 0.08 €
+smvcc a fini le tournoi en 119e position.
+*** SYNTHÈSE ***
+Pot total 5466 Principal pot 496. Parallèle pot 4970. | Commission 0
+Tableau [Js Kh 3h 2d 9h]
+Siège 1 : malisseRR (petite blind) s'est couché. sur le Rivière
+Siège 2 : 1kmmasiprou (grosse blind) s'est couché. sur le Flop
+Siège 3 : berrysup s'est couché. avant Flop (n'a pas misé)
+Siège 4 : jorgecost507 a montré [Kc 9s] et a perdu avec double paire, Rois et Neuf
+Siège 5 : angel5204 s'est couché. sur le Flop
+Siège 6 : smvcc a caché la main perdante. [As Ad]
+Siège 7 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul (bouton) a montré [Jh 7h] et a gagné (5466) avec une couleur, hauteur Roi
+
+
+*********** # 32 **************
+Main PokerStars n°242420028729 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau X (100/200) - 13/03/2023 14:27:50 CET [13/03/2023 9:27:50 ET]
+Table '3559916634 14' 9-max Siège #1 est au bouton.
+Place 1: malisseRR (2027 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7656 en jetons, prime de 0.06 €)
+Place 3: berrysup (2625 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7783 en jetons, prime de 0.08 €)
+Place 5: angel5204 (2911 en jetons, prime de 0.04 €)
+Place 7: MAYyAaXX (8575 en jetons, prime de 0.04 €)
+Place 8: Bossjul (6364 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (6137 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 25
+1kmmasiprou : met l'ante. 25
+berrysup : met l'ante. 25
+jorgecost507 : met l'ante. 25
+angel5204 : met l'ante. 25
+MAYyAaXX : met l'ante. 25
+Bossjul : met l'ante. 25
+RayuRuna : met l'ante. 25
+1kmmasiprou : met la petite blind. 100
+berrysup : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8c 7d]
+jorgecost507 a dépassé le temps imparti.
+jorgecost507 : passe.
+jorgecost507 ne joue pas.
+angel5204 : passe.
+MAYyAaXX : passe.
+Bossjul : passe.
+RayuRuna : passe.
+malisseRR : passe.
+1kmmasiprou : passe.
+Personne n'a suivi. (100) sont retournés à berrysup.
+berrysup a remporté 400  lors du pot .
+berrysup : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0
+Siège 1 : malisseRR (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 1kmmasiprou (petite blind) s'est couché. avant Flop
+Siège 3 : berrysup (grosse blind) a remporté (400)
+Siège 4 : jorgecost507 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : angel5204 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 33 **************
+Main PokerStars n°242420036360 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau X (100/200) - 13/03/2023 14:28:25 CET [13/03/2023 9:28:25 ET]
+Table '3559916634 14' 9-max Siège #2 est au bouton.
+Place 1: malisseRR (2002 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7531 en jetons, prime de 0.06 €)
+Place 3: berrysup (2900 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7758 en jetons, prime de 0.08 €) ne joue pas.
+Place 6: rubenteixeira18 (5470 en jetons, prime de 0.06 €)
+Place 7: MAYyAaXX (8550 en jetons, prime de 0.04 €)
+Place 8: Bossjul (6339 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (6112 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 25
+1kmmasiprou : met l'ante. 25
+berrysup : met l'ante. 25
+jorgecost507 : met l'ante. 25
+rubenteixeira18 : met l'ante. 25
+MAYyAaXX : met l'ante. 25
+Bossjul : met l'ante. 25
+RayuRuna : met l'ante. 25
+berrysup : met la petite blind. 100
+jorgecost507 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5h Qh]
+MAYyAaXX  a dit, "tu lui coutes beaucoup a jorge"
+rubenteixeira18 : suit. 200
+MAYyAaXX : passe.
+Bossjul : passe.
+RayuRuna : passe.
+malisseRR : suit. 200
+1kmmasiprou : passe.
+berrysup : suit. 100
+jorgecost507 : passe.
+*** FLOP *** [6h 7d 7c]
+berrysup : parole
+rubenteixeira18 : parole
+malisseRR : parole
+*** TOURNANT *** [6h 7d 7c] [2c]
+berrysup : parole
+rubenteixeira18 : parole
+malisseRR : parole
+*** RIVIÈRE *** [6h 7d 7c 2c] [8h]
+berrysup : parole
+rubenteixeira18 : mise. 200
+malisseRR : passe.
+berrysup : passe.
+Personne n'a suivi. (200) sont retournés à rubenteixeira18.
+rubenteixeira18 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0
+Tableau [6h 7d 7c 2c 8h]
+Siège 1 : malisseRR s'est couché. sur le Rivière
+Siège 2 : 1kmmasiprou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup (petite blind) s'est couché. sur le Rivière
+Siège 4 : jorgecost507 (grosse blind) s'est couché. avant Flop
+Siège 6 : rubenteixeira18 a remporté (1000)
+Siège 7 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 34 **************
+Main PokerStars n°242420050724 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau X (100/200) - 13/03/2023 14:29:30 CET [13/03/2023 9:29:30 ET]
+Table '3559916634 14' 9-max Siège #3 est au bouton.
+Place 1: malisseRR (1777 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7506 en jetons, prime de 0.06 €)
+Place 3: berrysup (2675 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7533 en jetons, prime de 0.08 €) ne joue pas.
+Place 6: rubenteixeira18 (6245 en jetons, prime de 0.06 €)
+Place 7: MAYyAaXX (8525 en jetons, prime de 0.04 €)
+Place 8: Bossjul (6314 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (6087 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 25
+1kmmasiprou : met l'ante. 25
+berrysup : met l'ante. 25
+jorgecost507 : met l'ante. 25
+rubenteixeira18 : met l'ante. 25
+MAYyAaXX : met l'ante. 25
+Bossjul : met l'ante. 25
+RayuRuna : met l'ante. 25
+jorgecost507 : met la petite blind. 100
+rubenteixeira18 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4d 3s]
+MAYyAaXX : passe.
+Bossjul : passe.
+RayuRuna a dépassé le temps imparti.
+RayuRuna : passe.
+RayuRuna ne joue pas.
+rioja21 est déconnecté
+malisseRR : suit. 200
+1kmmasiprou : passe.
+RayuRuna est revenu.
+berrysup : passe.
+jorgecost507 : passe.
+rubenteixeira18 : parole
+*** FLOP *** [Kd As 7s]
+rubenteixeira18 : parole
+malisseRR : parole
+*** TOURNANT *** [Kd As 7s] [Ah]
+rubenteixeira18 : parole
+malisseRR : parole
+*** RIVIÈRE *** [Kd As 7s Ah] [Ad]
+rubenteixeira18 : parole
+malisseRR : mise. 200
+rubenteixeira18 : suit. 200
+*** ABATTAGE ***
+malisseRR : montre [6d Kc] (un full, full aux As par les Rois)
+rubenteixeira18 : cache la main perdante.
+malisseRR a remporté 1100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0
+Tableau [Kd As 7s Ah Ad]
+Siège 1 : malisseRR a montré [6d Kc] et a gagné (1100) avec un full, full aux As par les Rois
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : jorgecost507 (petite blind) s'est couché. avant Flop
+Siège 6 : rubenteixeira18 (grosse blind) a caché la main perdante . [Qs Ts]
+Siège 7 : MAYyAaXX s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 35 **************
+Main PokerStars n°242420067176 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau X (100/200) - 13/03/2023 14:30:44 CET [13/03/2023 9:30:44 ET]
+Table '3559916634 14' 9-max Siège #4 est au bouton.
+Place 1: malisseRR (2452 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7481 en jetons, prime de 0.06 €)
+Place 3: berrysup (2650 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7408 en jetons, prime de 0.08 €) ne joue pas.
+Place 5: rioja21 (3644 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 6: rubenteixeira18 (5820 en jetons, prime de 0.06 €)
+Place 7: MAYyAaXX (8500 en jetons, prime de 0.04 €)
+Place 8: Bossjul (6289 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (6062 en jetons, prime de 0.06 €)
+rioja21 sera autorisé à jouer après le bouton.
+malisseRR : met l'ante. 25
+1kmmasiprou : met l'ante. 25
+berrysup : met l'ante. 25
+jorgecost507 : met l'ante. 25
+rubenteixeira18 : met l'ante. 25
+MAYyAaXX : met l'ante. 25
+Bossjul : met l'ante. 25
+RayuRuna : met l'ante. 25
+rubenteixeira18 : met la petite blind. 100
+MAYyAaXX : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5d Ad]
+MAYyAaXX  a dit, "malisse le dernier cyborg de l armee du Ruban Rouge"
+Bossjul : suit. 200
+MAYyAaXX  a dit, "C33"
+RayuRuna : relance. 400 à 600
+malisseRR : passe.
+1kmmasiprou : passe.
+berrysup : passe.
+jorgecost507 : passe.
+rubenteixeira18 : passe.
+MAYyAaXX : passe.
+Bossjul : suit. 400
+*** FLOP *** [Qd As Ks]
+Bossjul : parole
+RayuRuna : mise. 850
+Bossjul : passe.
+Personne n'a suivi. (850) sont retournés à RayuRuna.
+RayuRuna a remporté 1700  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1700 | Commission 0
+Tableau [Qd As Ks]
+Siège 1 : malisseRR s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup s'est couché. avant Flop (n'a pas misé)
+Siège 4 : jorgecost507 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 (petite blind) s'est couché. avant Flop
+Siège 7 : MAYyAaXX (grosse blind) s'est couché. avant Flop
+Siège 8 : Bossjul s'est couché. sur le Flop
+Siège 9 : RayuRuna a remporté (1700)
+
+
+*********** # 36 **************
+Main PokerStars n°242420077973 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau X (100/200) - 13/03/2023 14:31:33 CET [13/03/2023 9:31:33 ET]
+Table '3559916634 14' 9-max Siège #6 est au bouton.
+Place 1: malisseRR (2427 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7456 en jetons, prime de 0.06 €)
+Place 3: berrysup (2625 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7383 en jetons, prime de 0.08 €) ne joue pas.
+Place 5: rioja21 (3644 en jetons, prime de 0.04 €)
+Place 6: rubenteixeira18 (5695 en jetons, prime de 0.06 €)
+Place 8: Bossjul (5664 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (7137 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 25
+1kmmasiprou : met l'ante. 25
+berrysup : met l'ante. 25
+jorgecost507 : met l'ante. 25
+rioja21 : met l'ante. 25
+rubenteixeira18 : met l'ante. 25
+Bossjul : met l'ante. 25
+RayuRuna : met l'ante. 25
+Bossjul : met la petite blind. 100
+RayuRuna : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s 5d]
+malisseRR : passe.
+1kmmasiprou : passe.
+berrysup : passe.
+jorgecost507 : passe.
+rioja21 : passe.
+rubenteixeira18 : suit. 200
+Bossjul : suit. 100
+RayuRuna : parole
+*** FLOP *** [As Qs 6s]
+Bossjul : parole
+RayuRuna : mise. 200
+rubenteixeira18 : suit. 200
+Bossjul : passe.
+*** TOURNANT *** [As Qs 6s] [8h]
+RayuRuna : mise. 600
+rubenteixeira18 : passe.
+Personne n'a suivi. (600) sont retournés à RayuRuna.
+RayuRuna a remporté 1200  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0
+Tableau [As Qs 6s 8h]
+Siège 1 : malisseRR s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup s'est couché. avant Flop (n'a pas misé)
+Siège 4 : jorgecost507 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 (bouton) s'est couché. sur le Tournant
+Siège 8 : Bossjul (petite blind) s'est couché. sur le Flop
+Siège 9 : RayuRuna (grosse blind) a remporté (1200)
+
+
+*********** # 37 **************
+Main PokerStars n°242420089743 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XI (125/250) - 13/03/2023 14:32:26 CET [13/03/2023 9:32:26 ET]
+Table '3559916634 14' 9-max Siège #8 est au bouton.
+Place 1: malisseRR (2402 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7431 en jetons, prime de 0.06 €)
+Place 3: berrysup (2600 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7358 en jetons, prime de 0.08 €) ne joue pas.
+Place 5: rioja21 (3619 en jetons, prime de 0.04 €)
+Place 6: rubenteixeira18 (5270 en jetons, prime de 0.06 €)
+Place 8: Bossjul (5439 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (7912 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 30
+1kmmasiprou : met l'ante. 30
+berrysup : met l'ante. 30
+jorgecost507 : met l'ante. 30
+rioja21 : met l'ante. 30
+rubenteixeira18 : met l'ante. 30
+Bossjul : met l'ante. 30
+RayuRuna : met l'ante. 30
+RayuRuna : met la petite blind. 125
+malisseRR : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8s 4d]
+1kmmasiprou : passe.
+berrysup : relance. 2320 à 2570 et est all-in.
+jorgecost507 : passe.
+maedb est déconnecté
+rioja21 a dépassé le temps imparti.
+rioja21 : passe.
+rioja21 ne joue pas.
+rubenteixeira18 : passe.
+Bossjul : passe.
+RayuRuna : passe.
+malisseRR : passe.
+Personne n'a suivi. (2320) sont retournés à berrysup.
+berrysup a remporté 865  lors du pot .
+berrysup : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 865 | Commission 0
+Siège 1 : malisseRR (grosse blind) s'est couché. avant Flop
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup a remporté (865)
+Siège 4 : jorgecost507 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (petite blind) s'est couché. avant Flop
+
+
+*********** # 38 **************
+Main PokerStars n°242420098464 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XI (125/250) - 13/03/2023 14:33:05 CET [13/03/2023 9:33:05 ET]
+Table '3559916634 14' 9-max Siège #9 est au bouton.
+Place 1: malisseRR (2122 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7401 en jetons, prime de 0.06 €)
+Place 3: berrysup (3185 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7328 en jetons, prime de 0.08 €) ne joue pas.
+Place 5: rioja21 (3589 en jetons, prime de 0.04 €) ne joue pas.
+Place 6: rubenteixeira18 (5240 en jetons, prime de 0.06 €)
+Place 7: maedb (2295 en jetons, prime de 0.04 €)
+Place 8: Bossjul (5409 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (7757 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 30
+1kmmasiprou : met l'ante. 30
+berrysup : met l'ante. 30
+jorgecost507 : met l'ante. 30
+rioja21 : met l'ante. 30
+rubenteixeira18 : met l'ante. 30
+maedb : met l'ante. 30
+Bossjul : met l'ante. 30
+RayuRuna : met l'ante. 30
+malisseRR : met la petite blind. 125
+1kmmasiprou : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7h Jc]
+berrysup : passe.
+jorgecost507 : passe.
+rioja21 : passe.
+rioja21 est revenu.
+rubenteixeira18 : suit. 250
+maedb : passe.
+Bossjul : passe.
+RayuRuna : suit. 250
+malisseRR : suit. 125
+1kmmasiprou : parole
+*** FLOP *** [Ts Ks 4c]
+malisseRR : parole
+1kmmasiprou : parole
+rubenteixeira18 : mise. 250
+jorgecost507 est revenu.
+RayuRuna a dépassé le temps imparti.
+RayuRuna : passe.
+RayuRuna ne joue pas.
+malisseRR : passe.
+1kmmasiprou : passe.
+Personne n'a suivi. (250) sont retournés à rubenteixeira18.
+rubenteixeira18 a remporté 1270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1270 | Commission 0
+Tableau [Ts Ks 4c]
+Siège 1 : malisseRR (petite blind) s'est couché. sur le Flop
+Siège 2 : 1kmmasiprou (grosse blind) s'est couché. sur le Flop
+Siège 3 : berrysup s'est couché. avant Flop (n'a pas misé)
+Siège 4 : jorgecost507 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : rioja21 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 a remporté (1270)
+Siège 7 : maedb s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (bouton) s'est couché. sur le Flop
+
+
+*********** # 39 **************
+Main PokerStars n°242420109417 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XI (125/250) - 13/03/2023 14:33:54 CET [13/03/2023 9:33:54 ET]
+Table '3559916634 14' 9-max Siège #1 est au bouton.
+Place 1: malisseRR (1842 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (7121 en jetons, prime de 0.06 €)
+Place 3: berrysup (3155 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7298 en jetons, prime de 0.08 €)
+Place 5: rioja21 (3559 en jetons, prime de 0.04 €)
+Place 6: rubenteixeira18 (6230 en jetons, prime de 0.06 €)
+Place 7: maedb (2265 en jetons, prime de 0.04 €)
+Place 8: Bossjul (5379 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (7477 en jetons, prime de 0.06 €) ne joue pas.
+malisseRR : met l'ante. 30
+1kmmasiprou : met l'ante. 30
+berrysup : met l'ante. 30
+jorgecost507 : met l'ante. 30
+rioja21 : met l'ante. 30
+rubenteixeira18 : met l'ante. 30
+maedb : met l'ante. 30
+Bossjul : met l'ante. 30
+RayuRuna : met l'ante. 30
+1kmmasiprou : met la petite blind. 125
+berrysup : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7s 3c]
+RayuRuna est revenu.
+jorgecost507 : passe.
+rioja21 : suit. 250
+rubenteixeira18 : suit. 250
+maedb : suit. 250
+Bossjul : passe.
+RayuRuna : passe.
+malisseRR : suit. 250
+1kmmasiprou : suit. 125
+berrysup : parole
+*** FLOP *** [3s Ac 3d]
+1kmmasiprou : parole
+berrysup a dépassé le temps imparti.
+berrysup : parole
+rioja21 : parole
+rubenteixeira18 : mise. 250
+maedb : passe.
+malisseRR : suit. 250
+1kmmasiprou : suit. 250
+berrysup : passe.
+rioja21 : passe.
+*** TOURNANT *** [3s Ac 3d] [7h]
+1kmmasiprou : parole
+rubenteixeira18 : mise. 250
+malisseRR : suit. 250
+1kmmasiprou : suit. 250
+*** RIVIÈRE *** [3s Ac 3d 7h] [Kd]
+1kmmasiprou : parole
+rubenteixeira18 : parole
+malisseRR : parole
+*** ABATTAGE ***
+1kmmasiprou : montre [As 5s] (double paire, As et Trois)
+rubenteixeira18 : cache la main perdante.
+malisseRR : cache la main perdante.
+1kmmasiprou a remporté 3270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3270 | Commission 0
+Tableau [3s Ac 3d 7h Kd]
+Siège 1 : malisseRR (bouton) a caché la main perdante. [8c 8d]
+Siège 2 : 1kmmasiprou (petite blind) a montré [As 5s] et a gagné (3270) avec double paire, As et Trois
+Siège 3 : berrysup (grosse blind) s'est couché. sur le Flop
+Siège 4 : jorgecost507 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : rioja21 s'est couché. sur le Flop
+Siège 6 : rubenteixeira18 a caché la main perdante. [5d 5c]
+Siège 7 : maedb s'est couché. sur le Flop
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 40 **************
+Main PokerStars n°242420130786 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XI (125/250) - 13/03/2023 14:35:30 CET [13/03/2023 9:35:30 ET]
+Table '3559916634 14' 9-max Siège #2 est au bouton.
+Place 1: malisseRR (1062 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (9611 en jetons, prime de 0.06 €)
+Place 3: berrysup (2875 en jetons, prime de 0.04 €)
+Place 4: jorgecost507 (7268 en jetons, prime de 0.08 €)
+Place 5: rioja21 (3279 en jetons, prime de 0.04 €)
+Place 6: rubenteixeira18 (5450 en jetons, prime de 0.06 €)
+Place 7: maedb (1985 en jetons, prime de 0.04 €)
+Place 8: Bossjul (5349 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (7447 en jetons, prime de 0.06 €)
+malisseRR : met l'ante. 30
+1kmmasiprou : met l'ante. 30
+berrysup : met l'ante. 30
+jorgecost507 : met l'ante. 30
+rioja21 : met l'ante. 30
+rubenteixeira18 : met l'ante. 30
+maedb : met l'ante. 30
+Bossjul : met l'ante. 30
+RayuRuna : met l'ante. 30
+berrysup : met la petite blind. 125
+jorgecost507 : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd Kh]
+rioja21 : suit. 250
+rubenteixeira18 : suit. 250
+maedb : passe.
+Bossjul : passe.
+RayuRuna : relance. 500 à 750
+malisseRR : passe.
+1kmmasiprou : passe.
+berrysup : passe.
+jorgecost507 : relance. 500 à 1250
+rioja21 : suit. 1000
+rubenteixeira18 : passe.
+RayuRuna : relance. 6167 à 7417 et est all-in.
+jorgecost507 : suit. 5988 et est all-in.
+rioja21 : suit. 1999 et est all-in.
+Personne n'a suivi. (179) sont retournés à RayuRuna.
+*** FLOP *** [6d 9d Jd]
+*** TOURNANT *** [6d 9d Jd] [9s]
+*** RIVIÈRE *** [6d 9d Jd 9s] [Jc]
+*** ABATTAGE ***
+jorgecost507 : montre [Qh Ks] (double paire, Valets et Neuf)
+RayuRuna : montre [Kd Kh] (double paire, Rois et Valets)
+RayuRuna a remporté 7978  parallèle lors du pot .
+rioja21 : montre [Td As] (double paire, Valets et Neuf)
+RayuRuna a remporté 10392  principal lors du pot .
+RayuRuna gagne 0.04 € pour l'élimination de jorgecost507 et sa prime augmente de 0.04 € à 0.10 €
+RayuRuna gagne 0.02 € pour l'élimination de rioja21 et sa prime augmente de 0.02 € à 0.12 €
+jorgecost507 a fini le tournoi en 87e position.
+rioja21 a fini le tournoi en 88e position.
+*** SYNTHÈSE ***
+Pot total 18370 Principal pot 10392. Parallèle pot 7978. | Commission 0
+Tableau [6d 9d Jd 9s Jc]
+Siège 1 : malisseRR s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 1kmmasiprou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup (petite blind) s'est couché. avant Flop
+Siège 4 : jorgecost507 (grosse blind) a montré [Qh Ks] et a perdu avec double paire, Valets et Neuf
+Siège 5 : rioja21 a montré [Td As] et a perdu avec double paire, Valets et Neuf
+Siège 6 : rubenteixeira18 s'est couché. avant Flop
+Siège 7 : maedb s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna a montré [Kd Kh] et a gagné (18370) avec double paire, Rois et Valets
+
+
+*********** # 41 **************
+Main PokerStars n°242420145423 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XI (125/250) - 13/03/2023 14:36:35 CET [13/03/2023 9:36:35 ET]
+Table '3559916634 14' 9-max Siège #3 est au bouton.
+Place 1: malisseRR (1032 en jetons, prime de 0.04 €)
+Place 2: 1kmmasiprou (9581 en jetons, prime de 0.06 €)
+Place 3: berrysup (2720 en jetons, prime de 0.04 €)
+Place 6: rubenteixeira18 (5170 en jetons, prime de 0.06 €)
+Place 7: maedb (1955 en jetons, prime de 0.04 €)
+Place 8: Bossjul (5319 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (18549 en jetons, prime de 0.12 €)
+malisseRR : met l'ante. 30
+1kmmasiprou : met l'ante. 30
+berrysup : met l'ante. 30
+rubenteixeira18 : met l'ante. 30
+maedb : met l'ante. 30
+Bossjul : met l'ante. 30
+RayuRuna : met l'ante. 30
+rubenteixeira18 : met la petite blind. 125
+maedb : met la grosse blind. 250
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s 6c]
+Bossjul : passe.
+RayuRuna : passe.
+malisseRR : suit. 250
+1kmmasiprou : passe.
+berrysup : relance. 2440 à 2690 et est all-in.
+rubenteixeira18 : passe.
+maedb : suit. 1675 et est all-in.
+malisseRR : suit. 752 et est all-in.
+Personne n'a suivi. (765) sont retournés à berrysup.
+*** FLOP *** [4d Js 9c]
+*** TOURNANT *** [4d Js 9c] [3d]
+*** RIVIÈRE *** [4d Js 9c 3d] [6h]
+*** ABATTAGE ***
+maedb : montre [As Kh] (Hauteur As)
+berrysup : montre [Qs Qh] (une paire de Dames)
+berrysup a remporté 1846  parallèle lors du pot .
+malisseRR : montre [Qd 9h] (une paire de Neuf)
+berrysup a remporté 3341  principal lors du pot .
+berrysup gagne 0.02 € pour l'élimination de malisseRR et sa prime augmente de 0.02 € à 0.06 €
+berrysup gagne 0.02 € pour l'élimination de maedb et sa prime augmente de 0.02 € à 0.08 €
+maedb a fini le tournoi en 83e position.
+malisseRR a fini le tournoi en 84e position.
+*** SYNTHÈSE ***
+Pot total 5187 Principal pot 3341. Parallèle pot 1846. | Commission 0
+Tableau [4d Js 9c 3d 6h]
+Siège 1 : malisseRR a montré [Qd 9h] et a perdu avec une paire de Neuf
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup (bouton) a montré [Qs Qh] et a gagné (5187) avec une paire de Dames
+Siège 6 : rubenteixeira18 (petite blind) s'est couché. avant Flop
+Siège 7 : maedb (grosse blind) a montré [As Kh] et a perdu avec Hauteur As
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 42 **************
+Main PokerStars n°242420155008 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XII (150/300) - 13/03/2023 14:37:17 CET [13/03/2023 9:37:17 ET]
+Table '3559916634 14' 9-max Siège #6 est au bouton.
+Place 1: rekopik (14627 en jetons, prime de 0.10 €)
+Place 2: 1kmmasiprou (9551 en jetons, prime de 0.06 €)
+Place 3: berrysup (5952 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (16380 en jetons, prime de 0.10 €)
+Place 6: rubenteixeira18 (5015 en jetons, prime de 0.06 €)
+Place 8: Bossjul (5289 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (18519 en jetons, prime de 0.12 €)
+rekopik : met l'ante. 40
+1kmmasiprou : met l'ante. 40
+berrysup : met l'ante. 40
+2709eddy : met l'ante. 40
+rubenteixeira18 : met l'ante. 40
+Bossjul : met l'ante. 40
+RayuRuna : met l'ante. 40
+Bossjul : met la petite blind. 150
+RayuRuna : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ts 3h]
+rekopik : passe.
+inem.com est déconnecté
+1kmmasiprou : suit. 300
+berrysup : relance. 450 à 750
+2709eddy a dépassé le temps imparti.
+2709eddy : passe.
+2709eddy ne joue pas.
+rubenteixeira18 : suit. 750
+2709eddy est revenu.
+Bossjul : suit. 600
+RayuRuna : passe.
+1kmmasiprou : suit. 450
+*** FLOP *** [8d 8h 5h]
+Bossjul : parole
+1kmmasiprou : parole
+berrysup : parole
+rubenteixeira18 : mise. 4225 et est all-in.
+Bossjul : passe.
+1kmmasiprou : passe.
+berrysup : passe.
+Personne n'a suivi. (4225) sont retournés à rubenteixeira18.
+rubenteixeira18 a remporté 3580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3580 | Commission 0
+Tableau [8d 8h 5h]
+Siège 1 : rekopik s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 1kmmasiprou s'est couché. sur le Flop
+Siège 3 : berrysup s'est couché. sur le Flop
+Siège 4 : 2709eddy s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 (bouton) a remporté (3580)
+Siège 8 : Bossjul (petite blind) s'est couché. sur le Flop
+Siège 9 : RayuRuna (grosse blind) s'est couché. avant Flop
+
+
+*********** # 43 **************
+Main PokerStars n°242420170729 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XII (150/300) - 13/03/2023 14:38:27 CET [13/03/2023 9:38:27 ET]
+Table '3559916634 14' 9-max Siège #8 est au bouton.
+Place 1: rekopik (14587 en jetons, prime de 0.10 €)
+Place 2: 1kmmasiprou (8761 en jetons, prime de 0.06 €)
+Place 3: berrysup (5162 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (16340 en jetons, prime de 0.10 €)
+Place 5: soldat-gege (15378 en jetons, prime de 0.15 €)
+Place 6: rubenteixeira18 (7805 en jetons, prime de 0.06 €)
+Place 7: inem.com (13232 en jetons, prime de 0.06 €)
+Place 8: Bossjul (4499 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (18179 en jetons, prime de 0.12 €)
+rekopik : met l'ante. 40
+1kmmasiprou : met l'ante. 40
+berrysup : met l'ante. 40
+2709eddy : met l'ante. 40
+soldat-gege : met l'ante. 40
+rubenteixeira18 : met l'ante. 40
+inem.com : met l'ante. 40
+Bossjul : met l'ante. 40
+RayuRuna : met l'ante. 40
+RayuRuna : met la petite blind. 150
+rekopik : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs 9c]
+1kmmasiprou : passe.
+berrysup : passe.
+2709eddy : suit. 300
+soldat-gege : passe.
+rubenteixeira18 : suit. 300
+inem.com : relance. 12892 à 13192 et est all-in.
+Bossjul : passe.
+RayuRuna : passe.
+rekopik : passe.
+2709eddy : passe.
+rubenteixeira18 : passe.
+Personne n'a suivi. (12892) sont retournés à inem.com.
+inem.com a remporté 1710  lors du pot .
+inem.com : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 1710 | Commission 0
+Siège 1 : rekopik (grosse blind) s'est couché. avant Flop
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup s'est couché. avant Flop (n'a pas misé)
+Siège 4 : 2709eddy s'est couché. avant Flop
+Siège 5 : soldat-gege s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 s'est couché. avant Flop
+Siège 7 : inem.com a remporté (1710)
+Siège 8 : Bossjul (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (petite blind) s'est couché. avant Flop
+
+
+*********** # 44 **************
+Main PokerStars n°242420180268 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XII (150/300) - 13/03/2023 14:39:09 CET [13/03/2023 9:39:09 ET]
+Table '3559916634 14' 9-max Siège #9 est au bouton.
+Place 1: rekopik (14247 en jetons, prime de 0.10 €)
+Place 2: 1kmmasiprou (8721 en jetons, prime de 0.06 €)
+Place 3: berrysup (5122 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (16000 en jetons, prime de 0.10 €)
+Place 5: soldat-gege (15338 en jetons, prime de 0.15 €)
+Place 6: rubenteixeira18 (7465 en jetons, prime de 0.06 €)
+Place 8: Bossjul (4459 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (17989 en jetons, prime de 0.12 €)
+rekopik : met l'ante. 40
+1kmmasiprou : met l'ante. 40
+berrysup : met l'ante. 40
+2709eddy : met l'ante. 40
+soldat-gege : met l'ante. 40
+rubenteixeira18 : met l'ante. 40
+Bossjul : met l'ante. 40
+RayuRuna : met l'ante. 40
+rekopik : met la petite blind. 150
+1kmmasiprou : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ad Qd]
+berrysup : passe.
+2709eddy : suit. 300
+soldat-gege : passe.
+rubenteixeira18 : suit. 300
+Bossjul : passe.
+RayuRuna : relance. 600 à 900
+rekopik : passe.
+1kmmasiprou : passe.
+2709eddy : relance. 15060 à 15960 et est all-in.
+rubenteixeira18 : passe.
+RayuRuna : suit. 15060
+*** FLOP *** [Qc 7h 4d]
+*** TOURNANT *** [Qc 7h 4d] [4c]
+*** RIVIÈRE *** [Qc 7h 4d 4c] [Th]
+*** ABATTAGE ***
+2709eddy : montre [Qh Ac] (double paire, Dames et Quatre)
+RayuRuna : montre [Ad Qd] (double paire, Dames et Quatre)
+2709eddy a remporté 16495  lors du pot .
+RayuRuna a remporté 16495  lors du pot .
+*** SYNTHÈSE ***
+Pot total 32990 | Commission 0
+Tableau [Qc 7h 4d 4c Th]
+Siège 1 : rekopik (petite blind) s'est couché. avant Flop
+Siège 2 : 1kmmasiprou (grosse blind) s'est couché. avant Flop
+Siège 3 : berrysup s'est couché. avant Flop (n'a pas misé)
+Siège 4 : 2709eddy a montré [Qh Ac] et a gagné (16495) avec double paire, Dames et Quatre
+Siège 5 : soldat-gege s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 s'est couché. avant Flop
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (bouton) a montré [Ad Qd] et a gagné (16495) avec double paire, Dames et Quatre
+
+
+*********** # 45 **************
+Main PokerStars n°242420191348 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XII (150/300) - 13/03/2023 14:39:59 CET [13/03/2023 9:39:59 ET]
+Table '3559916634 14' 9-max Siège #1 est au bouton.
+Place 1: rekopik (14057 en jetons, prime de 0.10 €)
+Place 2: 1kmmasiprou (8381 en jetons, prime de 0.06 €)
+Place 3: berrysup (5082 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (16495 en jetons, prime de 0.10 €)
+Place 5: soldat-gege (15298 en jetons, prime de 0.15 €)
+Place 6: rubenteixeira18 (7125 en jetons, prime de 0.06 €)
+Place 8: Bossjul (4419 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (18484 en jetons, prime de 0.12 €)
+rekopik : met l'ante. 40
+1kmmasiprou : met l'ante. 40
+berrysup : met l'ante. 40
+2709eddy : met l'ante. 40
+soldat-gege : met l'ante. 40
+rubenteixeira18 : met l'ante. 40
+Bossjul : met l'ante. 40
+RayuRuna : met l'ante. 40
+1kmmasiprou : met la petite blind. 150
+berrysup : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [3s Kc]
+2709eddy : passe.
+soldat-gege : passe.
+rubenteixeira18 : passe.
+Bossjul : passe.
+RayuRuna : passe.
+rekopik : suit. 300
+1kmmasiprou : suit. 150
+berrysup : parole
+*** FLOP *** [Js 4s Jc]
+1kmmasiprou : parole
+berrysup : parole
+rekopik : parole
+*** TOURNANT *** [Js 4s Jc] [Kh]
+1kmmasiprou : parole
+berrysup : parole
+rekopik : parole
+*** RIVIÈRE *** [Js 4s Jc Kh] [3d]
+1kmmasiprou : parole
+berrysup : parole
+rekopik : parole
+*** ABATTAGE ***
+1kmmasiprou : montre [4c 3c] (double paire, Valets et Quatre)
+berrysup : cache la main perdante.
+rekopik : cache la main perdante.
+1kmmasiprou a remporté 1220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1220 | Commission 0
+Tableau [Js 4s Jc Kh 3d]
+Siège 1 : rekopik (bouton) a caché la main perdante. [2d As]
+Siège 2 : 1kmmasiprou (petite blind) a montré [4c 3c] et a gagné (1220) avec double paire, Valets et Quatre
+Siège 3 : berrysup (grosse blind) a caché la main perdante. [7s Qh]
+Siège 4 : 2709eddy s'est couché. avant Flop (n'a pas misé)
+Siège 5 : soldat-gege s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 46 **************
+Main PokerStars n°242420203483 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XII (150/300) - 13/03/2023 14:40:52 CET [13/03/2023 9:40:52 ET]
+Table '3559916634 14' 9-max Siège #2 est au bouton.
+Place 1: rekopik (13717 en jetons, prime de 0.10 €)
+Place 2: 1kmmasiprou (9261 en jetons, prime de 0.06 €)
+Place 3: berrysup (4742 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (16455 en jetons, prime de 0.10 €)
+Place 5: soldat-gege (15258 en jetons, prime de 0.15 €)
+Place 6: rubenteixeira18 (7085 en jetons, prime de 0.06 €)
+Place 7: Eder10072016 (563 en jetons, prime de 0.04 €) ne joue pas.
+Place 8: Bossjul (4379 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (18444 en jetons, prime de 0.12 €)
+rekopik : met l'ante. 40
+1kmmasiprou : met l'ante. 40
+berrysup : met l'ante. 40
+2709eddy : met l'ante. 40
+soldat-gege : met l'ante. 40
+rubenteixeira18 : met l'ante. 40
+Eder10072016 : met l'ante. 40
+Bossjul : met l'ante. 40
+RayuRuna : met l'ante. 40
+berrysup : met la petite blind. 150
+2709eddy : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd Td]
+soldat-gege : passe.
+rubenteixeira18 : passe.
+Eder10072016 : passe.
+Bossjul : passe.
+RayuRuna : relance. 450 à 750
+rekopik : suit. 750
+1kmmasiprou : passe.
+berrysup : passe.
+2709eddy : relance. 15665 à 16415 et est all-in.
+RayuRuna : passe.
+rekopik : suit. 12927 et est all-in.
+Personne n'a suivi. (2738) sont retournés à 2709eddy.
+*** FLOP *** [Ad Qd 5c]
+*** TOURNANT *** [Ad Qd 5c] [Ks]
+*** RIVIÈRE *** [Ad Qd 5c Ks] [9c]
+*** ABATTAGE ***
+2709eddy : montre [Ac Ah] (un brelan de As)
+rekopik : montre [Qc As] (double paire, As et Dames)
+2709eddy a remporté 28614  lors du pot .
+2709eddy gagne 0.05 € pour l'élimination de rekopik et sa prime augmente de 0.05 € à 0.15 €
+rekopik a fini le tournoi en 71er position.
+*** SYNTHÈSE ***
+Pot total 28614 | Commission 0
+Tableau [Ad Qd 5c Ks 9c]
+Siège 1 : rekopik a montré [Qc As] et a perdu avec double paire, As et Dames
+Siège 2 : 1kmmasiprou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup (petite blind) s'est couché. avant Flop
+Siège 4 : 2709eddy (grosse blind) a montré [Ac Ah] et a gagné (28614) avec un brelan de As
+Siège 5 : soldat-gege s'est couché. avant Flop (n'a pas misé)
+Siège 6 : rubenteixeira18 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Eder10072016 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop
+
+
+*********** # 47 **************
+Main PokerStars n°242420212390 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XII (150/300) - 13/03/2023 14:41:33 CET [13/03/2023 9:41:33 ET]
+Table '3559916634 14' 9-max Siège #3 est au bouton.
+Place 2: 1kmmasiprou (9221 en jetons, prime de 0.06 €)
+Place 3: berrysup (4552 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (31352 en jetons, prime de 0.15 €)
+Place 5: soldat-gege (15218 en jetons, prime de 0.15 €)
+Place 6: rubenteixeira18 (7045 en jetons, prime de 0.06 €)
+Place 7: Eder10072016 (523 en jetons, prime de 0.04 €) ne joue pas.
+Place 8: Bossjul (4339 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (17654 en jetons, prime de 0.12 €)
+1kmmasiprou : met l'ante. 40
+berrysup : met l'ante. 40
+2709eddy : met l'ante. 40
+soldat-gege : met l'ante. 40
+rubenteixeira18 : met l'ante. 40
+Eder10072016 : met l'ante. 40
+Bossjul : met l'ante. 40
+RayuRuna : met l'ante. 40
+2709eddy : met la petite blind. 150
+soldat-gege : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ac 8d]
+rubenteixeira18 : passe.
+Eder10072016 : passe.
+Bossjul : passe.
+RayuRuna : relance. 360 à 660
+1kmmasiprou : passe.
+berrysup : passe.
+2709eddy : suit. 510
+soldat-gege : passe.
+*** FLOP *** [6s 9h 3d]
+2709eddy : parole
+RayuRuna : parole
+*** TOURNANT *** [6s 9h 3d] [2s]
+2709eddy : parole
+RayuRuna : mise. 600
+2709eddy : suit. 600
+*** RIVIÈRE *** [6s 9h 3d 2s] [5s]
+2709eddy : parole
+RayuRuna : mise. 1200
+2709eddy : passe.
+Personne n'a suivi. (1200) sont retournés à RayuRuna.
+RayuRuna a remporté 3140  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 3140 | Commission 0
+Tableau [6s 9h 3d 2s 5s]
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : 2709eddy (petite blind) s'est couché. sur le Rivière
+Siège 5 : soldat-gege (grosse blind) s'est couché. avant Flop
+Siège 6 : rubenteixeira18 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Eder10072016 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna a remporté (3140)
+
+
+*********** # 48 **************
+Main PokerStars n°242420231618 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIII (200/400) - 13/03/2023 14:42:58 CET [13/03/2023 9:42:58 ET]
+Table '3559916634 14' 9-max Siège #4 est au bouton.
+Place 2: 1kmmasiprou (9181 en jetons, prime de 0.06 €)
+Place 3: berrysup (4512 en jetons, prime de 0.08 €)
+Place 4: 2709eddy (30052 en jetons, prime de 0.15 €)
+Place 5: soldat-gege (14878 en jetons, prime de 0.15 €)
+Place 6: rubenteixeira18 (7005 en jetons, prime de 0.06 €)
+Place 7: Eder10072016 (483 en jetons, prime de 0.04 €) ne joue pas.
+Place 8: Bossjul (4299 en jetons, prime de 0.08 €)
+Place 9: RayuRuna (19494 en jetons, prime de 0.12 €)
+1kmmasiprou : met l'ante. 50
+berrysup : met l'ante. 50
+2709eddy : met l'ante. 50
+soldat-gege : met l'ante. 50
+rubenteixeira18 : met l'ante. 50
+Eder10072016 : met l'ante. 50
+Bossjul : met l'ante. 50
+RayuRuna : met l'ante. 50
+soldat-gege : met la petite blind. 200
+rubenteixeira18 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ad 5d]
+Eder10072016 : passe.
+Bossjul : passe.
+RayuRuna : relance. 600 à 1000
+1kmmasiprou : passe.
+berrysup : relance. 3462 à 4462 et est all-in.
+2709eddy : relance. 25540 à 30002 et est all-in.
+soldat-gege : passe.
+rubenteixeira18 : suit. 6555 et est all-in.
+RayuRuna : passe.
+Personne n'a suivi. (23047) sont retournés à 2709eddy.
+*** FLOP *** [6c 2c 4d]
+*** TOURNANT *** [6c 2c 4d] [Qh]
+*** RIVIÈRE *** [6c 2c 4d Qh] [2s]
+*** ABATTAGE ***
+rubenteixeira18 : montre [Jd Jh] (double paire, Valets et Deux)
+2709eddy : montre [Kh Qc] (double paire, Dames et Deux)
+2709eddy a remporté 4986  parallèle lors du pot .
+berrysup : montre [Td Ts] (double paire, Dix et Deux)
+2709eddy a remporté 14986  principal lors du pot .
+2709eddy gagne 0.04 € pour l'élimination de berrysup et sa prime augmente de 0.04 € à 0.19 €
+2709eddy gagne 0.03 € pour l'élimination de rubenteixeira18 et sa prime augmente de 0.03 € à 0.22 €
+rubenteixeira18 a fini le tournoi en 64e position.
+berrysup a fini le tournoi en 65e position.
+*** SYNTHÈSE ***
+Pot total 19972 Principal pot 14986. Parallèle pot 4986. | Commission 0
+Tableau [6c 2c 4d Qh 2s]
+Siège 2 : 1kmmasiprou s'est couché. avant Flop (n'a pas misé)
+Siège 3 : berrysup a montré [Td Ts] et a perdu avec double paire, Dix et Deux
+Siège 4 : 2709eddy (bouton) a montré [Kh Qc] et a gagné (19972) avec double paire, Dames et Deux
+Siège 5 : soldat-gege (petite blind) s'est couché. avant Flop
+Siège 6 : rubenteixeira18 (grosse blind) a montré [Jd Jh] et a perdu avec double paire, Valets et Deux
+Siège 7 : Eder10072016 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Bossjul s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop
+
+
+*********** # 49 **************
+Main PokerStars n°242420246283 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIII (200/400) - 13/03/2023 14:44:04 CET [13/03/2023 9:44:04 ET]
+Table '3559916634 12' 9-max Siège #1 est au bouton.
+Place 1: kokkomaid (18266 en jetons, prime de 0.15 €)
+Place 2: Sinbaz (453 en jetons, prime de 0.04 €) ne joue pas.
+Place 3: wansy101 (7558 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (18444 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (8253 en jetons, prime de 0.08 €)
+Place 6: paularaquel2 (4710 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (8814 en jetons, prime de 0.08 €)
+Place 8: yevgentvr (7157 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (11262 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 50
+Sinbaz : met l'ante. 50
+wansy101 : met l'ante. 50
+RayuRuna : met l'ante. 50
+JOKER01121991 : met l'ante. 50
+paularaquel2 : met l'ante. 50
+Moni33**689 : met l'ante. 50
+yevgentvr : met l'ante. 50
+Ca Crak : met l'ante. 50
+Sinbaz : met la petite blind. 200
+wansy101 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Tc 4d]
+RayuRuna : passe.
+JOKER01121991 : passe.
+kokkomaid  a dit, "next , lets go "
+paularaquel2 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid  a dit, "go to the bed"
+kokkomaid : passe.
+Sinbaz : passe.
+Personne n'a suivi. (200) sont retournés à wansy101.
+wansy101 a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0
+Siège 1 : kokkomaid (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sinbaz (petite blind) s'est couché. avant Flop
+Siège 3 : wansy101 (grosse blind) a remporté (850)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : paularaquel2 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 50 **************
+Main PokerStars n°242420252495 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIII (200/400) - 13/03/2023 14:44:31 CET [13/03/2023 9:44:31 ET]
+Table '3559916634 12' 9-max Siège #2 est au bouton.
+Place 1: kokkomaid (18216 en jetons, prime de 0.15 €)
+Place 2: Sinbaz (203 en jetons, prime de 0.04 €) ne joue pas.
+Place 3: wansy101 (8158 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (18394 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (8203 en jetons, prime de 0.08 €)
+Place 6: paularaquel2 (4660 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (8764 en jetons, prime de 0.08 €)
+Place 8: yevgentvr (7107 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (11212 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 50
+Sinbaz : met l'ante. 50
+wansy101 : met l'ante. 50
+RayuRuna : met l'ante. 50
+JOKER01121991 : met l'ante. 50
+paularaquel2 : met l'ante. 50
+Moni33**689 : met l'ante. 50
+yevgentvr : met l'ante. 50
+Ca Crak : met l'ante. 50
+wansy101 : met la petite blind. 200
+RayuRuna : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd Ah]
+JOKER01121991 : passe.
+paularaquel2 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : relance. 480 à 880
+Sinbaz : passe.
+wansy101 : passe.
+RayuRuna : relance. 1680 à 2560
+kokkomaid : passe. [Ts Ad]
+Personne n'a suivi. (1680) sont retournés à RayuRuna.
+RayuRuna a remporté 2410  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 2410 | Commission 0
+Siège 1 : kokkomaid s'est couché. avant Flop
+Siège 2 : Sinbaz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : wansy101 (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) a remporté (2410)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : paularaquel2 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 51 **************
+Main PokerStars n°242420261655 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIII (200/400) - 13/03/2023 14:45:12 CET [13/03/2023 9:45:12 ET]
+Table '3559916634 12' 9-max Siège #3 est au bouton.
+Place 1: kokkomaid (17286 en jetons, prime de 0.15 €)
+Place 2: Sinbaz (153 en jetons, prime de 0.04 €) ne joue pas.
+Place 3: wansy101 (7908 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (19874 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (8153 en jetons, prime de 0.08 €)
+Place 6: paularaquel2 (4610 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (8714 en jetons, prime de 0.08 €)
+Place 8: yevgentvr (7057 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (11162 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 50
+Sinbaz : met l'ante. 50
+wansy101 : met l'ante. 50
+RayuRuna : met l'ante. 50
+JOKER01121991 : met l'ante. 50
+paularaquel2 : met l'ante. 50
+Moni33**689 : met l'ante. 50
+yevgentvr : met l'ante. 50
+Ca Crak : met l'ante. 50
+RayuRuna : met la petite blind. 200
+JOKER01121991 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5s Ad]
+paularaquel2 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : relance. 480 à 880
+Sinbaz : passe.
+wansy101 : passe.
+RayuRuna : suit. 680
+JOKER01121991 : suit. 480
+*** FLOP *** [9s Kc 8h]
+RayuRuna : parole
+JOKER01121991 : mise. 800
+kokkomaid : passe.
+RayuRuna : passe.
+Personne n'a suivi. (800) sont retournés à JOKER01121991.
+JOKER01121991 a remporté 3090  lors du pot .
+JOKER01121991 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 3090 | Commission 0
+Tableau [9s Kc 8h]
+Siège 1 : kokkomaid s'est couché. sur le Flop
+Siège 2 : Sinbaz s'est couché. avant Flop (n'a pas misé)
+Siège 3 : wansy101 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (petite blind) s'est couché. sur le Flop
+Siège 5 : JOKER01121991 (grosse blind) a remporté (3090)
+Siège 6 : paularaquel2 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 52 **************
+Main PokerStars n°242420268155 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIII (200/400) - 13/03/2023 14:45:41 CET [13/03/2023 9:45:41 ET]
+Table '3559916634 12' 9-max Siège #4 est au bouton.
+Place 1: kokkomaid (16356 en jetons, prime de 0.15 €)
+Place 2: Sinbaz (103 en jetons, prime de 0.04 €) ne joue pas.
+Place 3: wansy101 (7858 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (18944 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (10313 en jetons, prime de 0.08 €)
+Place 6: paularaquel2 (4560 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (8664 en jetons, prime de 0.08 €)
+Place 8: yevgentvr (7007 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (11112 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 50
+Sinbaz : met l'ante. 50
+wansy101 : met l'ante. 50
+RayuRuna : met l'ante. 50
+JOKER01121991 : met l'ante. 50
+paularaquel2 : met l'ante. 50
+Moni33**689 : met l'ante. 50
+yevgentvr : met l'ante. 50
+Ca Crak : met l'ante. 50
+JOKER01121991 : met la petite blind. 200
+paularaquel2 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9s 5c]
+Moni33**689 : suit. 400
+yevgentvr : suit. 400
+Ca Crak : passe.
+kokkomaid : relance. 480 à 880
+Sinbaz : passe.
+wansy101 : passe.
+RayuRuna : passe.
+JOKER01121991 : suit. 680
+paularaquel2 : passe.
+Moni33**689 : suit. 480
+yevgentvr : relance. 6077 à 6957 et est all-in.
+kokkomaid : passe.
+JOKER01121991 : passe.
+Moni33**689 : passe.
+Personne n'a suivi. (6077) sont retournés à yevgentvr.
+yevgentvr a remporté 4370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4370 | Commission 0
+Siège 1 : kokkomaid s'est couché. avant Flop
+Siège 2 : Sinbaz s'est couché. avant Flop (n'a pas misé)
+Siège 3 : wansy101 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 (petite blind) s'est couché. avant Flop
+Siège 6 : paularaquel2 (grosse blind) s'est couché. avant Flop
+Siège 7 : Moni33**689 s'est couché. avant Flop
+Siège 8 : yevgentvr a remporté (4370)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 53 **************
+Main PokerStars n°242420279159 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIII (200/400) - 13/03/2023 14:46:31 CET [13/03/2023 9:46:31 ET]
+Table '3559916634 12' 9-max Siège #5 est au bouton.
+Place 1: kokkomaid (15426 en jetons, prime de 0.15 €)
+Place 2: Sinbaz (53 en jetons, prime de 0.04 €) ne joue pas.
+Place 3: wansy101 (7808 en jetons, prime de 0.08 €)
+Place 4: RayuRuna (18894 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9383 en jetons, prime de 0.08 €)
+Place 6: paularaquel2 (4110 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (7734 en jetons, prime de 0.08 €)
+Place 8: yevgentvr (10447 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (11062 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 50
+Sinbaz : met l'ante. 50
+wansy101 : met l'ante. 50
+RayuRuna : met l'ante. 50
+JOKER01121991 : met l'ante. 50
+paularaquel2 : met l'ante. 50
+Moni33**689 : met l'ante. 50
+yevgentvr : met l'ante. 50
+Ca Crak : met l'ante. 50
+paularaquel2 : met la petite blind. 200
+Moni33**689 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7c 6d]
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : relance. 480 à 880
+Sinbaz : passe.
+wansy101 : passe.
+RayuRuna : passe.
+JOKER01121991 : passe.
+paularaquel2 : passe.
+Moni33**689 : suit. 480
+*** FLOP *** [4h 7d 9s]
+Moni33**689 : parole
+kokkomaid : mise. 800
+Moni33**689 : passe.
+Personne n'a suivi. (800) sont retournés à kokkomaid.
+kokkomaid a remporté 2410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2410 | Commission 0
+Tableau [4h 7d 9s]
+Siège 1 : kokkomaid a remporté (2410)
+Siège 2 : Sinbaz s'est couché. avant Flop (n'a pas misé)
+Siège 3 : wansy101 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : paularaquel2 (petite blind) s'est couché. avant Flop
+Siège 7 : Moni33**689 (grosse blind) s'est couché. sur le Flop
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 54 **************
+Main PokerStars n°242420284932 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIV (250/500) - 13/03/2023 14:46:57 CET [13/03/2023 9:46:57 ET]
+Table '3559916634 12' 9-max Siège #6 est au bouton.
+Place 1: kokkomaid (16906 en jetons, prime de 0.15 €)
+Place 2: Sinbaz (3 en jetons, prime de 0.04 €) ne joue pas.
+Place 4: RayuRuna (18844 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9333 en jetons, prime de 0.08 €)
+Place 6: paularaquel2 (3860 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (6804 en jetons, prime de 0.08 €)
+Place 8: yevgentvr (10397 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (11012 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 60
+Sinbaz : met l'ante. 3 et est all-in.
+RayuRuna : met l'ante. 60
+JOKER01121991 : met l'ante. 60
+paularaquel2 : met l'ante. 60
+Moni33**689 : met l'ante. 60
+yevgentvr : met l'ante. 60
+Ca Crak : met l'ante. 60
+Moni33**689 : met la petite blind. 250
+yevgentvr : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2s Js]
+Ca Crak : passe.
+kokkomaid : passe.
+Sinbaz : passe.
+RayuRuna : passe.
+JOKER01121991 : suit. 500
+paularaquel2 : passe.
+Moni33**689 : suit. 250
+yevgentvr : parole
+*** FLOP *** [4h Jc Qc]
+Moni33**689 : parole
+yevgentvr : parole
+JOKER01121991 : parole
+*** TOURNANT *** [4h Jc Qc] [3s]
+Moni33**689 : parole
+yevgentvr : parole
+JOKER01121991 : parole
+*** RIVIÈRE *** [4h Jc Qc 3s] [Kd]
+Moni33**689 : mise. 1000
+yevgentvr : passe.
+JOKER01121991 : relance. 1500 à 2500
+Moni33**689 : suit. 1500
+*** ABATTAGE ***
+JOKER01121991 : montre [Td 9d] (une suite, Neuf à Roi)
+Moni33**689 : montre [Th 9s] (une suite, Neuf à Roi)
+Moni33**689 a remporté 3462  lors du pot .
+JOKER01121991 a remporté 3461  lors du pot .
+Moni33**689 gagne 0.01 € pour l'élimination partagée de Sinbaz et sa prime augmente de 0.01 € à 0.09 €
+JOKER01121991 gagne 0.01 € pour l'élimination partagée de Sinbaz et sa prime augmente de 0.01 € à 0.09 €
+Sinbaz a fini le tournoi en 56e position.
+*** SYNTHÈSE ***
+Pot total 6923 | Commission 0
+Tableau [4h Jc Qc 3s Kd]
+Siège 1 : kokkomaid s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sinbaz s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 a montré [Td 9d] et a gagné (3461) avec une suite, Neuf à Roi
+Siège 6 : paularaquel2 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 (petite blind) a montré [Th 9s] et a gagné (3462) avec une suite, Neuf à Roi
+Siège 8 : yevgentvr (grosse blind) s'est couché. sur le Rivière
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 55 **************
+Main PokerStars n°242420301101 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIV (250/500) - 13/03/2023 14:48:08 CET [13/03/2023 9:48:08 ET]
+Table '3559916634 12' 9-max Siège #7 est au bouton.
+Place 1: kokkomaid (16846 en jetons, prime de 0.15 €)
+Place 2: bigphil735 (1524 en jetons, prime de 0.04 €)
+Place 3: Jotas4 (6849 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (18784 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9734 en jetons, prime de 0.09 €)
+Place 6: paularaquel2 (3800 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (7206 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (9837 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (10952 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 60
+bigphil735 : met l'ante. 60
+Jotas4 : met l'ante. 60
+RayuRuna : met l'ante. 60
+JOKER01121991 : met l'ante. 60
+paularaquel2 : met l'ante. 60
+Moni33**689 : met l'ante. 60
+yevgentvr : met l'ante. 60
+Ca Crak : met l'ante. 60
+yevgentvr : met la petite blind. 250
+Ca Crak : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6h Kh]
+kokkomaid : relance. 4500 à 5000
+bigphil735 : passe.
+Jotas4 : passe.
+RayuRuna : passe.
+JOKER01121991 : passe.
+paularaquel2 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+Ca Crak : passe.
+Personne n'a suivi. (4500) sont retournés à kokkomaid.
+kokkomaid a remporté 1790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1790 | Commission 0
+Siège 1 : kokkomaid a remporté (1790)
+Siège 2 : bigphil735 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : paularaquel2 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr (petite blind) s'est couché. avant Flop
+Siège 9 : Ca Crak (grosse blind) s'est couché. avant Flop
+
+
+*********** # 56 **************
+Main PokerStars n°242420308908 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIV (250/500) - 13/03/2023 14:48:42 CET [13/03/2023 9:48:42 ET]
+Table '3559916634 12' 9-max Siège #8 est au bouton.
+Place 1: kokkomaid (18076 en jetons, prime de 0.15 €)
+Place 2: bigphil735 (1464 en jetons, prime de 0.04 €)
+Place 3: Jotas4 (6789 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (18724 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9674 en jetons, prime de 0.09 €)
+Place 6: paularaquel2 (3740 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (7146 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (9527 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (10392 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 60
+bigphil735 : met l'ante. 60
+Jotas4 : met l'ante. 60
+RayuRuna : met l'ante. 60
+JOKER01121991 : met l'ante. 60
+paularaquel2 : met l'ante. 60
+Moni33**689 : met l'ante. 60
+yevgentvr : met l'ante. 60
+Ca Crak : met l'ante. 60
+Ca Crak : met la petite blind. 250
+kokkomaid : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ks 3c]
+bigphil735 : passe.
+Jotas4 : passe.
+RayuRuna : passe.
+JOKER01121991 : passe.
+paularaquel2 : suit. 500
+Moni33**689 : passe.
+yevgentvr : suit. 500
+Ca Crak : passe.
+kokkomaid : relance. 2500 à 3000
+paularaquel2 : passe.
+yevgentvr : passe.
+Personne n'a suivi. (2500) sont retournés à kokkomaid.
+kokkomaid a remporté 2290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2290 | Commission 0
+Siège 1 : kokkomaid (grosse blind) a remporté (2290)
+Siège 2 : bigphil735 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : paularaquel2 s'est couché. avant Flop
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr (bouton) s'est couché. avant Flop
+Siège 9 : Ca Crak (petite blind) s'est couché. avant Flop
+
+
+*********** # 57 **************
+Main PokerStars n°242420316471 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIV (250/500) - 13/03/2023 14:49:15 CET [13/03/2023 9:49:15 ET]
+Table '3559916634 12' 9-max Siège #9 est au bouton.
+Place 1: kokkomaid (19806 en jetons, prime de 0.15 €)
+Place 2: bigphil735 (1404 en jetons, prime de 0.04 €)
+Place 3: Jotas4 (6729 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (18664 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9614 en jetons, prime de 0.09 €)
+Place 6: paularaquel2 (3180 en jetons, prime de 0.04 €)
+Place 7: Moni33**689 (7086 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (8967 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (10082 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 60
+bigphil735 : met l'ante. 60
+Jotas4 : met l'ante. 60
+RayuRuna : met l'ante. 60
+JOKER01121991 : met l'ante. 60
+paularaquel2 : met l'ante. 60
+Moni33**689 : met l'ante. 60
+yevgentvr : met l'ante. 60
+Ca Crak : met l'ante. 60
+kokkomaid : met la petite blind. 250
+bigphil735 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7c 4h]
+Jotas4 : suit. 500
+RayuRuna a dépassé le temps imparti.
+RayuRuna : passe.
+RayuRuna ne joue pas.
+JOKER01121991 : passe.
+paularaquel2 : suit. 500
+Moni33**689 : passe.
+RayuRuna est revenu.
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : relance. 2540 à 3040
+bigphil735 : suit. 844 et est all-in.
+Jotas4 : passe.
+paularaquel2 : suit. 2540
+*** FLOP *** [Jc Kd Jh]
+kokkomaid : mise. 500
+paularaquel2 : suit. 80 et est all-in.
+Personne n'a suivi. (420) sont retournés à kokkomaid.
+*** TOURNANT *** [Jc Kd Jh] [5h]
+*** RIVIÈRE *** [Jc Kd Jh 5h] [Qc]
+*** ABATTAGE ***
+kokkomaid : montre [Qs Jd] (un full, full aux Valets par les Dames)
+paularaquel2 : montre [Ts Ad] (une suite, Dix à As)
+kokkomaid a remporté 3552  parallèle lors du pot .
+bigphil735 : montre [4s Ks] (double paire, Rois et Valets)
+kokkomaid a remporté 5072  principal lors du pot .
+kokkomaid gagne 0.02 € pour l'élimination de bigphil735 et sa prime augmente de 0.02 € à 0.17 €
+kokkomaid gagne 0.02 € pour l'élimination de paularaquel2 et sa prime augmente de 0.02 € à 0.19 €
+paularaquel2 a fini le tournoi en 50e position.
+bigphil735 a fini le tournoi en 51er position.
+*** SYNTHÈSE ***
+Pot total 8624 Principal pot 5072. Parallèle pot 3552. | Commission 0
+Tableau [Jc Kd Jh 5h Qc]
+Siège 1 : kokkomaid (petite blind) a montré [Qs Jd] et a gagné (8624) avec un full, full aux Valets par les Dames
+Siège 2 : bigphil735 (grosse blind) a montré [4s Ks] et a perdu avec double paire, Rois et Valets
+Siège 3 : Jotas4 s'est couché. avant Flop
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : paularaquel2 a montré [Ts Ad] et a perdu avec une suite, Dix à As
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 58 **************
+Main PokerStars n°242420332429 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIV (250/500) - 13/03/2023 14:50:25 CET [13/03/2023 9:50:25 ET]
+Table '3559916634 12' 9-max Siège #1 est au bouton.
+Place 1: kokkomaid (25250 en jetons, prime de 0.19 €)
+Place 3: Jotas4 (6169 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (18604 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9554 en jetons, prime de 0.09 €)
+Place 7: Moni33**689 (7026 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (8907 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (10022 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 60
+Jotas4 : met l'ante. 60
+RayuRuna : met l'ante. 60
+JOKER01121991 : met l'ante. 60
+Moni33**689 : met l'ante. 60
+yevgentvr : met l'ante. 60
+Ca Crak : met l'ante. 60
+Jotas4 : met la petite blind. 250
+RayuRuna : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ad Th]
+JOKER01121991 : passe.
+Moni33**689 : passe.
+kokkomaid  a dit, ":*"
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : passe.
+Jotas4 : suit. 250
+RayuRuna : relance. 1000 à 1500
+Jotas4 : relance. 4609 à 6109 et est all-in.
+RayuRuna : suit. 4609
+*** FLOP *** [4h Qc Kh]
+*** TOURNANT *** [4h Qc Kh] [As]
+*** RIVIÈRE *** [4h Qc Kh As] [9s]
+*** ABATTAGE ***
+Jotas4 : montre [Ac Kd] (double paire, As et Rois)
+RayuRuna : montre [Ad Th] (une paire de As)
+Jotas4 a remporté 12638  lors du pot .
+*** SYNTHÈSE ***
+Pot total 12638 | Commission 0
+Tableau [4h Qc Kh As 9s]
+Siège 1 : kokkomaid (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotas4 (petite blind) a montré [Ac Kd] et a gagné (12638) avec double paire, As et Rois
+Siège 4 : RayuRuna (grosse blind) a montré [Ad Th] et a perdu avec une paire de As
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 59 **************
+Main PokerStars n°242420341943 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XIV (250/500) - 13/03/2023 14:51:06 CET [13/03/2023 9:51:06 ET]
+Table '3559916634 12' 9-max Siège #3 est au bouton.
+Place 1: kokkomaid (25190 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (64681 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (12638 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (12435 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (9494 en jetons, prime de 0.09 €)
+Place 7: Moni33**689 (6966 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (8847 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (9962 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 60
+chpeur118 : met l'ante. 60
+Jotas4 : met l'ante. 60
+RayuRuna : met l'ante. 60
+JOKER01121991 : met l'ante. 60
+Moni33**689 : met l'ante. 60
+yevgentvr : met l'ante. 60
+Ca Crak : met l'ante. 60
+RayuRuna : met la petite blind. 250
+JOKER01121991 : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Tc 6s]
+Moni33**689 : passe.
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : passe.
+chpeur118 : relance. 500 à 1000
+Jotas4 : passe.
+RayuRuna : passe.
+JOKER01121991 : suit. 500
+*** FLOP *** [Jc 3h Ks]
+JOKER01121991 : mise. 1000
+chpeur118 : suit. 1000
+*** TOURNANT *** [Jc 3h Ks] [Kd]
+JOKER01121991 : mise. 1000
+chpeur118 : relance. 6730 à 7730
+JOKER01121991 : suit. 6434 et est all-in.
+Personne n'a suivi. (296) sont retournés à chpeur118.
+*** RIVIÈRE *** [Jc 3h Ks Kd] [Qs]
+*** ABATTAGE ***
+JOKER01121991 : montre [Ad As] (double paire, As et Rois)
+chpeur118 : montre [3d Ac] (double paire, Rois et Trois)
+JOKER01121991 a remporté 19598  lors du pot .
+*** SYNTHÈSE ***
+Pot total 19598 | Commission 0
+Tableau [Jc 3h Ks Kd Qs]
+Siège 1 : kokkomaid s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chpeur118 a montré [3d Ac] et a perdu avec double paire, Rois et Trois
+Siège 3 : Jotas4 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 5 : JOKER01121991 (grosse blind) a montré [Ad As] et a gagné (19598) avec double paire, As et Rois
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 60 **************
+Main PokerStars n°242420354863 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XV (300/600) - 13/03/2023 14:52:03 CET [13/03/2023 9:52:03 ET]
+Table '3559916634 12' 9-max Siège #4 est au bouton.
+Place 1: kokkomaid (25130 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (55187 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (12578 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (12125 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (19598 en jetons, prime de 0.09 €)
+Place 7: Moni33**689 (6906 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (8787 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (9902 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 70
+chpeur118 : met l'ante. 70
+Jotas4 : met l'ante. 70
+RayuRuna : met l'ante. 70
+JOKER01121991 : met l'ante. 70
+Moni33**689 : met l'ante. 70
+yevgentvr : met l'ante. 70
+Ca Crak : met l'ante. 70
+JOKER01121991 : met la petite blind. 300
+Moni33**689 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kh Jc]
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : passe.
+chpeur118 : relance. 54517 à 55117 et est all-in.
+Jotas4 : passe.
+RayuRuna : passe.
+JOKER01121991 : passe.
+Moni33**689 : passe.
+Personne n'a suivi. (54517) sont retournés à chpeur118.
+chpeur118 a remporté 2060  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2060 | Commission 0
+Siège 1 : kokkomaid s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chpeur118 a remporté (2060)
+Siège 3 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 (petite blind) s'est couché. avant Flop
+Siège 7 : Moni33**689 (grosse blind) s'est couché. avant Flop
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 61 **************
+Main PokerStars n°242420361276 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XV (300/600) - 13/03/2023 14:52:31 CET [13/03/2023 9:52:31 ET]
+Table '3559916634 12' 9-max Siège #5 est au bouton.
+Place 1: kokkomaid (25060 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (56577 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (12508 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (12055 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (19228 en jetons, prime de 0.09 €)
+Place 7: Moni33**689 (6236 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (8717 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (9832 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 70
+chpeur118 : met l'ante. 70
+Jotas4 : met l'ante. 70
+RayuRuna : met l'ante. 70
+JOKER01121991 : met l'ante. 70
+Moni33**689 : met l'ante. 70
+yevgentvr : met l'ante. 70
+Ca Crak : met l'ante. 70
+Moni33**689 : met la petite blind. 300
+yevgentvr : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Js 6h]
+Ca Crak : passe.
+kokkomaid : relance. 1620 à 2220
+chpeur118 : suit. 2220
+Jotas4 : passe.
+RayuRuna : passe.
+JOKER01121991 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+*** FLOP *** [Ac Qs Jh]
+kokkomaid : parole
+chpeur118 : mise. 2350
+kokkomaid : suit. 2350
+*** TOURNANT *** [Ac Qs Jh] [5h]
+kokkomaid : parole
+chpeur118 : parole
+*** RIVIÈRE *** [Ac Qs Jh 5h] [3d]
+kokkomaid : parole
+chpeur118 : parole
+*** ABATTAGE ***
+kokkomaid : montre [Tc Th] (une paire de Dix)
+chpeur118 : cache la main perdante.
+kokkomaid a remporté 10600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10600 | Commission 0
+Tableau [Ac Qs Jh 5h 3d]
+Siège 1 : kokkomaid a montré [Tc Th] et a gagné (10600) avec une paire de Dix
+Siège 2 : chpeur118 a caché la main perdante. [6d 5d]
+Siège 3 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 (petite blind) s'est couché. avant Flop
+Siège 8 : yevgentvr (grosse blind) s'est couché. avant Flop
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 62 **************
+Main PokerStars n°242420377432 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XV (300/600) - 13/03/2023 14:53:43 CET [13/03/2023 9:53:43 ET]
+Table '3559916634 12' 9-max Siège #7 est au bouton.
+Place 1: kokkomaid (31020 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (51937 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (12438 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (11985 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (19158 en jetons, prime de 0.09 €)
+Place 6: Afuego90 (37258 en jetons, prime de 0.22 €)
+Place 7: Moni33**689 (5866 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (8047 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (9762 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 70
+chpeur118 : met l'ante. 70
+Jotas4 : met l'ante. 70
+RayuRuna : met l'ante. 70
+JOKER01121991 : met l'ante. 70
+Afuego90 : met l'ante. 70
+Moni33**689 : met l'ante. 70
+yevgentvr : met l'ante. 70
+Ca Crak : met l'ante. 70
+yevgentvr : met la petite blind. 300
+Ca Crak : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ac 6s]
+kokkomaid : passe.
+chpeur118 : relance. 1200 à 1800
+Jotas4 : passe.
+RayuRuna : passe.
+JOKER01121991 : passe.
+Afuego90 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+Ca Crak : relance. 7892 à 9692 et est all-in.
+chpeur118 : suit. 7892
+*** FLOP *** [Jc 8s Qc]
+*** TOURNANT *** [Jc 8s Qc] [7d]
+*** RIVIÈRE *** [Jc 8s Qc 7d] [Jh]
+*** ABATTAGE ***
+Ca Crak : montre [4s 4c] (double paire, Valets et Quatre)
+chpeur118 : montre [Ah Ks] (une paire de Valets)
+Ca Crak a remporté 20314  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20314 | Commission 0
+Tableau [Jc 8s Qc 7d Jh]
+Siège 1 : kokkomaid s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chpeur118 a montré [Ah Ks] et a perdu avec une paire de Valets
+Siège 3 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Afuego90 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr (petite blind) s'est couché. avant Flop
+Siège 9 : Ca Crak (grosse blind) a montré [4s 4c] et a gagné (20314) avec double paire, Valets et Quatre
+
+
+*********** # 63 **************
+Main PokerStars n°242420457766 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XV (300/600) - 13/03/2023 15:00:31 CET [13/03/2023 10:00:31 ET]
+Table '3559916634 12' 9-max Siège #8 est au bouton.
+Place 1: kokkomaid (30950 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (42175 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (12368 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (11915 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (19088 en jetons, prime de 0.09 €)
+Place 6: Afuego90 (37188 en jetons, prime de 0.22 €)
+Place 7: Moni33**689 (5796 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (7677 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (20314 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 70
+chpeur118 : met l'ante. 70
+Jotas4 : met l'ante. 70
+RayuRuna : met l'ante. 70
+JOKER01121991 : met l'ante. 70
+Afuego90 : met l'ante. 70
+Moni33**689 : met l'ante. 70
+yevgentvr : met l'ante. 70
+Ca Crak : met l'ante. 70
+Ca Crak : met la petite blind. 300
+kokkomaid : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qh 7s]
+chpeur118 : passe.
+Jotas4 : suit. 600
+RayuRuna : passe.
+JOKER01121991 : passe.
+Afuego90 : suit. 600
+Moni33**689 : passe.
+yevgentvr : suit. 600
+Ca Crak : suit. 300
+kokkomaid : parole
+*** FLOP *** [Jh 2d 7c]
+Ca Crak : parole
+kokkomaid : parole
+Jotas4 : parole
+Afuego90 : mise. 600
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : relance. 1449 à 2049
+Jotas4 : passe.
+Afuego90 : suit. 1449
+*** TOURNANT *** [Jh 2d 7c] [Qd]
+kokkomaid : parole
+Afuego90 : mise. 1800
+kokkomaid : suit. 1800
+*** RIVIÈRE *** [Jh 2d 7c Qd] [6h]
+kokkomaid : parole
+Afuego90 : parole
+*** ABATTAGE ***
+kokkomaid : montre [9h Js] (une paire de Valets)
+Afuego90 : cache la main perdante.
+kokkomaid a remporté 11328  lors du pot .
+*** SYNTHÈSE ***
+Pot total 11328 | Commission 0
+Tableau [Jh 2d 7c Qd 6h]
+Siège 1 : kokkomaid (grosse blind) a montré [9h Js] et a gagné (11328) avec une paire de Valets
+Siège 2 : chpeur118 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotas4 s'est couché. sur le Flop
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Afuego90 a caché la main perdante. [Jc 4c]
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr (bouton) s'est couché. sur le Flop
+Siège 9 : Ca Crak (petite blind) s'est couché. sur le Flop
+
+
+*********** # 64 **************
+Main PokerStars n°242420475611 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XV (300/600) - 13/03/2023 15:01:55 CET [13/03/2023 10:01:55 ET]
+Table '3559916634 12' 9-max Siège #9 est au bouton.
+Place 1: kokkomaid (37759 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (42105 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (11698 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (11845 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (19018 en jetons, prime de 0.09 €)
+Place 6: Afuego90 (32669 en jetons, prime de 0.22 €)
+Place 7: Moni33**689 (5726 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (7007 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (19644 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 70
+chpeur118 : met l'ante. 70
+Jotas4 : met l'ante. 70
+RayuRuna : met l'ante. 70
+JOKER01121991 : met l'ante. 70
+Afuego90 : met l'ante. 70
+Moni33**689 : met l'ante. 70
+yevgentvr : met l'ante. 70
+Ca Crak : met l'ante. 70
+kokkomaid : met la petite blind. 300
+chpeur118 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Js Jc]
+Jotas4 : passe.
+RayuRuna : relance. 900 à 1500
+JOKER01121991 : passe.
+Afuego90 : suit. 1500
+Moni33**689 : relance. 4156 à 5656 et est all-in.
+yevgentvr : passe.
+Ca Crak : passe.
+kokkomaid : passe.
+chpeur118 : passe.
+RayuRuna : relance. 6119 à 11775 et est all-in.
+Afuego90 : suit. 10275
+*** FLOP *** [2s 8d Kh]
+*** TOURNANT *** [2s 8d Kh] [3d]
+*** RIVIÈRE *** [2s 8d Kh 3d] [6d]
+*** ABATTAGE ***
+RayuRuna : montre [Js Jc] (une paire de Valets)
+Afuego90 : montre [Th Ts] (une paire de Dix)
+RayuRuna a remporté 12238  parallèle lors du pot .
+Moni33**689 : montre [As Ks] (une paire de Rois)
+Moni33**689 a remporté 18498  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 30736 Principal pot 18498. Parallèle pot 12238. | Commission 0
+Tableau [2s 8d Kh 3d 6d]
+Siège 1 : kokkomaid (petite blind) s'est couché. avant Flop
+Siège 2 : chpeur118 (grosse blind) s'est couché. avant Flop
+Siège 3 : Jotas4 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : RayuRuna a montré [Js Jc] et a gagné (12238) avec une paire de Valets
+Siège 5 : JOKER01121991 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Afuego90 a montré [Th Ts] et a perdu avec une paire de Dix
+Siège 7 : Moni33**689 a montré [As Ks] et a gagné (18498) avec une paire de Rois
+Siège 8 : yevgentvr s'est couché. avant Flop (n'a pas misé)
+Siège 9 : Ca Crak (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 65 **************
+Main PokerStars n°242420485474 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XVI (350/700) - 13/03/2023 15:02:37 CET [13/03/2023 10:02:37 ET]
+Table '3559916634 12' 9-max Siège #1 est au bouton.
+Place 1: kokkomaid (37389 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (41435 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (11628 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (12238 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (18948 en jetons, prime de 0.09 €)
+Place 6: Afuego90 (20824 en jetons, prime de 0.22 €)
+Place 7: Moni33**689 (18498 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (6937 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (19574 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 85
+chpeur118 : met l'ante. 85
+Jotas4 : met l'ante. 85
+RayuRuna : met l'ante. 85
+JOKER01121991 : met l'ante. 85
+Afuego90 : met l'ante. 85
+Moni33**689 : met l'ante. 85
+yevgentvr : met l'ante. 85
+Ca Crak : met l'ante. 85
+chpeur118 : met la petite blind. 350
+Jotas4 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7c Ks]
+RayuRuna : passe.
+JOKER01121991 : suit. 700
+Afuego90 : passe.
+Moni33**689 : passe.
+yevgentvr : suit. 700
+Ca Crak : passe.
+kokkomaid : passe.
+chpeur118 : suit. 350
+Jotas4 : parole
+*** FLOP *** [6h 6d Jh]
+chpeur118 : mise. 2165
+Jotas4 : passe.
+JOKER01121991 : passe.
+yevgentvr : passe.
+Personne n'a suivi. (2165) sont retournés à chpeur118.
+chpeur118 a remporté 3565  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3565 | Commission 0
+Tableau [6h 6d Jh]
+Siège 1 : kokkomaid (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chpeur118 (petite blind) a remporté (3565)
+Siège 3 : Jotas4 (grosse blind) s'est couché. sur le Flop
+Siège 4 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 5 : JOKER01121991 s'est couché. sur le Flop
+Siège 6 : Afuego90 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Moni33**689 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : yevgentvr s'est couché. sur le Flop
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 66 **************
+Main PokerStars n°242420493672 : Tournoi #3559916634, 0.05 €+0.04 €+0.01 € EUR Hold'em No Limit - Niveau XVI (350/700) - 13/03/2023 15:03:12 CET [13/03/2023 10:03:12 ET]
+Table '3559916634 12' 9-max Siège #2 est au bouton.
+Place 1: kokkomaid (37304 en jetons, prime de 0.19 €)
+Place 2: chpeur118 (44215 en jetons, prime de 0.16 €)
+Place 3: Jotas4 (10843 en jetons, prime de 0.06 €)
+Place 4: RayuRuna (12153 en jetons, prime de 0.12 €)
+Place 5: JOKER01121991 (18163 en jetons, prime de 0.09 €)
+Place 6: Afuego90 (20739 en jetons, prime de 0.22 €)
+Place 7: Moni33**689 (18413 en jetons, prime de 0.09 €)
+Place 8: yevgentvr (6152 en jetons, prime de 0.08 €)
+Place 9: Ca Crak (19489 en jetons, prime de 0.08 €)
+kokkomaid : met l'ante. 85
+chpeur118 : met l'ante. 85
+Jotas4 : met l'ante. 85
+RayuRuna : met l'ante. 85
+JOKER01121991 : met l'ante. 85
+Afuego90 : met l'ante. 85
+Moni33**689 : met l'ante. 85
+yevgentvr : met l'ante. 85
+Ca Crak : met l'ante. 85
+Jotas4 : met la petite blind. 350
+RayuRuna : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qd Jc]
+JOKER01121991 : suit. 700
+Afuego90 : suit. 700
+Moni33**689 : suit. 700
+yevgentvr : suit. 700
+Ca Crak : passe.
+kokkomaid : passe.
+chpeur118 : relance. 2515 à 3215
+Jotas4 : suit. 2865
+RayuRuna : relance. 8853 à 12068 et est all-in.
+JOKER01121991 : passe.
+Afuego90 : passe.
+Moni33**689 : passe.
+yevgentvr : passe.
+chpeur118 : suit. 8853
+Jotas4 : passe.
+*** FLOP *** [3d Qs 3s]
+*** TOURNANT *** [3d Qs 3s] [8s]
+*** RIVIÈRE *** [3d Qs 3s 8s] [Jd]
+*** ABATTAGE ***
+RayuRuna : montre [Qd Jc] (double paire, Dames et Valets)
+chpeur118 : montre [Js Ks] (une couleur, hauteur Roi)
+chpeur118 a remporté 30916  lors du pot .
+chpeur118 gagne 0.06 € pour l'élimination de RayuRuna et sa prime augmente de 0.06 € à 0.22 €
+RayuRuna a fini le tournoi à la 41er place et a reçu 0.09 €.
+*** SYNTHÈSE ***
+Pot total 30916 | Commission 0
+Tableau [3d Qs 3s 8s Jd]
+Siège 1 : kokkomaid s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chpeur118 (bouton) a montré [Js Ks] et a gagné (30916) avec une couleur, hauteur Roi
+Siège 3 : Jotas4 (petite blind) s'est couché. avant Flop
+Siège 4 : RayuRuna (grosse blind) a montré [Qd Jc] et a perdu avec double paire, Dames et Valets
+Siège 5 : JOKER01121991 s'est couché. avant Flop
+Siège 6 : Afuego90 s'est couché. avant Flop
+Siège 7 : Moni33**689 s'est couché. avant Flop
+Siège 8 : yevgentvr s'est couché. avant Flop
+Siège 9 : Ca Crak s'est couché. avant Flop (n'a pas misé)

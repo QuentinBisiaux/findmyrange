@@ -1,0 +1,1307 @@
+*********** # 1 **************
+Main PokerStars n°242419009948 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:05:04 CET [13/03/2023 8:05:04 ET]
+Table '3559916628 1' 9-max Siège #1 est au bouton.
+Place 1: Miguiastur (1500 en jetons)
+Place 2: maxtodon (1500 en jetons)
+Place 4: SAMUNEN (1500 en jetons)
+Place 5: Chucreza (1500 en jetons)
+Place 6: Winshs (1500 en jetons)
+Place 7: RayuRuna (1500 en jetons)
+Miguiastur : met l'ante. 2
+maxtodon : met l'ante. 2
+SAMUNEN : met l'ante. 2
+Chucreza : met l'ante. 2
+Winshs : met l'ante. 2
+RayuRuna : met l'ante. 2
+maxtodon : met la petite blind. 10
+SAMUNEN : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6c 6h]
+Chucreza : passe.
+Winshs : passe.
+RayuRuna : relance. 22 à 42
+Miguiastur : suit. 42
+maxtodon : passe.
+SAMUNEN : passe.
+*** FLOP *** [Qs 7d 2h]
+RayuRuna : mise. 60
+Miguiastur : passe.
+Personne n'a suivi. (60) sont retournés à RayuRuna.
+RayuRuna a remporté 126  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 126 | Commission 0
+Tableau [Qs 7d 2h]
+Siège 1 : Miguiastur (bouton) s'est couché. sur le Flop
+Siège 2 : maxtodon (petite blind) s'est couché. avant Flop
+Siège 4 : SAMUNEN (grosse blind) s'est couché. avant Flop
+Siège 5 : Chucreza s'est couché. avant Flop (n'a pas misé)
+Siège 6 : Winshs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna a remporté (126)
+
+
+*********** # 2 **************
+Main PokerStars n°242419020872 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:06:03 CET [13/03/2023 8:06:03 ET]
+Table '3559916628 1' 9-max Siège #2 est au bouton.
+Place 1: Miguiastur (1456 en jetons)
+Place 2: maxtodon (1488 en jetons)
+Place 4: SAMUNEN (1478 en jetons)
+Place 5: Chucreza (1498 en jetons)
+Place 6: Winshs (1498 en jetons)
+Place 7: RayuRuna (1582 en jetons)
+Place 8: HUmmBEUhh (1500 en jetons)
+Miguiastur : met l'ante. 2
+maxtodon : met l'ante. 2
+SAMUNEN : met l'ante. 2
+Chucreza : met l'ante. 2
+Winshs : met l'ante. 2
+RayuRuna : met l'ante. 2
+HUmmBEUhh : met l'ante. 2
+SAMUNEN : met la petite blind. 10
+Chucreza : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ks 3c]
+Winshs : passe.
+RayuRuna : passe.
+HUmmBEUhh : relance. 40 à 60
+Miguiastur : passe.
+maxtodon : passe.
+SAMUNEN : passe.
+Chucreza : passe.
+Personne n'a suivi. (40) sont retournés à HUmmBEUhh.
+HUmmBEUhh a remporté 64  lors du pot .
+*** SYNTHÈSE ***
+Pot total 64 | Commission 0
+Siège 1 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+Siège 2 : maxtodon (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : SAMUNEN (petite blind) s'est couché. avant Flop
+Siège 5 : Chucreza (grosse blind) s'est couché. avant Flop
+Siège 6 : Winshs s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+Siège 8 : HUmmBEUhh a remporté (64)
+
+
+*********** # 3 **************
+Main PokerStars n°242419025656 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:06:28 CET [13/03/2023 8:06:28 ET]
+Table '3559916628 1' 9-max Siège #4 est au bouton.
+Place 1: Miguiastur (1454 en jetons)
+Place 2: maxtodon (1486 en jetons)
+Place 3: raimbow44 (1500 en jetons)
+Place 4: SAMUNEN (1466 en jetons)
+Place 5: Chucreza (1476 en jetons)
+Place 7: RayuRuna (1580 en jetons)
+Place 8: HUmmBEUhh (1542 en jetons)
+Place 9: japino250 (1500 en jetons)
+Miguiastur : met l'ante. 2
+maxtodon : met l'ante. 2
+raimbow44 : met l'ante. 2
+SAMUNEN : met l'ante. 2
+Chucreza : met l'ante. 2
+RayuRuna : met l'ante. 2
+HUmmBEUhh : met l'ante. 2
+japino250 : met l'ante. 2
+Chucreza : met la petite blind. 10
+RayuRuna : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kd Jd]
+japino250 est déconnecté
+HUmmBEUhh : relance. 40 à 60
+japino250 : passe.
+Miguiastur : passe.
+maxtodon : passe.
+raimbow44 : passe.
+SAMUNEN : passe.
+Chucreza : passe.
+RayuRuna : suit. 40
+*** FLOP *** [Qs 7s As]
+RayuRuna : parole
+HUmmBEUhh : mise. 40
+RayuRuna : suit. 40
+*** TOURNANT *** [Qs 7s As] [5d]
+RayuRuna : parole
+HUmmBEUhh : mise. 160
+RayuRuna : passe.
+Personne n'a suivi. (160) sont retournés à HUmmBEUhh.
+HUmmBEUhh a remporté 226  lors du pot .
+HUmmBEUhh : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 226 | Commission 0
+Tableau [Qs 7s As 5d]
+Siège 1 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+Siège 2 : maxtodon s'est couché. avant Flop (n'a pas misé)
+Siège 3 : raimbow44 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : SAMUNEN (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Chucreza (petite blind) s'est couché. avant Flop
+Siège 7 : RayuRuna (grosse blind) s'est couché. sur le Tournant
+Siège 8 : HUmmBEUhh a remporté (226)
+Siège 9 : japino250 s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 4 **************
+Main PokerStars n°242419037998 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:07:34 CET [13/03/2023 8:07:34 ET]
+Table '3559916628 1' 9-max Siège #5 est au bouton.
+Place 1: Miguiastur (1452 en jetons)
+Place 2: maxtodon (1484 en jetons)
+Place 3: raimbow44 (1498 en jetons)
+Place 4: SAMUNEN (1464 en jetons)
+Place 5: Chucreza (1464 en jetons)
+Place 7: RayuRuna (1478 en jetons)
+Place 9: japino250 (1498 en jetons)
+Miguiastur : met l'ante. 2
+maxtodon : met l'ante. 2
+raimbow44 : met l'ante. 2
+SAMUNEN : met l'ante. 2
+Chucreza : met l'ante. 2
+RayuRuna : met l'ante. 2
+japino250 : met l'ante. 2
+RayuRuna : met la petite blind. 10
+japino250 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [4c 2s]
+Miguiastur : passe.
+maxtodon : suit. 20
+raimbow44 : suit. 20
+SAMUNEN : passe.
+Chucreza : passe.
+RayuRuna : passe.
+japino250 : relance. 40 à 60
+maxtodon : suit. 40
+raimbow44 : suit. 40
+*** FLOP *** [8d Kc 7s]
+japino250 : parole
+maxtodon : parole
+raimbow44 : parole
+*** TOURNANT *** [8d Kc 7s] [6d]
+japino250 : mise. 122
+maxtodon : passe.
+raimbow44 : suit. 122
+*** RIVIÈRE *** [8d Kc 7s 6d] [9c]
+japino250 : mise. 448
+raimbow44 : relance. 448 à 896
+japino250 : relance. 418 à 1314 et est all-in.
+raimbow44 : suit. 418 et est all-in.
+*** ABATTAGE ***
+japino250 : montre [Jd Td] (une suite, Sept à Valet)
+raimbow44 : montre [Th 9h] (une suite, Six à Dix)
+japino250 a remporté 3076  lors du pot .
+raimbow44 a fini le tournoi en 61er position.
+*** SYNTHÈSE ***
+Pot total 3076 | Commission 0
+Tableau [8d Kc 7s 6d 9c]
+Siège 1 : Miguiastur s'est couché. avant Flop (n'a pas misé)
+Siège 2 : maxtodon s'est couché. sur le Tournant
+Siège 3 : raimbow44 a montré [Th 9h] et a perdu avec une suite, Six à Dix
+Siège 4 : SAMUNEN s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Chucreza (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : RayuRuna (petite blind) s'est couché. avant Flop
+Siège 9 : japino250 (grosse blind) a montré [Jd Td] et a gagné (3076) avec une suite, Sept à Valet
+
+
+*********** # 5 **************
+Main PokerStars n°242419049158 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2023 13:08:33 CET [13/03/2023 8:08:33 ET]
+Table '3559916628 2' 9-max Siège #2 est au bouton.
+Place 2: nanou78990 (1719 en jetons)
+Place 3: gozman21 (1494 en jetons)
+Place 4: lediavat (3092 en jetons)
+Place 5: jhonm55 (1253 en jetons)
+Place 6: gor3k (1452 en jetons)
+Place 7: Keyser59 (1496 en jetons)
+Place 8: japino250 (3076 en jetons)
+Place 9: RayuRuna (1466 en jetons)
+nanou78990 : met l'ante. 2
+gozman21 : met l'ante. 2
+lediavat : met l'ante. 2
+jhonm55 : met l'ante. 2
+gor3k : met l'ante. 2
+Keyser59 : met l'ante. 2
+japino250 : met l'ante. 2
+RayuRuna : met l'ante. 2
+gozman21 : met la petite blind. 10
+lediavat : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9h 8d]
+jamaica780 est déconnecté
+jhonm55 : passe.
+gor3k : passe.
+Keyser59 : passe.
+japino250 : passe.
+RayuRuna : passe.
+nanou78990 : relance. 40 à 60
+gozman21 : suit. 50
+lediavat : suit. 40
+*** FLOP *** [Td Kh 3h]
+gozman21 : parole
+lediavat : parole
+nanou78990 : mise. 80
+gozman21 : passe.
+lediavat : suit. 80
+*** TOURNANT *** [Td Kh 3h] [7c]
+lediavat : parole
+nanou78990 : mise. 200
+lediavat : suit. 200
+*** RIVIÈRE *** [Td Kh 3h 7c] [Kc]
+lediavat : parole
+nanou78990 : parole
+*** ABATTAGE ***
+lediavat : montre [Jd Qd] (une paire de Rois)
+nanou78990 : montre [9c 9d] (double paire, Rois et Neuf)
+nanou78990 a remporté 756  lors du pot .
+*** SYNTHÈSE ***
+Pot total 756 | Commission 0
+Tableau [Td Kh 3h 7c Kc]
+Siège 2 : nanou78990 (bouton) a montré [9c 9d] et a gagné (756) avec double paire, Rois et Neuf
+Siège 3 : gozman21 (petite blind) s'est couché. sur le Flop
+Siège 4 : lediavat (grosse blind) a montré [Jd Qd] et a perdu avec une paire de Rois
+Siège 5 : jhonm55 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Keyser59 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : japino250 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 6 **************
+Main PokerStars n°242419068539 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:10:15 CET [13/03/2023 8:10:15 ET]
+Table '3559916628 2' 9-max Siège #3 est au bouton.
+Place 1: jamaica780 (1500 en jetons)
+Place 2: nanou78990 (2133 en jetons)
+Place 3: gozman21 (1432 en jetons)
+Place 4: lediavat (2750 en jetons)
+Place 6: gor3k (1450 en jetons)
+Place 7: Keyser59 (1494 en jetons)
+Place 8: japino250 (3074 en jetons)
+Place 9: RayuRuna (1464 en jetons)
+jamaica780 : met l'ante. 3
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+gor3k : met l'ante. 3
+Keyser59 : met l'ante. 3
+japino250 : met l'ante. 3
+RayuRuna : met l'ante. 3
+lediavat : met la petite blind. 15
+gor3k : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7c Ah]
+Keyser59 : relance. 60 à 90
+japino250 : relance. 249 à 339
+RayuRuna : passe.
+jamaica780 : passe.
+nanou78990 : passe.
+gozman21 : passe.
+lediavat : passe.
+gor3k : passe.
+Keyser59 : relance. 1152 à 1491 et est all-in.
+japino250 : suit. 1152
+*** FLOP *** [Jd 5h 4h]
+*** TOURNANT *** [Jd 5h 4h] [9d]
+*** RIVIÈRE *** [Jd 5h 4h 9d] [6s]
+*** ABATTAGE ***
+Keyser59 : montre [Th Tc] (une paire de Dix)
+japino250 : montre [Jc Jh] (un brelan de Valets)
+japino250 a remporté 3051  lors du pot .
+Keyser59 a fini le tournoi en 60e position.
+*** SYNTHÈSE ***
+Pot total 3051 | Commission 0
+Tableau [Jd 5h 4h 9d 6s]
+Siège 1 : jamaica780 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat (petite blind) s'est couché. avant Flop
+Siège 6 : gor3k (grosse blind) s'est couché. avant Flop
+Siège 7 : Keyser59 a montré [Th Tc] et a perdu avec une paire de Dix
+Siège 8 : japino250 a montré [Jc Jh] et a gagné (3051) avec un brelan de Valets
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 7 **************
+Main PokerStars n°242419076550 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:10:57 CET [13/03/2023 8:10:57 ET]
+Table '3559916628 2' 9-max Siège #4 est au bouton.
+Place 1: jamaica780 (1497 en jetons)
+Place 2: nanou78990 (2130 en jetons)
+Place 3: gozman21 (1429 en jetons)
+Place 4: lediavat (2732 en jetons)
+Place 6: gor3k (1417 en jetons)
+Place 9: RayuRuna (1461 en jetons)
+jamaica780 : met l'ante. 3
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+gor3k : met l'ante. 3
+RayuRuna : met l'ante. 3
+gor3k : met la petite blind. 15
+RayuRuna : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Qs 6h]
+jamaica780 : relance. 1464 à 1494 et est all-in.
+nanou78990 : passe.
+gozman21 : suit. 1426 et est all-in.
+lediavat : passe.
+gor3k : passe.
+RayuRuna : passe.
+Personne n'a suivi. (68) sont retournés à jamaica780.
+*** FLOP *** [Tc Jh Td]
+*** TOURNANT *** [Tc Jh Td] [7s]
+*** RIVIÈRE *** [Tc Jh Td 7s] [8d]
+*** ABATTAGE ***
+jamaica780 : montre [5c 6c] (une paire de Dix)
+gozman21 : montre [9c 9d] (une suite, Sept à Valet)
+gozman21 a remporté 2915  lors du pot .
+*** SYNTHÈSE ***
+Pot total 2915 | Commission 0
+Tableau [Tc Jh Td 7s 8d]
+Siège 1 : jamaica780 a montré [5c 6c] et a perdu avec une paire de Dix
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 a montré [9c 9d] et a gagné (2915) avec une suite, Sept à Valet
+Siège 4 : lediavat (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k (petite blind) s'est couché. avant Flop
+Siège 9 : RayuRuna (grosse blind) s'est couché. avant Flop
+
+
+*********** # 8 **************
+Main PokerStars n°242419084075 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:11:36 CET [13/03/2023 8:11:36 ET]
+Table '3559916628 2' 9-max Siège #6 est au bouton.
+Place 1: jamaica780 (68 en jetons)
+Place 2: nanou78990 (2127 en jetons)
+Place 3: gozman21 (2915 en jetons)
+Place 4: lediavat (2729 en jetons)
+Place 6: gor3k (1399 en jetons)
+Place 7: xino1304 (1500 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 9: RayuRuna (1428 en jetons)
+xino1304 sera autorisé à jouer après le bouton.
+jamaica780 : met l'ante. 3
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+gor3k : met l'ante. 3
+RayuRuna : met l'ante. 3
+RayuRuna : met la petite blind. 15
+jamaica780 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [8s 9c]
+nanou78990 : passe.
+gozman21 : passe.
+lediavat : passe.
+gor3k : passe.
+xino1304 est déconnecté
+RayuRuna : relance. 60 à 90
+jamaica780 : suit. 35 et est all-in.
+Personne n'a suivi. (25) sont retournés à RayuRuna.
+*** FLOP *** [2c Js 3d]
+*** TOURNANT *** [2c Js 3d] [7c]
+*** RIVIÈRE *** [2c Js 3d 7c] [Kd]
+*** ABATTAGE ***
+RayuRuna : montre [8s 9c] (Hauteur Roi)
+jamaica780 : montre [3c 5c] (une paire de Trois)
+jamaica780 a remporté 148  lors du pot .
+*** SYNTHÈSE ***
+Pot total 148 | Commission 0
+Tableau [2c Js 3d 7c Kd]
+Siège 1 : jamaica780 (grosse blind) a montré [3c 5c] et a gagné (148) avec une paire de Trois
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (petite blind) a montré [8s 9c] et a perdu avec Hauteur Roi
+
+
+*********** # 9 **************
+Main PokerStars n°242419088324 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:11:58 CET [13/03/2023 8:11:58 ET]
+Table '3559916628 2' 9-max Siège #9 est au bouton.
+Place 1: jamaica780 (148 en jetons)
+Place 2: nanou78990 (2124 en jetons)
+Place 3: gozman21 (2912 en jetons)
+Place 4: lediavat (2726 en jetons)
+Place 6: gor3k (1396 en jetons)
+Place 7: xino1304 (1500 en jetons)
+Place 9: RayuRuna (1360 en jetons)
+jamaica780 : met l'ante. 3
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+gor3k : met l'ante. 3
+xino1304 : met l'ante. 3
+RayuRuna : met l'ante. 3
+jamaica780 : met la petite blind. 15
+nanou78990 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Kh Ac]
+gozman21 : passe.
+lediavat : passe.
+gor3k : passe.
+xino1304 : passe.
+RayuRuna : relance. 45 à 75
+jamaica780 : relance. 70 à 145 et est all-in.
+nanou78990 : passe.
+RayuRuna : suit. 70
+*** FLOP *** [3d Jd 5h]
+*** TOURNANT *** [3d Jd 5h] [3h]
+*** RIVIÈRE *** [3d Jd 5h 3h] [Js]
+*** ABATTAGE ***
+jamaica780 : montre [7c 9d] (double paire, Valets et Trois)
+RayuRuna : montre [Kh Ac] (double paire, Valets et Trois - As kicker)
+RayuRuna a remporté 341  lors du pot .
+jamaica780 a fini le tournoi en 59e position.
+*** SYNTHÈSE ***
+Pot total 341 | Commission 0
+Tableau [3d Jd 5h 3h Js]
+Siège 1 : jamaica780 (petite blind) a montré [7c 9d] et a perdu avec double paire, Valets et Trois
+Siège 2 : nanou78990 (grosse blind) s'est couché. avant Flop
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : xino1304 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (bouton) a montré [Kh Ac] et a gagné (341) avec double paire, Valets et Trois
+
+
+*********** # 10 **************
+Main PokerStars n°242419095457 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:12:35 CET [13/03/2023 8:12:35 ET]
+Table '3559916628 2' 9-max Siège #2 est au bouton.
+Place 2: nanou78990 (2091 en jetons)
+Place 3: gozman21 (2909 en jetons)
+Place 4: lediavat (2723 en jetons)
+Place 6: gor3k (1393 en jetons)
+Place 7: xino1304 (1497 en jetons)
+Place 9: RayuRuna (1553 en jetons)
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+gor3k : met l'ante. 3
+xino1304 : met l'ante. 3
+RayuRuna : met l'ante. 3
+gozman21 : met la petite blind. 15
+lediavat : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9h Qd]
+gor3k : relance. 30 à 60
+xino1304 : relance. 1434 à 1494 et est all-in.
+RayuRuna : passe.
+nanou78990 : passe.
+elkoki11 est déconnecté
+gozman21 : passe.
+lediavat : passe.
+gor3k : passe.
+Personne n'a suivi. (1434) sont retournés à xino1304.
+xino1304 a remporté 183  lors du pot .
+*** SYNTHÈSE ***
+Pot total 183 | Commission 0
+Siège 2 : nanou78990 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 (petite blind) s'est couché. avant Flop
+Siège 4 : lediavat (grosse blind) s'est couché. avant Flop
+Siège 6 : gor3k s'est couché. avant Flop
+Siège 7 : xino1304 a remporté (183)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 11 **************
+Main PokerStars n°242419102013 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:13:09 CET [13/03/2023 8:13:09 ET]
+Table '3559916628 2' 9-max Siège #3 est au bouton.
+Place 2: nanou78990 (2088 en jetons)
+Place 3: gozman21 (2891 en jetons)
+Place 4: lediavat (2690 en jetons)
+Place 5: elkoki11 (1106 en jetons)
+Place 6: gor3k (1330 en jetons)
+Place 7: xino1304 (1617 en jetons)
+Place 9: RayuRuna (1550 en jetons)
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+elkoki11 : met l'ante. 3
+gor3k : met l'ante. 3
+xino1304 : met l'ante. 3
+RayuRuna : met l'ante. 3
+lediavat : met la petite blind. 15
+elkoki11 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Js 2c]
+gor3k : passe.
+xino1304 : suit. 30
+RayuRuna : passe.
+nanou78990 : passe.
+yescheffor4 est déconnecté
+gozman21 : relance. 30 à 60
+lediavat : suit. 45
+elkoki11 : suit. 30
+xino1304 : suit. 30
+*** FLOP *** [8h As Ah]
+lediavat : parole
+elkoki11 : parole
+xino1304 : parole
+gozman21 : mise. 131
+lediavat : passe.
+elkoki11 : passe.
+xino1304 : passe.
+Personne n'a suivi. (131) sont retournés à gozman21.
+gozman21 a remporté 261  lors du pot .
+gozman21 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 261 | Commission 0
+Tableau [8h As Ah]
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 (bouton) a remporté (261)
+Siège 4 : lediavat (petite blind) s'est couché. sur le Flop
+Siège 5 : elkoki11 (grosse blind) s'est couché. sur le Flop
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : xino1304 s'est couché. sur le Flop
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 12 **************
+Main PokerStars n°242419117752 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau II (15/30) - 13/03/2023 13:14:32 CET [13/03/2023 8:14:32 ET]
+Table '3559916628 2' 9-max Siège #4 est au bouton.
+Place 1: yescheffor4 (1500 en jetons)
+Place 2: nanou78990 (2085 en jetons)
+Place 3: gozman21 (3089 en jetons)
+Place 4: lediavat (2627 en jetons)
+Place 5: elkoki11 (1043 en jetons)
+Place 6: gor3k (1327 en jetons)
+Place 7: xino1304 (1554 en jetons)
+Place 9: RayuRuna (1547 en jetons)
+yescheffor4 : met l'ante. 3
+nanou78990 : met l'ante. 3
+gozman21 : met l'ante. 3
+lediavat : met l'ante. 3
+elkoki11 : met l'ante. 3
+gor3k : met l'ante. 3
+xino1304 : met l'ante. 3
+RayuRuna : met l'ante. 3
+elkoki11 : met la petite blind. 15
+gor3k : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2h Tc]
+xino1304 : suit. 30
+RayuRuna : passe.
+yescheffor4 : suit. 30
+nanou78990 : relance. 60 à 90
+gozman21 : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+xino1304 : suit. 60
+yescheffor4 : suit. 60
+*** FLOP *** [5d Qc Js]
+xino1304 : mise. 30
+yescheffor4 : passe.
+nanou78990 : relance. 1962 à 1992 et est all-in.
+xino1304 : passe.
+Personne n'a suivi. (1962) sont retournés à nanou78990.
+nanou78990 a remporté 399  lors du pot .
+nanou78990 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 399 | Commission 0
+Tableau [5d Qc Js]
+Siège 1 : yescheffor4 s'est couché. sur le Flop
+Siège 2 : nanou78990 a remporté (399)
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 (petite blind) s'est couché. avant Flop
+Siège 6 : gor3k (grosse blind) s'est couché. avant Flop
+Siège 7 : xino1304 s'est couché. sur le Flop
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 13 **************
+Main PokerStars n°242419129155 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:15:30 CET [13/03/2023 8:15:30 ET]
+Table '3559916628 2' 9-max Siège #5 est au bouton.
+Place 1: yescheffor4 (1407 en jetons)
+Place 2: nanou78990 (2361 en jetons)
+Place 3: gozman21 (3086 en jetons)
+Place 4: lediavat (2624 en jetons)
+Place 5: elkoki11 (1025 en jetons)
+Place 6: gor3k (1294 en jetons)
+Place 7: xino1304 (1431 en jetons)
+Place 8: Break88700 (1500 en jetons)
+Place 9: RayuRuna (1544 en jetons)
+yescheffor4 : met l'ante. 4
+nanou78990 : met l'ante. 4
+gozman21 : met l'ante. 4
+lediavat : met l'ante. 4
+elkoki11 : met l'ante. 4
+gor3k : met l'ante. 4
+xino1304 : met l'ante. 4
+Break88700 : met l'ante. 4
+RayuRuna : met l'ante. 4
+gor3k : met la petite blind. 20
+xino1304 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Tc 3d]
+Break88700 : suit. 40
+RayuRuna : passe.
+yescheffor4 : relance. 40 à 80
+nanou78990 : passe.
+gozman21 : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+xino1304 : suit. 40
+Break88700 : suit. 40
+*** FLOP *** [Th Ah Ks]
+xino1304 : parole
+Break88700 : mise. 160
+yescheffor4 : suit. 160
+xino1304 : passe.
+*** TOURNANT *** [Th Ah Ks] [7d]
+Break88700 : mise. 160
+yescheffor4 : suit. 160
+*** RIVIÈRE *** [Th Ah Ks 7d] [Kc]
+Break88700 : mise. 200
+yescheffor4 : relance. 803 à 1003 et est all-in.
+Break88700 : suit. 803
+*** ABATTAGE ***
+yescheffor4 : montre [Qc 9s] (une paire de Rois)
+Break88700 : montre [As Jd] (double paire, As et Rois)
+Break88700 a remporté 2942  lors du pot .
+yescheffor4 a fini le tournoi en 57e position.
+*** SYNTHÈSE ***
+Pot total 2942 | Commission 0
+Tableau [Th Ah Ks 7d Kc]
+Siège 1 : yescheffor4 a montré [Qc 9s] et a perdu avec une paire de Rois
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k (petite blind) s'est couché. avant Flop
+Siège 7 : xino1304 (grosse blind) s'est couché. sur le Flop
+Siège 8 : Break88700 a montré [As Jd] et a gagné (2942) avec double paire, As et Rois
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 14 **************
+Main PokerStars n°242419139863 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:16:25 CET [13/03/2023 8:16:25 ET]
+Table '3559916628 2' 9-max Siège #6 est au bouton.
+Place 2: nanou78990 (2357 en jetons)
+Place 3: gozman21 (3082 en jetons)
+Place 4: lediavat (2620 en jetons)
+Place 5: elkoki11 (1021 en jetons)
+Place 6: gor3k (1270 en jetons)
+Place 7: xino1304 (1347 en jetons)
+Place 8: Break88700 (3035 en jetons)
+Place 9: RayuRuna (1540 en jetons)
+nanou78990 : met l'ante. 4
+gozman21 : met l'ante. 4
+lediavat : met l'ante. 4
+elkoki11 : met l'ante. 4
+gor3k : met l'ante. 4
+xino1304 : met l'ante. 4
+Break88700 : met l'ante. 4
+RayuRuna : met l'ante. 4
+xino1304 : met la petite blind. 20
+Break88700 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5s 5c]
+xino1304 est déconnecté
+RayuRuna : relance. 52 à 92
+nanou78990 : passe.
+gozman21 : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+xino1304 : suit. 72
+Break88700 : suit. 52
+*** FLOP *** [Kc 3s 8s]
+xino1304 : mise. 40
+Break88700 : suit. 40
+RayuRuna : suit. 40
+*** TOURNANT *** [Kc 3s 8s] [Ah]
+xino1304 : parole
+Break88700 : mise. 120
+RayuRuna : passe.
+xino1304 : passe.
+Personne n'a suivi. (120) sont retournés à Break88700.
+Break88700 a remporté 428  lors du pot .
+*** SYNTHÈSE ***
+Pot total 428 | Commission 0
+Tableau [Kc 3s 8s Ah]
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : xino1304 (petite blind) s'est couché. sur le Tournant
+Siège 8 : Break88700 (grosse blind) a remporté (428)
+Siège 9 : RayuRuna s'est couché. sur le Tournant
+
+
+*********** # 15 **************
+Main PokerStars n°242419155262 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:17:44 CET [13/03/2023 8:17:44 ET]
+Table '3559916628 2' 9-max Siège #7 est au bouton.
+Place 2: nanou78990 (2353 en jetons)
+Place 3: gozman21 (3078 en jetons)
+Place 4: lediavat (2616 en jetons)
+Place 5: elkoki11 (1017 en jetons)
+Place 6: gor3k (1266 en jetons)
+Place 7: xino1304 (1211 en jetons)
+Place 8: Break88700 (3327 en jetons)
+Place 9: RayuRuna (1404 en jetons)
+nanou78990 : met l'ante. 4
+gozman21 : met l'ante. 4
+lediavat : met l'ante. 4
+elkoki11 : met l'ante. 4
+gor3k : met l'ante. 4
+xino1304 : met l'ante. 4
+Break88700 : met l'ante. 4
+RayuRuna : met l'ante. 4
+Break88700 : met la petite blind. 20
+RayuRuna : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [7c 2h]
+nanou78990 : passe.
+gozman21 : passe.
+lediavat : passe.
+elkoki11 : relance. 40 à 80
+gor3k : relance. 252 à 332
+xino1304 : passe.
+Break88700 : passe.
+RayuRuna : passe.
+elkoki11 : passe.
+Personne n'a suivi. (252) sont retournés à gor3k.
+gor3k a remporté 252  lors du pot .
+*** SYNTHÈSE ***
+Pot total 252 | Commission 0
+Siège 2 : nanou78990 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop
+Siège 6 : gor3k a remporté (252)
+Siège 7 : xino1304 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Break88700 (petite blind) s'est couché. avant Flop
+Siège 9 : RayuRuna (grosse blind) s'est couché. avant Flop
+
+
+*********** # 16 **************
+Main PokerStars n°242419166444 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:18:41 CET [13/03/2023 8:18:41 ET]
+Table '3559916628 2' 9-max Siège #8 est au bouton.
+Place 1: Astarothz (1500 en jetons)
+Place 3: gozman21 (3074 en jetons)
+Place 4: lediavat (2612 en jetons)
+Place 5: elkoki11 (933 en jetons)
+Place 6: gor3k (1434 en jetons)
+Place 7: xino1304 (1207 en jetons)
+Place 8: Break88700 (3303 en jetons)
+Place 9: RayuRuna (1360 en jetons)
+Astarothz : met l'ante. 4
+gozman21 : met l'ante. 4
+lediavat : met l'ante. 4
+elkoki11 : met l'ante. 4
+gor3k : met l'ante. 4
+xino1304 : met l'ante. 4
+Break88700 : met l'ante. 4
+RayuRuna : met l'ante. 4
+RayuRuna : met la petite blind. 20
+Astarothz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [9c Ac]
+gozman21 : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+xino1304 : relance. 132 à 172
+Break88700 : suit. 172
+RayuRuna : suit. 152
+Astarothz : passe.
+*** FLOP *** [5s 8s 2h]
+RayuRuna : parole
+xino1304 : mise. 1031 et est all-in.
+Break88700 : suit. 1031
+RayuRuna : passe.
+*** TOURNANT *** [5s 8s 2h] [Qh]
+*** RIVIÈRE *** [5s 8s 2h Qh] [9d]
+*** ABATTAGE ***
+xino1304 : montre [3d 3h] (une paire de Trois)
+Break88700 : montre [8d As] (une paire de Huit)
+Break88700 a remporté 2650  lors du pot .
+xino1304 a fini le tournoi en 56e position.
+*** SYNTHÈSE ***
+Pot total 2650 | Commission 0
+Tableau [5s 8s 2h Qh 9d]
+Siège 1 : Astarothz (grosse blind) s'est couché. avant Flop
+Siège 3 : gozman21 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : xino1304 a montré [3d 3h] et a perdu avec une paire de Trois
+Siège 8 : Break88700 (bouton) a montré [8d As] et a gagné (2650) avec une paire de Huit
+Siège 9 : RayuRuna (petite blind) s'est couché. sur le Flop
+
+
+*********** # 17 **************
+Main PokerStars n°242419176177 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau III (20/40) - 13/03/2023 13:19:31 CET [13/03/2023 8:19:31 ET]
+Table '3559916628 2' 9-max Siège #9 est au bouton.
+Place 1: Astarothz (1456 en jetons)
+Place 4: lediavat (2608 en jetons)
+Place 5: elkoki11 (929 en jetons)
+Place 6: gor3k (1430 en jetons)
+Place 8: Break88700 (4746 en jetons)
+Place 9: RayuRuna (1184 en jetons)
+Astarothz : met l'ante. 4
+lediavat : met l'ante. 4
+elkoki11 : met l'ante. 4
+gor3k : met l'ante. 4
+Break88700 : met l'ante. 4
+RayuRuna : met l'ante. 4
+Astarothz : met la petite blind. 20
+lediavat : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ad 6c]
+elkoki11 : passe.
+gor3k : passe.
+Break88700 : passe.
+RayuRuna : relance. 60 à 100
+Astarothz : passe.
+lediavat : suit. 60
+*** FLOP *** [9d 4c Ah]
+lediavat : parole
+grees99 est déconnecté
+RayuRuna : mise. 120
+lediavat : suit. 120
+*** TOURNANT *** [9d 4c Ah] [8d]
+lediavat : parole
+RayuRuna : parole
+*** RIVIÈRE *** [9d 4c Ah 8d] [5h]
+lediavat : mise. 242
+RayuRuna : suit. 242
+*** ABATTAGE ***
+lediavat : montre [3h 3c] (une paire de Trois)
+RayuRuna : montre [Ad 6c] (une paire de As)
+RayuRuna a remporté 968  lors du pot .
+*** SYNTHÈSE ***
+Pot total 968 | Commission 0
+Tableau [9d 4c Ah 8d 5h]
+Siège 1 : Astarothz (petite blind) s'est couché. avant Flop
+Siège 4 : lediavat (grosse blind) a montré [3h 3c] et a perdu avec une paire de Trois
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Break88700 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna (bouton) a montré [Ad 6c] et a gagné (968) avec une paire de As
+
+
+*********** # 18 **************
+Main PokerStars n°242419190637 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:20:45 CET [13/03/2023 8:20:45 ET]
+Table '3559916628 2' 9-max Siège #1 est au bouton.
+Place 1: Astarothz (1432 en jetons)
+Place 2: grees99 (1500 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 4: lediavat (2142 en jetons)
+Place 5: elkoki11 (925 en jetons)
+Place 6: gor3k (1426 en jetons)
+Place 8: Break88700 (4742 en jetons)
+Place 9: RayuRuna (1686 en jetons)
+grees99 sera autorisé à jouer après le bouton.
+Astarothz : met l'ante. 5
+lediavat : met l'ante. 5
+elkoki11 : met l'ante. 5
+gor3k : met l'ante. 5
+Break88700 : met l'ante. 5
+RayuRuna : met l'ante. 5
+lediavat : met la petite blind. 25
+elkoki11 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [2h 9h]
+gor3k : passe.
+Break88700 : passe.
+RayuRuna : passe.
+Astarothz : suit. 50
+lediavat : passe.
+elkoki11 : parole
+*** FLOP *** [4c 9s 7d]
+elkoki11 : parole
+Astarothz : mise. 100
+elkoki11 : passe.
+Personne n'a suivi. (100) sont retournés à Astarothz.
+Astarothz a remporté 155  lors du pot .
+*** SYNTHÈSE ***
+Pot total 155 | Commission 0
+Tableau [4c 9s 7d]
+Siège 1 : Astarothz (bouton) a remporté (155)
+Siège 4 : lediavat (petite blind) s'est couché. avant Flop
+Siège 5 : elkoki11 (grosse blind) s'est couché. sur le Flop
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Break88700 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 19 **************
+Main PokerStars n°242419198581 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:21:25 CET [13/03/2023 8:21:25 ET]
+Table '3559916628 2' 9-max Siège #4 est au bouton.
+Place 1: Astarothz (1532 en jetons)
+Place 2: grees99 (1500 en jetons)
+Place 4: lediavat (2112 en jetons)
+Place 5: elkoki11 (870 en jetons)
+Place 6: gor3k (1421 en jetons)
+Place 8: Break88700 (4737 en jetons)
+Place 9: RayuRuna (1681 en jetons)
+Astarothz : met l'ante. 5
+grees99 : met l'ante. 5
+lediavat : met l'ante. 5
+elkoki11 : met l'ante. 5
+gor3k : met l'ante. 5
+Break88700 : met l'ante. 5
+RayuRuna : met l'ante. 5
+elkoki11 : met la petite blind. 25
+gor3k : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [6d Ac]
+Break88700 : passe.
+RayuRuna : passe.
+Astarothz : passe.
+grees99 : passe.
+lediavat : passe.
+elkoki11 : suit. 25
+gor3k : parole
+*** FLOP *** [2d Jd Qc]
+elkoki11 : mise. 68
+gor3k : passe.
+Personne n'a suivi. (68) sont retournés à elkoki11.
+elkoki11 a remporté 135  lors du pot .
+elkoki11 : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0
+Tableau [2d Jd Qc]
+Siège 1 : Astarothz s'est couché. avant Flop (n'a pas misé)
+Siège 2 : grees99 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 (petite blind) a remporté (135)
+Siège 6 : gor3k (grosse blind) s'est couché. sur le Flop
+Siège 8 : Break88700 s'est couché. avant Flop (n'a pas misé)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 20 **************
+Main PokerStars n°242419207830 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:22:11 CET [13/03/2023 8:22:11 ET]
+Table '3559916628 2' 9-max Siège #5 est au bouton.
+Place 1: Astarothz (1527 en jetons)
+Place 2: grees99 (1495 en jetons)
+Place 4: lediavat (2107 en jetons)
+Place 5: elkoki11 (950 en jetons)
+Place 6: gor3k (1366 en jetons)
+Place 8: Break88700 (4732 en jetons)
+Place 9: RayuRuna (1676 en jetons)
+Astarothz : met l'ante. 5
+grees99 : met l'ante. 5
+lediavat : met l'ante. 5
+elkoki11 : met l'ante. 5
+gor3k : met l'ante. 5
+Break88700 : met l'ante. 5
+RayuRuna : met l'ante. 5
+gor3k : met la petite blind. 25
+Break88700 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Th 5d]
+RayuRuna : passe.
+Astarothz : passe.
+grees99 : passe.
+Squirrelavenue est déconnecté
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+Personne n'a suivi. (25) sont retournés à Break88700.
+Break88700 a remporté 85  lors du pot .
+*** SYNTHÈSE ***
+Pot total 85 | Commission 0
+Siège 1 : Astarothz s'est couché. avant Flop (n'a pas misé)
+Siège 2 : grees99 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k (petite blind) s'est couché. avant Flop
+Siège 8 : Break88700 (grosse blind) a remporté (85)
+Siège 9 : RayuRuna s'est couché. avant Flop (n'a pas misé)
+
+
+*********** # 21 **************
+Main PokerStars n°242419211122 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:22:27 CET [13/03/2023 8:22:27 ET]
+Table '3559916628 2' 9-max Siège #6 est au bouton.
+Place 1: Astarothz (1522 en jetons)
+Place 2: grees99 (1490 en jetons)
+Place 3: Squirrelavenue (1500 en jetons)
+Place 4: lediavat (2102 en jetons)
+Place 5: elkoki11 (945 en jetons)
+Place 6: gor3k (1336 en jetons)
+Place 8: Break88700 (4787 en jetons)
+Place 9: RayuRuna (1671 en jetons)
+Astarothz : met l'ante. 5
+grees99 : met l'ante. 5
+Squirrelavenue : met l'ante. 5
+lediavat : met l'ante. 5
+elkoki11 : met l'ante. 5
+gor3k : met l'ante. 5
+Break88700 : met l'ante. 5
+RayuRuna : met l'ante. 5
+Break88700 : met la petite blind. 25
+RayuRuna : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5s 2h]
+Astarothz : passe.
+grees99 : passe.
+Squirrelavenue : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+Break88700 : suit. 25
+RayuRuna : parole
+*** FLOP *** [Kh Th Qs]
+Break88700 : parole
+RayuRuna : parole
+*** TOURNANT *** [Kh Th Qs] [6s]
+Break88700 : parole
+RayuRuna : parole
+*** RIVIÈRE *** [Kh Th Qs 6s] [Jh]
+Break88700 : parole
+RayuRuna : parole
+*** ABATTAGE ***
+Break88700 : montre [2c 7c] (Hauteur Roi)
+RayuRuna : cache la main perdante.
+Break88700 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0
+Tableau [Kh Th Qs 6s Jh]
+Siège 1 : Astarothz s'est couché. avant Flop (n'a pas misé)
+Siège 2 : grees99 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Squirrelavenue s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Break88700 (petite blind) a montré [2c 7c] et a gagné (140) avec Hauteur Roi
+Siège 9 : RayuRuna (grosse blind) a caché la main perdante. [5s 2h]
+
+
+*********** # 22 **************
+Main PokerStars n°242419225799 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:23:40 CET [13/03/2023 8:23:40 ET]
+Table '3559916628 2' 9-max Siège #8 est au bouton.
+Place 1: Astarothz (1517 en jetons)
+Place 2: grees99 (1485 en jetons)
+Place 3: Squirrelavenue (1495 en jetons)
+Place 4: lediavat (2097 en jetons)
+Place 5: elkoki11 (940 en jetons)
+Place 6: gor3k (1331 en jetons)
+Place 8: Break88700 (4872 en jetons)
+Place 9: RayuRuna (1616 en jetons)
+Astarothz : met l'ante. 5
+grees99 : met l'ante. 5
+Squirrelavenue : met l'ante. 5
+lediavat : met l'ante. 5
+elkoki11 : met l'ante. 5
+gor3k : met l'ante. 5
+Break88700 : met l'ante. 5
+RayuRuna : met l'ante. 5
+RayuRuna : met la petite blind. 25
+Astarothz : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ah Js]
+grees99 : passe.
+Squirrelavenue : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+Break88700 : suit. 50
+RayuRuna : relance. 100 à 150
+Astarothz : passe.
+Break88700 : suit. 100
+*** FLOP *** [5s 4d Ks]
+RayuRuna : mise. 150
+Break88700 : suit. 150
+*** TOURNANT *** [5s 4d Ks] [9h]
+RayuRuna : parole
+Break88700 : mise. 150
+RayuRuna : suit. 150
+*** RIVIÈRE *** [5s 4d Ks 9h] [Kc]
+RayuRuna : mise. 400
+Break88700 : passe.
+Personne n'a suivi. (400) sont retournés à RayuRuna.
+RayuRuna a remporté 990  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0
+Tableau [5s 4d Ks 9h Kc]
+Siège 1 : Astarothz (grosse blind) s'est couché. avant Flop
+Siège 2 : grees99 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Squirrelavenue s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Break88700 (bouton) s'est couché. sur le Rivière
+Siège 9 : RayuRuna (petite blind) a remporté (990)
+
+
+*********** # 23 **************
+Main PokerStars n°242419240236 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau IV (25/50) - 13/03/2023 13:24:51 CET [13/03/2023 8:24:51 ET]
+Table '3559916628 2' 9-max Siège #9 est au bouton.
+Place 1: Astarothz (1462 en jetons)
+Place 2: grees99 (1480 en jetons)
+Place 3: Squirrelavenue (1490 en jetons)
+Place 4: lediavat (2092 en jetons)
+Place 5: elkoki11 (935 en jetons)
+Place 6: gor3k (1326 en jetons)
+Place 7: tetecal10 (1500 en jetons)
+Place 8: Break88700 (4417 en jetons)
+Place 9: RayuRuna (2151 en jetons)
+Astarothz : met l'ante. 5
+grees99 : met l'ante. 5
+Squirrelavenue : met l'ante. 5
+lediavat : met l'ante. 5
+elkoki11 : met l'ante. 5
+gor3k : met l'ante. 5
+tetecal10 : met l'ante. 5
+Break88700 : met l'ante. 5
+RayuRuna : met l'ante. 5
+Astarothz : met la petite blind. 25
+grees99 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ts 9s]
+Squirrelavenue : passe.
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+tetecal10 : suit. 50
+Break88700 : suit. 50
+RayuRuna : suit. 50
+Astarothz : suit. 25
+grees99 : parole
+*** FLOP *** [Th Qs Td]
+Astarothz : parole
+grees99 : parole
+tetecal10 : mise. 150
+Break88700 : passe.
+RayuRuna : suit. 150
+Astarothz : suit. 150
+grees99 : passe.
+*** TOURNANT *** [Th Qs Td] [8c]
+Astarothz : parole
+tetecal10 : mise. 50
+RayuRuna : suit. 50
+Astarothz : suit. 50
+*** RIVIÈRE *** [Th Qs Td 8c] [6c]
+Astarothz : parole
+tetecal10 : parole
+RayuRuna : mise. 1896 et est all-in.
+Astarothz : suit. 1207 et est all-in.
+tetecal10 : passe.
+Personne n'a suivi. (689) sont retournés à RayuRuna.
+*** ABATTAGE ***
+RayuRuna : montre [Ts 9s] (un brelan de Dix)
+Astarothz : montre [Qd Qc] (un full, full aux Dames par les Dix)
+Astarothz a remporté 3309  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3309 | Commission 0
+Tableau [Th Qs Td 8c 6c]
+Siège 1 : Astarothz (petite blind) a montré [Qd Qc] et a gagné (3309) avec un full, full aux Dames par les Dix
+Siège 2 : grees99 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Squirrelavenue s'est couché. avant Flop (n'a pas misé)
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : tetecal10 s'est couché. sur le Rivière
+Siège 8 : Break88700 s'est couché. sur le Flop
+Siège 9 : RayuRuna (bouton) a montré [Ts 9s] et a perdu avec un brelan de Dix
+
+
+*********** # 24 **************
+Main PokerStars n°242419254899 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 13:26:04 CET [13/03/2023 8:26:04 ET]
+Table '3559916628 2' 9-max Siège #1 est au bouton.
+Place 1: Astarothz (3309 en jetons)
+Place 2: grees99 (1425 en jetons)
+Place 3: Squirrelavenue (1485 en jetons)
+Place 4: lediavat (2087 en jetons)
+Place 5: elkoki11 (930 en jetons)
+Place 6: gor3k (1321 en jetons)
+Place 7: tetecal10 (1245 en jetons)
+Place 8: Break88700 (4362 en jetons)
+Place 9: RayuRuna (689 en jetons)
+Astarothz : met l'ante. 6
+grees99 : met l'ante. 6
+Squirrelavenue : met l'ante. 6
+lediavat : met l'ante. 6
+elkoki11 : met l'ante. 6
+gor3k : met l'ante. 6
+tetecal10 : met l'ante. 6
+Break88700 : met l'ante. 6
+RayuRuna : met l'ante. 6
+grees99 : met la petite blind. 30
+Squirrelavenue : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [Ac 5h]
+lediavat : passe.
+elkoki11 : passe.
+gor3k : passe.
+tetecal10 : passe.
+Break88700 : suit. 60
+RayuRuna : relance. 623 à 683 et est all-in.
+Astarothz : passe.
+grees99 : passe.
+Squirrelavenue : passe.
+Break88700 : passe.
+Personne n'a suivi. (623) sont retournés à RayuRuna.
+RayuRuna a remporté 264  lors du pot .
+RayuRuna : ne montre pas sa main.
+*** SYNTHÈSE ***
+Pot total 264 | Commission 0
+Siège 1 : Astarothz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : grees99 (petite blind) s'est couché. avant Flop
+Siège 3 : Squirrelavenue (grosse blind) s'est couché. avant Flop
+Siège 4 : lediavat s'est couché. avant Flop (n'a pas misé)
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : tetecal10 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Break88700 s'est couché. avant Flop
+Siège 9 : RayuRuna a remporté (264)
+
+
+*********** # 25 **************
+Main PokerStars n°242419267546 : Tournoi #3559916628, 0.45 €+0.05 € EUR Hold'em No Limit - Niveau V (30/60) - 13/03/2023 13:27:07 CET [13/03/2023 8:27:07 ET]
+Table '3559916628 2' 9-max Siège #2 est au bouton.
+Place 1: Astarothz (3303 en jetons)
+Place 2: grees99 (1389 en jetons)
+Place 3: Squirrelavenue (1419 en jetons)
+Place 4: lediavat (2081 en jetons)
+Place 5: elkoki11 (924 en jetons)
+Place 6: gor3k (1315 en jetons)
+Place 7: tetecal10 (1239 en jetons)
+Place 8: Break88700 (4296 en jetons)
+Place 9: RayuRuna (887 en jetons)
+Astarothz : met l'ante. 6
+grees99 : met l'ante. 6
+Squirrelavenue : met l'ante. 6
+lediavat : met l'ante. 6
+elkoki11 : met l'ante. 6
+gor3k : met l'ante. 6
+tetecal10 : met l'ante. 6
+Break88700 : met l'ante. 6
+RayuRuna : met l'ante. 6
+Squirrelavenue : met la petite blind. 30
+lediavat : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées RayuRuna [5s Ac]
+elkoki11 : passe.
+gor3k : passe.
+tetecal10 : suit. 60
+Break88700 : suit. 60
+RayuRuna : relance. 821 à 881 et est all-in.
+Astarothz : passe.
+grees99 : passe.
+Squirrelavenue : passe.
+lediavat : passe.
+tetecal10 : suit. 821
+Break88700 : suit. 821
+*** FLOP *** [Qd Ad 4s]
+tetecal10 : mise. 60
+Break88700 : relance. 300 à 360
+tetecal10 : suit. 292 et est all-in.
+Personne n'a suivi. (8) sont retournés à Break88700.
+*** TOURNANT *** [Qd Ad 4s] [Tc]
+*** RIVIÈRE *** [Qd Ad 4s Tc] [3s]
+*** ABATTAGE ***
+tetecal10 : montre [4c Qc] (double paire, Dames et Quatre)
+Break88700 : montre [Js 7h] (Hauteur As)
+tetecal10 a remporté 704  parallèle lors du pot .
+RayuRuna : montre [5s Ac] (une paire de As)
+tetecal10 a remporté 2787  principal lors du pot .
+RayuRuna a fini le tournoi en 49e position.
+*** SYNTHÈSE ***
+Pot total 3491 Principal pot 2787. Parallèle pot 704. | Commission 0
+Tableau [Qd Ad 4s Tc 3s]
+Siège 1 : Astarothz s'est couché. avant Flop (n'a pas misé)
+Siège 2 : grees99 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Squirrelavenue (petite blind) s'est couché. avant Flop
+Siège 4 : lediavat (grosse blind) s'est couché. avant Flop
+Siège 5 : elkoki11 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 7 : tetecal10 a montré [4c Qc] et a gagné (3491) avec double paire, Dames et Quatre
+Siège 8 : Break88700 a montré [Js 7h] et a perdu avec Hauteur As
+Siège 9 : RayuRuna a montré [5s Ac] et a perdu avec une paire de As
