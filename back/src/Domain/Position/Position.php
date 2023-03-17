@@ -14,7 +14,7 @@ class Position
             9   => ['UTG', 'UTG+1', 'MP', 'MP+1', 'HJ', 'CO', 'BTN', 'SB', 'BB']
         ];
 
-    public static function getPosition(int $numberOfPlayers, $position): string
+    public static function getPosition(int $numberOfPlayers, int $position): string
     {
         return self::CONST_POSITION_NAMES[$numberOfPlayers][$position];
     }

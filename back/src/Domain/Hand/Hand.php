@@ -29,7 +29,7 @@ class Hand
             $this->initPreFlopAction();
             $this->card = new Card($this->preFlopAction[0]);
         } catch (\Exception $e) {
-
+            echo $e->getMessage();
         }
     }
 
@@ -61,14 +61,32 @@ class Hand
             $this->setIsHandRaisedByPlayerPreFlop($this->rawHandData[$i]);
             $actions[] = $this->rawHandData[$i];
         }
-
+        if (
+            preg_match('/Main PokerStars n°/i', $this->rawHandData[1]) !== 1
+            or
+            preg_match('/-max Siège #/i', $this->rawHandData[2]) !== 1
+        ) {
+            throw new \Exception($this->rawHandData[1] . " \nPas un tournoi\n");
+        }
         $this->initTournament();
 
         array_shift($actions);
         if($this->isHandRaisedByPlayerPreFlop) {
+            $unlessLines = 0;
             for  ($y = 0; $y < count($actions); $y++) {
+                if(
+                    str_contains($actions[$y], 'a dépassé le temps imparti.')
+                    or
+                    str_contains($actions[$y], 'ne joue pas.')
+                    or
+                    str_contains($actions[$y], ' est revenu.')
+                ) {
+                    $unlessLines++;
+                    continue;
+                }
                 if(preg_match('/'.$this->currentPlayer . '/', $actions[$y])) {
-                    $this->position = Position::getPosition($this->tournament->getNumberOfPlayers(), $y);
+                    $realPosition = $y - $unlessLines;
+                    $this->position = Position::getPosition($this->tournament->getNumberOfPlayers(), $realPosition);
                     break;
                 }
             }
