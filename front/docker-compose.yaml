@@ -1,13 +1,13 @@
 version: "3.7"
 
 services:
-  vue-app:
+  node:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: poker-node
     volumes:
-      - .:/app
+      - .:/usr/src/app
     restart: always
     ports:
-      - "801:801"
+      - "8001:3000"
