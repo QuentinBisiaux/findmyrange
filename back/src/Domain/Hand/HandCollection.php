@@ -29,12 +29,13 @@ class HandCollection
             if(!$hand->isHandRaisedByPlayerPreFlop()) continue;
 
             $raised++;
-            $index = $hand->areCardsSuited() ? $hand->getCards() . 's' : $hand->getCards();
-            if(!array_key_exists($hand->getPosition(), $data[$numberOfPlayers])) $data[$numberOfPlayers][$hand->getPosition()] = [];
-            if(!array_key_exists($index, $data[$numberOfPlayers][$hand->getPosition()])) {
-                $data[$numberOfPlayers][$hand->getPosition()][$index] = 1;
+            $index = $hand->getCards()->getCards();
+            $position = $hand->getPosition();
+            if(!array_key_exists($position, $data[$numberOfPlayers])) $data[$numberOfPlayers][$position] = [];
+            if(!array_key_exists($index, $data[$numberOfPlayers][$position])) {
+                $data[$numberOfPlayers][$position][$index] = 1;
             } else {
-                $data[$numberOfPlayers][$hand->getPosition()][$index]++;
+                $data[$numberOfPlayers][$position][$index]++;
             }
         }
         $data['all'] = $this->getHandCount();

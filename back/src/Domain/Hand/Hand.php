@@ -2,6 +2,7 @@
 
 namespace App\Domain\Hand;
 
+use App\Domain\Card\Card;
 use App\Domain\Position\Position;
 use App\Domain\Tournament\Tournament;
 
@@ -17,19 +18,16 @@ class Hand
 
     private array $preFlopAction;
 
-    private string $cards;
-
-    private bool $areCardsSuited;
+    private Card $card;
 
     private bool $isHandRaisedByPlayerPreFlop = false;
 
     public function __construct(array $rawHandData)
     {
         $this->rawHandData = $rawHandData;
-        $this->initTournament();
         try {
             $this->initPreFlopAction();
-            $this->initCards();
+            $this->card = new Card($this->preFlopAction[0]);
         } catch (\Exception $e) {
 
         }
@@ -47,7 +45,7 @@ class Hand
     {
         $keyStart = array_search("*** CARTES FERMÉES ***\n", $this->rawHandData);
         if (preg_match('/\[(\w+)]/i', $this->rawHandData[$keyStart + 1]) === 1) {
-            throw new \Exception('main non jouée');
+            throw new \Exception('Main non jouée');
         }
         $this->setCurrentPlayer($this->rawHandData[$keyStart + 1]);
         $matches = preg_grep('/\*{3} FLOP \*{3} \[(\w+)/i', $this->rawHandData);
@@ -64,6 +62,8 @@ class Hand
             $actions[] = $this->rawHandData[$i];
         }
 
+        $this->initTournament();
+
         array_shift($actions);
         if($this->isHandRaisedByPlayerPreFlop) {
             for  ($y = 0; $y < count($actions); $y++) {
@@ -78,32 +78,6 @@ class Hand
     private function setCurrentPlayer($lineWithPlayer):void
     {
         $this->currentPlayer = explode(' ', $lineWithPlayer)[1];
-    }
-
-    private function initCards(): void
-    {
-        $working = explode(' ', $this->preFlopAction[0]);
-        $working = substr($working[2] . ' ' .$working[3], 1, -2);
-        $cards = explode(' ', $working);
-        $this->areCardsSuited = $cards[0][1] === $cards[1][1];
-        $card1 = substr($cards[0], 0, -1);
-        $card2 = substr($cards[1], 0, -1);
-        $this->cards = $this->sortCards($card1, $card2);
-    }
-
-    private function sortCards(string $card1, string $card2): string
-    {
-        if ($card1 === 'A') return $card1 . $card2;
-        if ($card2 === 'A') return $card2 . $card1;
-        if ($card1 === 'K') return $card1 . $card2;
-        if ($card2 === 'K') return $card2 . $card1;
-        if ($card1 === 'Q') return $card1 . $card2;
-        if ($card2 === 'Q') return $card2 . $card1;
-        if ($card1 === 'J') return $card1 . $card2;
-        if ($card2 === 'J') return $card2 . $card1;
-        if ($card1 === 'T') return $card1 . $card2;
-        if ($card2 === 'T') return $card2 . $card1;
-        return ($card2 > $card1) ? $card2 . $card1 : $card1 . $card2;
     }
 
     private function setIsHandRaisedByPlayerPreFlop($action): void
@@ -128,14 +102,9 @@ class Hand
         return $this->position;
     }
 
-    public function getCards(): string
+    public function getCards(): Card
     {
-        return $this->cards;
-    }
-
-    public function areCardsSuited(): bool
-    {
-        return $this->areCardsSuited;
+        return $this->card;
     }
 
 }
