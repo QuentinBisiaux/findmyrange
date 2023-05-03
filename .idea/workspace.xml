@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95bd19de-97c8-4b87-9753-fa071b650465" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/front/src/assets/img/findmyrange.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/front/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/front/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/Command/ProcessHandFileCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/Command/ProcessHandFileCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/Domain/Hand/Hand.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/Domain/Hand/Hand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/Domain/Hand/HandCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/Domain/Hand/HandCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/var/cache/dev/App_KernelDevDebugContainer.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/var/cache/dev/App_KernelDevDebugContainer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/var/cache/dev/App_KernelDevDebugContainer.php.meta" beforeDir="false" afterPath="$PROJECT_DIR$/back/var/cache/dev/App_KernelDevDebugContainer.php.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/var/cache/dev/App_KernelDevDebugContainer.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/back/var/cache/dev/App_KernelDevDebugContainer.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/var/log/dev.log" beforeDir="false" afterPath="$PROJECT_DIR$/back/var/log/dev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/var/log/php_errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/back/var/log/php_errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/front/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/assets/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +36,7 @@
         <option value="tsconfig.json" />
         <option value="package.json" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -193,7 +201,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/src/assets/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/src" />
+      <recent name="$PROJECT_DIR$/front/src/components/matrice" />
+      <recent name="$PROJECT_DIR$/front/src/components" />
       <recent name="$PROJECT_DIR$/front" />
       <recent name="$PROJECT_DIR$/front/public" />
     </key>
@@ -268,7 +282,11 @@
       <workItem from="1678718023625" duration="11000" />
       <workItem from="1679059852138" duration="19764000" />
       <workItem from="1679233732966" duration="4000" />
-      <workItem from="1679560173501" duration="13102000" />
+      <workItem from="1679560173501" duration="38544000" />
+      <workItem from="1679921317159" duration="11072000" />
+      <workItem from="1680014269245" duration="3985000" />
+      <workItem from="1680179743825" duration="819000" />
+      <workItem from="1682405193578" duration="35000" />
     </task>
     <servers />
   </component>

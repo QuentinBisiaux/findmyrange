@@ -4,3 +4,4 @@
 [01-Mar-2023 22:21:37 UTC] 2023-03-01T22:21:37+00:00 [critical] Uncaught Error: syntax error, unexpected identifier "dump"
 [01-Mar-2023 23:37:56 UTC] 2023-03-01T23:37:56+00:00 [critical] Uncaught Error: syntax error, unexpected token ")", expecting variable or "{" or "$"
 [07-Mar-2023 15:03:31 UTC] 2023-03-07T15:03:31+00:00 [critical] Uncaught Error: syntax error, unexpected token ";"
+[27-Mar-2023 14:33:23 UTC] PHP Fatal error:  Cannot redeclare App\Domain\Hand\Hand::isHandFoldedByHeroPreFlop() in /var/www/src/Domain/Hand/Hand.php on line 167

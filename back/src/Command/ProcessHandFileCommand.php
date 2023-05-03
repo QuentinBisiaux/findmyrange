@@ -53,12 +53,18 @@ class ProcessHandFileCommand extends Command
             $rawHands = $handRawFile->getRawHands();
 
             foreach($rawHands as $rawHand) {
-                $hand = new Hand($rawHand);
-                $handCollection->addHand($hand);
+                try {
+                    $hand = new Hand($rawHand);
+                    $handCollection->addHand($hand);
+                }catch (\Exception $e) {
+                    $io->info($e->getMessage());
+                }
+
             }
         }
+        $handCollection->setMatrix();
         $handCollection->setCardsRaisedPreFlop();
-        dump($handCollection->getCardsRaisedPreFlop());
+        dump(json_encode($handCollection->getMatrix()));
 
         return self::SUCCESS;
     }
